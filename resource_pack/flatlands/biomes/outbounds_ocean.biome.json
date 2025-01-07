@@ -1,0 +1,80 @@
+{
+   "format_version" : "1.13.0",
+   "minecraft:biome" : {
+      "components" : {
+         "badger:overworld_height" : {
+            "height_params": {
+               "texture_heights": [5, 20],
+               "average_height": 10
+            },
+            "noise_type" : "deep_ocean"
+         },
+         "badger:rivers" : {
+            "cell_range" : [ 0, 0 ],
+            "point_chance" : 0.10,
+            "river_biome" : "outbounds_ocean",
+            "river_width" : 16
+         },
+         "badger:visual_biome_attributes" : {
+            "grass" : {
+               "normal" : {
+                  "grass_noise_intensity" : 0.50,
+                  "grass_noise_scale" : 0.50,
+                  "grass_surface_color" : "#BBD669"
+               },
+               "overlay" : {
+                  "grass_overlay_noise_bias" : 0.0,
+                  "grass_overlay_noise_intensity" : 0.0,
+                  "grass_overlay_noise_scale" : 0.0,
+                  "grass_overlay_surface_color" : "#000000"
+               }
+            },
+            "map" : {
+               "biome_banner" : "",
+               "biome_display_name" : "outbounds_ocean",
+               "common_resource_icon" : "",
+               "map_color" : "#00008B",
+               "map_color_odd" : "#1864de",
+               "map_pattern_index" : 9
+            },
+            "particulates" : {
+               "nether_spores" : 0.0,
+               "sparkles" : 0.0
+            },
+            "rain" : {
+               "downfall" : 25.0,
+               "lower_limit" : 0.4000000059604645,
+               "rain_to_snow_height" : 120,
+               "rain_to_snow_transition_size" : 5,
+               "snow_to_rain_density_ratio" : 0.75,
+               "upper_limit" : 1.0
+            },
+            "water" : {
+               "water_blur_distance" : 0.0,
+               "water_color_blend_distance" : 0.0,
+               "water_depths_color" : "#000000",
+               "water_surface_color" : "#000000",
+               "water_surface_transparency" : 0.0
+            }
+         },
+         "minecraft:surface_parameters" : {
+            "air_material" : "badger:block_barrier_soft",
+            "default_surface" : {
+               "mid_material" : "badger:block_sand",
+               "top_material" : "badger:block_sand"
+            },
+            "foundation_material" : "badger:block_stone",
+            "sea_extra_material" : "badger:block_water",
+            "sea_floor_depth" : 7,
+            "sea_floor_material" : "badger:block_gravel",
+            "sea_material" : "badger:block_barrier_soft",
+            "override_subchunk_optimization": true
+         },
+         "monster" : {},
+         "ocean" : {}
+      },
+      "description" : {
+         "identifier" : "outbounds_ocean"
+      }
+   }
+}

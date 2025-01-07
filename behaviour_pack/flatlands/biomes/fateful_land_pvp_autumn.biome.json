@@ -1,0 +1,88 @@
+{
+   "format_version" : "1.13.0",
+   "minecraft:biome" : {
+      "components" : {
+         "badger:overworld_height" : {
+            "height_params" : {
+               "average_height" : 25,
+               "texture_heights": [19, 30]
+            },
+            "noise_params" : [ 0.060, 0.0 ]
+         },
+         "badger:rivers" : {
+            "cell_range" : [ 1, 1 ],
+            "point_chance" : 0.50,
+            "river_biome" : "fateful_land_river",
+            "river_border_width" : 12,
+            "river_width" : 4
+         },
+         "badger:sub_biomes" : {
+            "borders" : [
+               {
+                  "biome" : "fateful_land_border",
+                  "width" : 12
+               }
+            ]
+         },
+         "badger:visual_biome_attributes" : {
+            "grass" : {
+               "normal" : {
+                  "grass_noise_intensity" : 0.50,
+                  "grass_noise_scale" : 0.50,
+                  "grass_surface_color" : "#579945"
+               },
+               "overlay" : {
+                  "grass_overlay_noise_bias" : 0.0,
+                  "grass_overlay_noise_intensity" : 0.8999999761581421,
+                  "grass_overlay_noise_scale" : 0.50,
+                  "grass_overlay_surface_color" : "#C18131"
+               }
+            },
+            "map" : {
+               "biome_banner" : "map_screen/banners/legend_banner_biome_fatelands.png",
+               "biome_display_name" : "fateful_land",
+               "common_resource_icon" : "/icons/resources/resource_stone.png",
+               "map_color" : "#1BD247",
+               "map_color_odd" : "#1BD247 ",
+               "map_pattern_index" : 0
+            },
+            "particulates" : {
+               "nether_spores" : 0.0,
+               "sparkles" : 0.0
+            },
+            "rain" : {
+               "downfall" : 0.0,
+               "lower_limit": 1.0,
+               "rain_to_snow_height" : 120,
+               "rain_to_snow_transition_size" : 5,
+               "snow_to_rain_density_ratio" : 0.75,
+               "upper_limit": 1.0
+            },
+            "water" : {
+               "water_blur_distance" : 15.0,
+               "water_color_blend_distance" : 0.0,
+               "water_depths_color" : "#44AFF5",
+               "water_surface_color" : "#44AFF5",
+               "water_surface_transparency" : 0.6499999761581421
+            }
+         },
+         "fate_autumn" : {},
+         "fatelands_pvp":{},
+         "decorate_exclusive":{},
+         "minecraft:surface_parameters" : {
+            "default_surface" : {
+               "mid_material" : "badger:block_dirt",
+               "top_material" : "minecraft:grass"
+            },
+            "foundation_material" : "badger:block_stone",
+            "sea_floor_depth" : 7,
+            "sea_floor_material" : "badger:block_sand",
+            "sea_material" : "badger:block_water"
+         },
+         "monster" : {}
+      },
+      "description" : {
+         "identifier" : "fateful_land_pvp_autumn"
+      }
+   }
+}

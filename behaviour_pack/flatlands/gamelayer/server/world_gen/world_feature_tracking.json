@@ -1,0 +1,6 @@
+{
+    "feature_removal_distance": 31,
+	"feature_removal_update_cooldown_time_min": 0.1,
+	"feature_removal_update_cooldown_time_max": 0.8,
+	"feature_removal_block_jitter": 3
+}

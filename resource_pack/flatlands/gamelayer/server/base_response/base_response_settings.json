@@ -1,0 +1,137 @@
+{
+  "variation_card_library": [
+    {
+      "unique_card_id": "serious_card_test",
+      "debug_name": "Serious card",
+      "category": "flavour",
+      "value": "serious_card",
+      "tags": []
+    },
+    {
+      "unique_card_id": "serious_card_test2",
+      "debug_name": "Serious card",
+      "category": "flavour",
+      "value": "serious_card",
+      "tags": []
+    },
+    {
+      "unique_card_id": "flavour_villageVariationDefault",
+      "debug_name": "Variation Default",
+      "category": "flavour",
+      "value": "villageVariationDefault",
+      "tags": []
+    },
+    {
+      "unique_card_id": "flavour_villageVariationA",
+      "debug_name": "Variation A",
+      "category": "flavour",
+      "value": "villageVariationA",
+      "tags": []
+    },
+    {
+      "unique_card_id": "flavour_villageVariationB",
+      "debug_name": "Variation B",
+      "category": "flavour",
+      "value": "villageVariationB",
+      "tags": []
+    },
+    {
+      "unique_card_id": "flavour_villageVariationC",
+      "debug_name": "Variation C",
+      "category": "flavour",
+      "value": "villageVariationC",
+      "tags": []
+    },
+    {
+      "unique_card_id": "flavour_villageVariationD",
+      "debug_name": "Variation D",
+      "category": "flavour",
+      "value": "villageVariationD",
+      "tags": []
+    },
+    {
+      "unique_card_id": "objective_villageVariationDefault",
+      "debug_name": "Variation Default",
+      "category": "objective",
+      "value": "villageVariationDefault",
+      "tags": []
+    },
+    {
+      "unique_card_id": "objective_villageVariationStructureDestruction",
+      "debug_name": "Variation Structure Destruction",
+      "category": "objective",
+      "value": "villageVariationStructureDestruction",
+      "tags": []
+    },
+    {
+      "unique_card_id": "objective_villageVariationRaidingParty",
+      "debug_name": "Variation Raiding Party",
+      "category": "objective",
+      "value": "villageVariationRaidingParty",
+      "tags": []
+    },
+    {
+      "unique_card_id": "base_loot_iron",
+      "debug_name": "Common Base Loot",
+      "category": "base_loot",
+      "value": "iron",
+      "tags": []
+    },
+    {
+      "unique_card_id": "base_loot_gold",
+      "debug_name": "Gold Base Loot",
+      "category": "base_loot",
+      "value": "gold",
+      "tags": []
+    },
+    {
+      "unique_card_id": "base_loot_coal",
+      "debug_name": "Coal Base Loot",
+      "category": "base_loot",
+      "value": "coal",
+      "tags": []
+    },
+    {
+      "unique_card_id": "base_loot_diamond",
+      "debug_name": "Diamond Base Loot",
+      "category": "base_loot",
+      "value": "diamond",
+      "tags": []
+    },
+    {
+      "unique_card_id": "base_loot_redstone",
+      "debug_name": "Redstone Base Loot",
+      "category": "base_loot",
+      "value": "redstone",
+      "tags": []
+    },
+    {
+      "unique_card_id": "base_loot_xp_common",
+      "debug_name": "Prismarine Base Loot",
+      "category": "base_loot",
+      "value": "xp_common",
+      "tags": []
+    },
+    {
+      "unique_card_id": "invasion_attack_strength_1",
+      "debug_name": "Village Attack Strength 1",
+      "category": "invasion_attack_strength",
+      "value": "1",
+      "tags": []
+    },
+    {
+      "unique_card_id": "invasion_attack_strength_2",
+      "debug_name": "Village Attack Strength 2",
+      "category": "invasion_attack_strength",
+      "value": "2",
+      "tags": []
+    },
+    {
+      "unique_card_id": "invasion_attack_strength_3",
+      "debug_name": "Village Attack Strength 3",
+      "category": "invasion_attack_strength",
+      "value": "3",
+      "tags": []
+    }
+  ]
+}

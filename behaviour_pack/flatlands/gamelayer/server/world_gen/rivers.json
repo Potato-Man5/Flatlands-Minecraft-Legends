@@ -1,0 +1,7 @@
+{
+  "settings": {
+    "enabled": true,
+    "river_cell_sample_density" : 200,
+    "cell_group_id_placements" : 1
+  }
+}

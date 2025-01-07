@@ -1,0 +1,81 @@
+{
+   "format_version" : "1.13.0",
+   "minecraft:biome" : {
+      "components" : {
+         "animal" : {},
+         "badger:overworld_height" : {
+            
+            "frequency_scale" : 1.40,
+            "height_params" : {
+               "average_height" : 25,
+               "texture_heights": [19, 40],
+               "clamp_heights": [19, 40],
+               "clamp_scales": [0.2, 0.2]
+            },
+            "noise_params" : [ 0.060, 0.120 ]
+         },
+         "badger:rivers" : {
+            "river_biome" : "jungle_river"
+         },
+         "badger:visual_biome_attributes" : {
+            "grass" : {
+               "normal" : {
+                  "grass_noise_intensity" : 1.0,
+                  "grass_noise_scale" : 1.0,
+                  "grass_surface_color" : "#4B9146"
+               },
+               "overlay" : {
+                  "grass_overlay_noise_bias" : 0.0,
+                  "grass_overlay_noise_intensity" : 0.0,
+                  "grass_overlay_noise_scale" : 0.0,
+                  "grass_overlay_surface_color" : "#000000"
+               }
+            },
+            "map" : {
+               "biome_banner" : "map_screen/banners/legend_banner_biome_junglelands.png",
+               "biome_display_name" : "jungle",
+               "common_resource_icon" : "/icons/resources/resource_redstone.png",
+               "map_color" : "#5bc236",
+               "map_color_odd" : "#5bc236",
+               "map_pattern_index" : 6
+            },
+            "particulates" : {
+               "nether_spores" : 0.0,
+               "sparkles" : 0.0
+            },
+            "rain" : {
+               "downfall" : 50.0,
+               "lower_limit" : 0.0,
+               "rain_to_snow_height" : 999,
+               "rain_to_snow_transition_size" : 5,
+               "snow_to_rain_density_ratio" : 0.75,
+               "upper_limit" : 0.009999999776482582
+            },
+            "water" : {
+               "water_blur_distance" : 15.0,
+               "water_color_blend_distance" : 0.0,
+               "water_depths_color" : "#019792",
+               "water_surface_color" : "#013A48",
+               "water_surface_transparency" : 0.6000000238418579
+            }
+         },
+         "decorate_priority" : {},
+         "minecraft:surface_parameters" : {
+            "default_surface" : {
+               "mid_material" : "badger:block_dirt",
+               "top_material" : "minecraft:grass"
+            },
+            "foundation_material" : "badger:block_stone",
+            "sea_floor_depth" : 7,
+            "sea_floor_material" : "badger:block_gravel",
+            "sea_material" : "badger:block_water"
+         },
+         "monster" : {},
+         "overworld" : {},
+         "sparse_jungle" : {}
+      },
+      "description" : {
+         "identifier" : "sparse_jungle"
+      }
+   }
+}

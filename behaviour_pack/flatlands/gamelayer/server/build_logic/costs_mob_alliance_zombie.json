@@ -1,0 +1,569 @@
+{
+  "buildable_cards": [
+    {
+      "unique_card_id": "badger_zombieVillageCenter",
+      "cost": 0,
+      "tags": [
+        "zombieVillageCenter"
+      ],
+      "buildable": "badger:mob_alliance_zombie_central_flame"
+    },
+    {
+      "unique_card_id": "badger_zombieVillageHome1",
+      "cost": 0,
+      "tags": [
+        "zombieVillageHome1"
+      ],
+      "buildable": "badger:mob_alliance_zombie_house"
+    },
+    {
+      "unique_card_id": "badger_zombieVillageHome2",
+      "cost": 0,
+      "tags": [
+        "zombieVillageHome2"
+      ],
+      "buildable": "badger:mob_alliance_zombie_house_2"
+    },
+    {
+      "unique_card_id": "badger_zombieVillageHome3",
+      "cost": 0,
+      "tags": [
+        "zombieVillageHome3"
+      ],
+      "buildable": "badger:mob_alliance_zombie_house_3"
+    },
+    {
+      "unique_card_id": "badger_zombieVillageHome4",
+      "cost": 0,
+      "tags": [
+        "zombieVillageHome4"
+      ],
+      "buildable": "badger:mob_alliance_zombie_house_4"
+    },
+    {
+      "unique_card_id": "badger_zombieVillageCineHouse",
+      "cost": 0,
+      "tags": [
+        "zombieVillageCineHouse"
+      ],
+      "buildable": "badger:mob_alliance_zombie_house_4"
+    },
+    {
+      "unique_card_id": "badger_zombieDeco1",
+      "cost": 0,
+      "tags": [
+        "zombieDeco1"
+      ],
+      "buildable": "badger:mob_alliance_zombie_deco"
+    },
+    {
+      "unique_card_id": "badger_zombieDeco2",
+      "cost": 0,
+      "tags": [
+        "zombieDeco2"
+      ],
+      "buildable": "badger:mob_alliance_zombie_deco_2"
+    },
+    {
+      "unique_card_id": "badger_zombieDeco3",
+      "cost": 0,
+      "tags": [
+        "zombieDeco3"
+      ],
+      "buildable": "badger:mob_alliance_zombie_deco_3"
+    },
+    {
+      "unique_card_id": "badger_zombieDeco4",
+      "cost": 0,
+      "tags": [
+        "zombieDeco4"
+      ],
+      "buildable": "badger:mob_alliance_zombie_deco_4"
+    }
+  ],
+  "walls_cards": [
+    {
+      "unique_card_id": "zombieMobAlliancePiglinWalls",
+      "cost": 0,
+      "tags": [
+        "zombieMobAlliancePiglinWalls"
+      ],
+      "wall_buildable": "badger:terraform_piglin_nether",
+      "path_entrance": "badger:gate_piglin",
+      "embedded_buildables": [
+        "badger:gate_piglin",
+        "badger:gate_piglin",
+        "badger:gate_piglin",
+        "badger:gate_piglin",
+        "badger:gate_piglin",
+        "badger:gate_piglin",
+        "badger:gate_piglin",
+        "badger:gate_piglin",
+        "badger:gate_piglin",
+        "badger:gate_piglin"
+      ]
+    },
+    {
+      "unique_card_id": "zombieMobAllianceInnerPiglinWalls",
+      "cost": 0,
+      "tags": [
+        "zombieMobAllianceInnerPiglinWalls"
+      ],
+      "wall_buildable": "badger:terraform_piglin_nether",
+      "path_entrance": "badger:gate_piglin_inner",
+      "embedded_buildables": [
+        "badger:gate_piglin_inner",
+        "badger:gate_piglin_inner",
+        "badger:gate_piglin_inner",
+        "badger:gate_piglin_inner"
+      ]
+    }
+  ],
+  "zone_tag_cards": [
+    {
+      "unique_card_id": "zone_tag_cards_outerZombieZone",
+      "cost": 0,
+      "tags": [
+        "outerZombieZone"
+      ],
+      "zone_tag": "outisde_zombie_village"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombiePiglinCenterRingLowerZonesBuildings",
+      "cost": 0,
+      "tags": [
+        "zombiePiglinCenterRingLowerZonesBuildings"
+      ],
+      "zone_tag": "zombiePiglinCenterRingLowerZonesBuildings"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombiePiglinWallOfSpreadersLayerTag",
+      "cost": 0,
+      "tags": [
+        "zombiePiglinWallOfSpreadersLayerTag"
+      ],
+      "zone_tag": "zombiePiglinWallOfSpreadersLayer"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombiePiglinCenterRingLowestZonesBuildings",
+      "cost": 0,
+      "tags": [
+        "zombiePiglinCenterRingLowestZonesBuildings"
+      ],
+      "zone_tag": "zombiePiglinCenterRingLowestZonesBuildings"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombieSiegeZoneTag",
+      "cost": 0,
+      "tags": [
+        "zombieSiegeZoneTag"
+      ],
+      "zone_tag": "zombieSiegeZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombieCenterDeadZone",
+      "cost": 0,
+      "tags": [
+        "zombieCenterDeadZone"
+      ],
+      "zone_tag": "zombieCenterDeadZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombieTotemOnlyZone",
+      "cost": 0,
+      "tags": [
+        "zombieTotemOnlyZone"
+      ],
+      "zone_tag": "zombieTotemOnlyZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombieHouseZone",
+      "cost": 0,
+      "tags": [
+        "zombieHouseZone"
+      ],
+      "zone_tag": "zombieHouseZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombieDecoZone",
+      "cost": 0,
+      "tags": [
+        "zombieDecoZone"
+      ],
+      "zone_tag": "zombieDecoZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombieCenterRingLowerZonesBuildings",
+      "cost": 0,
+      "tags": [
+        "zombieCenterRingLowerZonesBuildings"
+      ],
+      "zone_tag": "zombieCenterRingLowerZonesBuildings"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombieCenterRingLowestZonesBuildings",
+      "cost": 0,
+      "tags": [
+        "zombieCenterRingLowestZonesBuildings"
+      ],
+      "zone_tag": "zombieCenterRingLowestZonesBuildings"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombieOuterRingLowerZonesBuildings",
+      "cost": 0,
+      "tags": [
+        "zombieOuterRingLowerZonesBuildings"
+      ],
+      "zone_tag": "zombieOuterRingLowerZonesBuildings"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombieCageZones",
+      "cost": 0,
+      "tags": [
+        "zombieCageZones"
+      ],
+      "zone_tag": "zombieCageZones"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombieCageCloseToCenterZone",
+      "cost": 0,
+      "tags": [
+        "zombieCageCloseToCenterZone"
+      ],
+      "zone_tag": "zombieCageCloseToCenterZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombieNorthDistrict",
+      "cost": 0,
+      "tags": [
+        "zombieNorthDistrict"
+      ],
+      "zone_tag": "zombieNorthDistrict"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombieSouthDistrict",
+      "cost": 0,
+      "tags": [
+        "zombieSouthDistrict"
+      ],
+      "zone_tag": "zombieSouthDistrict"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombieEastDistrict",
+      "cost": 0,
+      "tags": [
+        "zombieEastDistrict"
+      ],
+      "zone_tag": "zombieEastDistrict"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombieWestDistrict",
+      "cost": 0,
+      "tags": [
+        "zombieWestDistrict"
+      ],
+      "zone_tag": "zombieWestDistrict"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_zombieViewpointZone",
+      "cost": 0,
+      "tags": [
+        "zombieViewpointZone"
+      ],
+      "zone_tag": "zombieViewpointZone"
+    }
+  ],
+  "zone_filter_cards": [
+    {
+      "unique_card_id": "zone_filter_cards_zombieCenterDeadZone",
+      "cost": 0,
+      "tags": [
+        "zombieCenterDeadZone"
+      ],
+      "zone_filter": "zombieCenterDeadZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombieTotemOnlyZone",
+      "cost": 0,
+      "tags": [
+        "zombieTotemOnlyZone"
+      ],
+      "zone_filter": "zombieTotemOnlyZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombieHouseZone",
+      "cost": 0,
+      "tags": [
+        "zombieHouseZone"
+      ],
+      "zone_filter": "zombieHouseZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombieDecoZone",
+      "cost": 0,
+      "tags": [
+        "zombieDecoZone"
+      ],
+      "zone_filter": "zombieDecoZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_placeInsideZombieVillageAlways",
+      "cost": 0,
+      "tags": [
+        "placeInsideZombieVillageAlways"
+      ],
+      "zone_filter": "inside_village",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombieCenterRingLowerZonesBuildings",
+      "cost": 0,
+      "tags": [
+        "zombieCenterRingLowerZonesBuildings"
+      ],
+      "zone_filter": "zombieCenterRingLowerZonesBuildings",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombieCenterRingLowestZonesBuildings",
+      "cost": 0,
+      "tags": [
+        "zombieCenterRingLowestZonesBuildings"
+      ],
+      "zone_filter": "zombieCenterRingLowestZonesBuildings",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombieOuterRingLowerZonesBuildings",
+      "cost": 0,
+      "tags": [
+        "zombieOuterRingLowerZonesBuildings"
+      ],
+      "zone_filter": "zombieOuterRingLowerZonesBuildings",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombieSiegeZone",
+      "cost": 0,
+      "tags": [
+        "zombieSiegeZone"
+      ],
+      "zone_filter": "zombieSiegeZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombieViewpointZone",
+      "cost": 0,
+      "tags": [
+        "zombieViewpointZone"
+      ],
+      "zone_filter": "zombieViewpointZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombiePiglinCenterRingLowerZonesBuildings",
+      "cost": 0,
+      "tags": [
+        "zombiePiglinCenterRingLowerZonesBuildings"
+      ],
+      "zone_filter": "zombiePiglinCenterRingLowerZonesBuildings",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombiePiglinWallOfSpreadersLayer",
+      "cost": 0,
+      "tags": [
+        "zombiePiglinWallOfSpreadersLayer"
+      ],
+      "zone_filter": "zombiePiglinWallOfSpreadersLayer",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombiePiglinCenterRingLowestZonesBuildings",
+      "cost": 0,
+      "tags": [
+        "zombiePiglinCenterRingLowestZonesBuildings"
+      ],
+      "zone_filter": "zombiePiglinCenterRingLowestZonesBuildings",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_placeInsideZombiePiglinVillageAlways",
+      "cost": 0,
+      "tags": [
+        "placeInsideZombiePiglinVillageAlways"
+      ],
+      "zone_filter": "inside_village",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombieCageZones",
+      "cost": 0,
+      "tags": [
+        "zombieCageZones"
+      ],
+      "zone_filter": "zombieCageZones",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombieCageCloseToCenterZone",
+      "cost": 0,
+      "tags": [
+        "zombieCageCloseToCenterZone"
+      ],
+      "zone_filter": "zombieCageCloseToCenterZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombieNorthDistrict",
+      "cost": 0,
+      "tags": [
+        "zombieNorthDistrict"
+      ],
+      "zone_filter": "zombieNorthDistrict",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombieSouthDistrict",
+      "cost": 0,
+      "tags": [
+        "zombieSouthDistrict"
+      ],
+      "zone_filter": "zombieSouthDistrict",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombieEastDistrict",
+      "cost": 0,
+      "tags": [
+        "zombieEastDistrict"
+      ],
+      "zone_filter": "zombieEastDistrict",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_zombieWestDistrict",
+      "cost": 0,
+      "tags": [
+        "zombieWestDistrict"
+      ],
+      "zone_filter": "zombieWestDistrict",
+      "exclude": false
+    }
+  ],
+  "placement_preference_cards": [
+    {
+      "unique_card_id": "zombieconnectToPath",
+      "cost": 0,
+      "tags": [
+        "zombieconnectToPath"
+      ],
+      "placement_preference": "connect_to_path"
+    },
+    {
+      "unique_card_id": "placeCageInDirectionEast",
+      "cost": 0,
+      "tags": [
+        "placeCageInDirectionEast"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 0,
+      "rectangle_width": 30
+    },
+    {
+      "unique_card_id": "facing_buildables_zombie_center",
+      "cost": 0,
+      "tags": [
+        "facing_buildables_zombie_center"
+      ],
+      "placement_preference": "facing_buildable",
+      "buildable": "mob_alliance_zombie"
+    }
+  ],
+  "zone_height_change_cards": [
+    {
+      "unique_card_id": "makeZombieMobAlliancePiglinBaseTaller",
+      "cost": 0,
+      "tags": [
+        "makeZombieMobAlliancePiglinBaseTaller"
+      ],
+      "biome": "nether",
+      "zone_height_change": 1,
+      "zone_height_control": "height_control_centered"
+    }
+  ],
+  "tag_cards": [
+    {
+      "unique_card_id": "cageCloseToCenter",
+      "cost": 0,
+      "tags": [
+        "cageCloseToCenter"
+      ],
+      "tag": "cageCloseToCenter"
+    },
+    {
+      "unique_card_id": "piglinBaseCages",
+      "cost": 0,
+      "tags": [
+        "piglinBaseCages"
+      ],
+      "tag": "piglinBaseCages"
+    },
+    {
+      "unique_card_id": "zombieInitialOccupationViewpoint",
+      "cost": 0,
+      "tags": [
+        "zombieInitialOccupationViewpoint"
+      ],
+      "tag": "zombieInitialOccupationViewpoint"
+    }
+  ],
+  "district_cards": [
+    {
+      "unique_card_id": "district_cards_zombieNorthDistrict",
+      "cost": 0,
+      "tags": [
+        "zombieNorthDistrict"
+      ],
+      "district": "zombieNorthDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_zombieSouthDistrict",
+      "cost": 0,
+      "tags": [
+        "zombieSouthDistrict"
+      ],
+      "district": "zombieSouthDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_zombieEastDistrict",
+      "cost": 0,
+      "tags": [
+        "zombieEastDistrict"
+      ],
+      "district": "zombieEastDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_zombieWestDistrict",
+      "cost": 0,
+      "tags": [
+        "zombieWestDistrict"
+      ],
+      "district": "zombieWestDistrict"
+    }
+  ],
+  "path_cards": [
+    {
+      "unique_card_id": "zombie_district_path",
+      "cost": 0,
+      "tags": [
+        "zombie_district_path"
+      ],
+      "is_district_path": true
+    }
+  ]
+}

@@ -1,0 +1,2118 @@
+{
+  "buildable_cards": [
+    {
+      "unique_card_id": "badger_onboardingGenericMarker",
+      "cost": 0,
+      "tags": [
+        "onboardingGenericMarker"
+      ],
+      "buildable": "badger:onboarding_generic_marker"
+    },
+    {
+      "unique_card_id": "badger_onboardingGenericSpawner",
+      "cost": 0,
+      "tags": [
+        "onboardingGenericSpawner"
+      ],
+      "buildable": "badger:onboarding_generic_spawner"
+    },
+    {
+      "unique_card_id": "badger_onboardingDirectPlatform",
+      "cost": 0,
+      "tags": [
+        "onboardingDirectPlatform"
+      ],
+      "buildable": "badger:onboarding_direct_platform"
+    },
+    {
+      "unique_card_id": "badger_onboardingRallyingPlatform",
+      "cost": 0,
+      "tags": [
+        "onboardingRallyingPlatform"
+      ],
+      "buildable": "badger:onboarding_rallying_platform"
+    },
+    {
+      "unique_card_id": "badger_onboardingSecondRallyingPlatform",
+      "cost": 0,
+      "tags": [
+        "onboardingSecondRallyingPlatform"
+      ],
+      "buildable": "badger:onboarding_second_rallying_platform"
+    },
+    {
+      "unique_card_id": "badger_onboardingWorldCentralPiece",
+      "cost": 0,
+      "tags": [
+        "onboardingWorldCentralPiece"
+      ],
+      "buildable": "badger:onboarding_world_central_piece"
+    },
+    {
+      "unique_card_id": "badger_onboardingSpawnPoint",
+      "cost": 0,
+      "tags": [
+        "onboardingSpawnPoint"
+      ],
+      "buildable": "badger:onboarding_spawn_point"
+    },
+    {
+      "unique_card_id": "badger_onboardingToolPedestal",
+      "cost": 0,
+      "tags": [
+        "onboardingToolPedestal"
+      ],
+      "buildable": "badger:onboarding_tool_pedestal"
+    },
+    {
+      "unique_card_id": "badger_onboardingNetherSpreader",
+      "cost": 0,
+      "tags": [
+        "onboardingNetherSpreader"
+      ],
+      "buildable": "badger:onboarding_nether_spreader"
+    },
+    {
+      "unique_card_id": "badger_islandHostStructure",
+      "cost": 0,
+      "tags": [
+        "islandHostStructure"
+      ],
+      "buildable": "badger:onboarding_host_structure_island"
+    },
+    {
+      "unique_card_id": "badger_islandCombatStructure",
+      "cost": 0,
+      "tags": [
+        "islandCombatStructure"
+      ],
+      "buildable": "badger:onboarding_host_structure_combat"
+    },
+    {
+      "unique_card_id": "badger_onboardingteleporterpiece",
+      "cost": 0,
+      "tags": [
+        "onboardingteleporterpiece"
+      ],
+      "buildable": "badger:onboarding_world_teleporter_piece"
+    },
+    {
+      "unique_card_id": "badger_onboardingResources",
+      "cost": 0,
+      "tags": [
+        "onboardingResources"
+      ],
+      "buildable": "badger:onboarding_resources"
+    },
+    {
+      "unique_card_id": "badger_onboardingResourcesWood",
+      "cost": 0,
+      "tags": [
+        "onboardingResourcesWood"
+      ],
+      "buildable": "badger:onboarding_resources_wood"
+    },
+    {
+      "unique_card_id": "badger_onboardingResourcesWoodSmall",
+      "cost": 0,
+      "tags": [
+        "onboardingResourcesWoodSmall"
+      ],
+      "buildable": "badger:onboarding_resources_wood_small"
+    },
+    {
+      "unique_card_id": "badger_onboardingResourcesStoneSmall",
+      "cost": 0,
+      "tags": [
+        "onboardingResourcesStoneSmall"
+      ],
+      "buildable": "badger:onboarding_resources_stone_small"
+    },
+    {
+      "unique_card_id": "badger_onboardingResourcesStone",
+      "cost": 0,
+      "tags": [
+        "onboardingResourcesStone"
+      ],
+      "buildable": "badger:onboarding_resources_stone"
+    }
+  ],
+  "tag_cards": [
+    {
+      "unique_card_id": "islandGenericMarker",
+      "cost": 0,
+      "tags": [
+        "islandGenericMarker"
+      ],
+      "tag": "islandGenericMarker"
+    },
+    {
+      "unique_card_id": "flameIslandGenericMarker",
+      "cost": 0,
+      "tags": [
+        "flameIslandGenericMarker"
+      ],
+      "tag": "flameIslandGenericMarker"
+    },
+    {
+      "unique_card_id": "flameIslandMainStructure",
+      "cost": 0,
+      "tags": [
+        "flameIslandMainStructure"
+      ],
+      "tag": "flameIslandMainStructure"
+    },
+    {
+      "unique_card_id": "combatPlateauGenericMarker",
+      "cost": 0,
+      "tags": [
+        "combatPlateauGenericMarker"
+      ],
+      "tag": "combatPlateauGenericMarker"
+    }
+  ],
+  "zone_tag_cards": [
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone1",
+      "cost": 0,
+      "tags": [
+        "onboardingZone1"
+      ],
+      "zone_tag": "onboardingZone1"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone2",
+      "cost": 0,
+      "tags": [
+        "onboardingZone2"
+      ],
+      "zone_tag": "onboardingZone2"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone3",
+      "cost": 0,
+      "tags": [
+        "onboardingZone3"
+      ],
+      "zone_tag": "onboardingZone3"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone4",
+      "cost": 0,
+      "tags": [
+        "onboardingZone4"
+      ],
+      "zone_tag": "onboardingZone4"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone5",
+      "cost": 0,
+      "tags": [
+        "onboardingZone5"
+      ],
+      "zone_tag": "onboardingZone5"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone6",
+      "cost": 0,
+      "tags": [
+        "onboardingZone6"
+      ],
+      "zone_tag": "onboardingZone6"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone7",
+      "cost": 0,
+      "tags": [
+        "onboardingZone7"
+      ],
+      "zone_tag": "onboardingZone7"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone8",
+      "cost": 0,
+      "tags": [
+        "onboardingZone8"
+      ],
+      "zone_tag": "onboardingZone8"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone9",
+      "cost": 0,
+      "tags": [
+        "onboardingZone9"
+      ],
+      "zone_tag": "onboardingZone9"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone10",
+      "cost": 0,
+      "tags": [
+        "onboardingZone10"
+      ],
+      "zone_tag": "onboardingZone10"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone11",
+      "cost": 0,
+      "tags": [
+        "onboardingZone11"
+      ],
+      "zone_tag": "onboardingZone11"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone12",
+      "cost": 0,
+      "tags": [
+        "onboardingZone12"
+      ],
+      "zone_tag": "onboardingZone12"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone13",
+      "cost": 0,
+      "tags": [
+        "onboardingZone13"
+      ],
+      "zone_tag": "onboardingZone13"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone14",
+      "cost": 0,
+      "tags": [
+        "onboardingZone14"
+      ],
+      "zone_tag": "onboardingZone14"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone15",
+      "cost": 0,
+      "tags": [
+        "onboardingZone15"
+      ],
+      "zone_tag": "onboardingZone15"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone16",
+      "cost": 0,
+      "tags": [
+        "onboardingZone16"
+      ],
+      "zone_tag": "onboardingZone16"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone17",
+      "cost": 0,
+      "tags": [
+        "onboardingZone17"
+      ],
+      "zone_tag": "onboardingZone17"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone18",
+      "cost": 0,
+      "tags": [
+        "onboardingZone18"
+      ],
+      "zone_tag": "onboardingZone18"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone19",
+      "cost": 0,
+      "tags": [
+        "onboardingZone19"
+      ],
+      "zone_tag": "onboardingZone19"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone20",
+      "cost": 0,
+      "tags": [
+        "onboardingZone20"
+      ],
+      "zone_tag": "onboardingZone20"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone21",
+      "cost": 0,
+      "tags": [
+        "onboardingZone21"
+      ],
+      "zone_tag": "onboardingZone21"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone22",
+      "cost": 0,
+      "tags": [
+        "onboardingZone22"
+      ],
+      "zone_tag": "onboardingZone22"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone23",
+      "cost": 0,
+      "tags": [
+        "onboardingZone23"
+      ],
+      "zone_tag": "onboardingZone23"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone24",
+      "cost": 0,
+      "tags": [
+        "onboardingZone24"
+      ],
+      "zone_tag": "onboardingZone24"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone25",
+      "cost": 0,
+      "tags": [
+        "onboardingZone25"
+      ],
+      "zone_tag": "onboardingZone25"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone26",
+      "cost": 0,
+      "tags": [
+        "onboardingZone26"
+      ],
+      "zone_tag": "onboardingZone26"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone27",
+      "cost": 0,
+      "tags": [
+        "onboardingZone27"
+      ],
+      "zone_tag": "onboardingZone27"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone28",
+      "cost": 0,
+      "tags": [
+        "onboardingZone28"
+      ],
+      "zone_tag": "onboardingZone28"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone29",
+      "cost": 0,
+      "tags": [
+        "onboardingZone29"
+      ],
+      "zone_tag": "onboardingZone29"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone30",
+      "cost": 0,
+      "tags": [
+        "onboardingZone30"
+      ],
+      "zone_tag": "onboardingZone30"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone31",
+      "cost": 0,
+      "tags": [
+        "onboardingZone31"
+      ],
+      "zone_tag": "onboardingZone31"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone32",
+      "cost": 0,
+      "tags": [
+        "onboardingZone32"
+      ],
+      "zone_tag": "onboardingZone32"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone33",
+      "cost": 0,
+      "tags": [
+        "onboardingZone33"
+      ],
+      "zone_tag": "onboardingZone33"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone34",
+      "cost": 0,
+      "tags": [
+        "onboardingZone34"
+      ],
+      "zone_tag": "onboardingZone34"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone35",
+      "cost": 0,
+      "tags": [
+        "onboardingZone35"
+      ],
+      "zone_tag": "onboardingZone35"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone36",
+      "cost": 0,
+      "tags": [
+        "onboardingZone36"
+      ],
+      "zone_tag": "onboardingZone36"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone37",
+      "cost": 0,
+      "tags": [
+        "onboardingZone37"
+      ],
+      "zone_tag": "onboardingZone37"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZone38",
+      "cost": 0,
+      "tags": [
+        "onboardingZone38"
+      ],
+      "zone_tag": "onboardingZone38"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneIsland1",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland1"
+      ],
+      "zone_tag": "onboardingZoneIsland1"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneIsland2",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland2"
+      ],
+      "zone_tag": "onboardingZoneIsland2"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneIsland3",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland3"
+      ],
+      "zone_tag": "onboardingZoneIsland3"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneIsland4",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland4"
+      ],
+      "zone_tag": "onboardingZoneIsland4"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneIsland5",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland5"
+      ],
+      "zone_tag": "onboardingZoneIsland5"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneIsland6",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland6"
+      ],
+      "zone_tag": "onboardingZoneIsland6"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneIsland7",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland7"
+      ],
+      "zone_tag": "onboardingZoneIsland7"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneIsland8",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland8"
+      ],
+      "zone_tag": "onboardingZoneIsland8"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneIsland9",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland9"
+      ],
+      "zone_tag": "onboardingZoneIsland9"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneIsland10",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland10"
+      ],
+      "zone_tag": "onboardingZoneIsland10"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneIsland11",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland11"
+      ],
+      "zone_tag": "onboardingZoneIsland11"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneIsland12",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland12"
+      ],
+      "zone_tag": "onboardingZoneIsland12"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneIsland13",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland13"
+      ],
+      "zone_tag": "onboardingZoneIsland13"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneIsland14",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland14"
+      ],
+      "zone_tag": "onboardingZoneIsland14"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneIsland15",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland15"
+      ],
+      "zone_tag": "onboardingZoneIsland15"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneIsland16",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland16"
+      ],
+      "zone_tag": "onboardingZoneIsland16"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland1",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland1"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland1"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland2",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland2"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland2"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland3",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland3"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland3"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland4",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland4"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland4"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland5",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland5"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland5"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland6",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland6"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland6"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland7",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland7"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland7"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland8",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland8"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland8"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland9",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland9"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland9"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland10",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland10"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland10"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland11",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland11"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland11"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland12",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland12"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland12"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland13",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland13"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland13"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland14",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland14"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland14"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland15",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland15"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland15"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland16",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland16"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland16"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland17",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland17"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland17"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland18",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland18"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland18"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland19",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland19"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland19"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland20",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland20"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland20"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland21",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland21"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland21"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland22",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland22"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland22"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland23",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland23"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland23"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland24",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland24"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland24"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland25",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland25"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland25"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland26",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland26"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland26"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland27",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland27"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland27"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland28",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland28"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland28"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland29",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland29"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland29"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneFlameIsland30",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland30"
+      ],
+      "zone_tag": "onboardingZoneFlameIsland30"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingGenericMarkerCombatZones1",
+      "cost": 0,
+      "tags": [
+        "onboardingGenericMarkerCombatZones1"
+      ],
+      "zone_tag": "onboardingGenericMarkerCombatZones1"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingGenericMarkerCombatZones2",
+      "cost": 0,
+      "tags": [
+        "onboardingGenericMarkerCombatZones2"
+      ],
+      "zone_tag": "onboardingGenericMarkerCombatZones2"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingGenericMarkerCombatZones3",
+      "cost": 0,
+      "tags": [
+        "onboardingGenericMarkerCombatZones3"
+      ],
+      "zone_tag": "onboardingGenericMarkerCombatZones3"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingGenericMarkerCombatZones4",
+      "cost": 0,
+      "tags": [
+        "onboardingGenericMarkerCombatZones4"
+      ],
+      "zone_tag": "onboardingGenericMarkerCombatZones4"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneCombatPlateau1",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau1"
+      ],
+      "zone_tag": "onboardingZoneCombatPlateau1"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneCombatPlateau2",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau2"
+      ],
+      "zone_tag": "onboardingZoneCombatPlateau2"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneCombatPlateau3",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau3"
+      ],
+      "zone_tag": "onboardingZoneCombatPlateau3"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneCombatPlateau4",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau4"
+      ],
+      "zone_tag": "onboardingZoneCombatPlateau4"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneCombatPlateau5",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau5"
+      ],
+      "zone_tag": "onboardingZoneCombatPlateau5"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneCombatPlateau6",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau6"
+      ],
+      "zone_tag": "onboardingZoneCombatPlateau6"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneCombatPlateau7",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau7"
+      ],
+      "zone_tag": "onboardingZoneCombatPlateau7"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneCombatPlateau8",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau8"
+      ],
+      "zone_tag": "onboardingZoneCombatPlateau8"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneCombatPlateau9",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau9"
+      ],
+      "zone_tag": "onboardingZoneCombatPlateau9"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneCombatPlateau10",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau10"
+      ],
+      "zone_tag": "onboardingZoneCombatPlateau10"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneCombatPlateau11",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau11"
+      ],
+      "zone_tag": "onboardingZoneCombatPlateau11"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneCombatPlateau12",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau12"
+      ],
+      "zone_tag": "onboardingZoneCombatPlateau12"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneCombatPlateau13",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau13"
+      ],
+      "zone_tag": "onboardingZoneCombatPlateau13"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneCombatPlateau14",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau14"
+      ],
+      "zone_tag": "onboardingZoneCombatPlateau14"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneCombatPlateau15",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau15"
+      ],
+      "zone_tag": "onboardingZoneCombatPlateau15"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_onboardingZoneCombatPlateau16",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau16"
+      ],
+      "zone_tag": "onboardingZoneCombatPlateau16"
+    }
+  ],
+  "zone_filter_cards": [
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone1",
+      "cost": 0,
+      "tags": [
+        "onboardingZone1"
+      ],
+      "zone_filter": "onboardingZone1",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone2",
+      "cost": 0,
+      "tags": [
+        "onboardingZone2"
+      ],
+      "zone_filter": "onboardingZone2",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone3",
+      "cost": 0,
+      "tags": [
+        "onboardingZone3"
+      ],
+      "zone_filter": "onboardingZone3",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone4",
+      "cost": 0,
+      "tags": [
+        "onboardingZone4"
+      ],
+      "zone_filter": "onboardingZone4",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone5",
+      "cost": 0,
+      "tags": [
+        "onboardingZone5"
+      ],
+      "zone_filter": "onboardingZone5",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone6",
+      "cost": 0,
+      "tags": [
+        "onboardingZone6"
+      ],
+      "zone_filter": "onboardingZone6",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone7",
+      "cost": 0,
+      "tags": [
+        "onboardingZone7"
+      ],
+      "zone_filter": "onboardingZone7",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone8",
+      "cost": 0,
+      "tags": [
+        "onboardingZone8"
+      ],
+      "zone_filter": "onboardingZone8",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone9",
+      "cost": 0,
+      "tags": [
+        "onboardingZone9"
+      ],
+      "zone_filter": "onboardingZone9",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone10",
+      "cost": 0,
+      "tags": [
+        "onboardingZone10"
+      ],
+      "zone_filter": "onboardingZone10",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone11",
+      "cost": 0,
+      "tags": [
+        "onboardingZone11"
+      ],
+      "zone_filter": "onboardingZone11",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone12",
+      "cost": 0,
+      "tags": [
+        "onboardingZone12"
+      ],
+      "zone_filter": "onboardingZone12",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone13",
+      "cost": 0,
+      "tags": [
+        "onboardingZone13"
+      ],
+      "zone_filter": "onboardingZone13",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone14",
+      "cost": 0,
+      "tags": [
+        "onboardingZone14"
+      ],
+      "zone_filter": "onboardingZone14",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone15",
+      "cost": 0,
+      "tags": [
+        "onboardingZone15"
+      ],
+      "zone_filter": "onboardingZone15",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone16",
+      "cost": 0,
+      "tags": [
+        "onboardingZone16"
+      ],
+      "zone_filter": "onboardingZone16",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone17",
+      "cost": 0,
+      "tags": [
+        "onboardingZone17"
+      ],
+      "zone_filter": "onboardingZone17",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone18",
+      "cost": 0,
+      "tags": [
+        "onboardingZone18"
+      ],
+      "zone_filter": "onboardingZone18",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone19",
+      "cost": 0,
+      "tags": [
+        "onboardingZone19"
+      ],
+      "zone_filter": "onboardingZone19",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone20",
+      "cost": 0,
+      "tags": [
+        "onboardingZone20"
+      ],
+      "zone_filter": "onboardingZone20",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone21",
+      "cost": 0,
+      "tags": [
+        "onboardingZone21"
+      ],
+      "zone_filter": "onboardingZone21",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone22",
+      "cost": 0,
+      "tags": [
+        "onboardingZone22"
+      ],
+      "zone_filter": "onboardingZone22",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone23",
+      "cost": 0,
+      "tags": [
+        "onboardingZone23"
+      ],
+      "zone_filter": "onboardingZone23",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone24",
+      "cost": 0,
+      "tags": [
+        "onboardingZone24"
+      ],
+      "zone_filter": "onboardingZone24",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone25",
+      "cost": 0,
+      "tags": [
+        "onboardingZone25"
+      ],
+      "zone_filter": "onboardingZone25",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone26",
+      "cost": 0,
+      "tags": [
+        "onboardingZone26"
+      ],
+      "zone_filter": "onboardingZone26",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone27",
+      "cost": 0,
+      "tags": [
+        "onboardingZone27"
+      ],
+      "zone_filter": "onboardingZone27",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone28",
+      "cost": 0,
+      "tags": [
+        "onboardingZone28"
+      ],
+      "zone_filter": "onboardingZone28",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone29",
+      "cost": 0,
+      "tags": [
+        "onboardingZone29"
+      ],
+      "zone_filter": "onboardingZone29",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone30",
+      "cost": 0,
+      "tags": [
+        "onboardingZone30"
+      ],
+      "zone_filter": "onboardingZone30",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone31",
+      "cost": 0,
+      "tags": [
+        "onboardingZone31"
+      ],
+      "zone_filter": "onboardingZone31",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone32",
+      "cost": 0,
+      "tags": [
+        "onboardingZone32"
+      ],
+      "zone_filter": "onboardingZone32",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone33",
+      "cost": 0,
+      "tags": [
+        "onboardingZone33"
+      ],
+      "zone_filter": "onboardingZone33",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone34",
+      "cost": 0,
+      "tags": [
+        "onboardingZone34"
+      ],
+      "zone_filter": "onboardingZone34",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone35",
+      "cost": 0,
+      "tags": [
+        "onboardingZone35"
+      ],
+      "zone_filter": "onboardingZone35",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone36",
+      "cost": 0,
+      "tags": [
+        "onboardingZone36"
+      ],
+      "zone_filter": "onboardingZone36",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone37",
+      "cost": 0,
+      "tags": [
+        "onboardingZone37"
+      ],
+      "zone_filter": "onboardingZone37",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZone38",
+      "cost": 0,
+      "tags": [
+        "onboardingZone38"
+      ],
+      "zone_filter": "onboardingZone38",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneIsland1",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland1"
+      ],
+      "zone_filter": "onboardingZoneIsland1",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneIsland2",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland2"
+      ],
+      "zone_filter": "onboardingZoneIsland2",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneIsland3",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland3"
+      ],
+      "zone_filter": "onboardingZoneIsland3",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneIsland4",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland4"
+      ],
+      "zone_filter": "onboardingZoneIsland4",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneIsland5",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland5"
+      ],
+      "zone_filter": "onboardingZoneIsland5",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneIsland6",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland6"
+      ],
+      "zone_filter": "onboardingZoneIsland6",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneIsland7",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland7"
+      ],
+      "zone_filter": "onboardingZoneIsland7",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneIsland8",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland8"
+      ],
+      "zone_filter": "onboardingZoneIsland8",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneIsland9",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland9"
+      ],
+      "zone_filter": "onboardingZoneIsland9",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneIsland10",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland10"
+      ],
+      "zone_filter": "onboardingZoneIsland10",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneIsland11",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland11"
+      ],
+      "zone_filter": "onboardingZoneIsland11",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneIsland12",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland12"
+      ],
+      "zone_filter": "onboardingZoneIsland12",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneIsland13",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland13"
+      ],
+      "zone_filter": "onboardingZoneIsland13",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneIsland14",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland14"
+      ],
+      "zone_filter": "onboardingZoneIsland14",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneIsland15",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland15"
+      ],
+      "zone_filter": "onboardingZoneIsland15",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneIsland16",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneIsland16"
+      ],
+      "zone_filter": "onboardingZoneIsland16",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland1",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland1"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland1",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland2",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland2"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland2",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland3",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland3"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland3",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland4",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland4"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland4",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland5",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland5"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland5",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland6",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland6"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland6",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland7",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland7"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland7",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland8",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland8"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland8",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland9",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland9"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland9",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland10",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland10"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland10",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland11",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland11"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland11",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland12",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland12"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland12",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland13",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland13"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland13",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland14",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland14"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland14",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland15",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland15"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland15",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland16",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland16"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland16",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland17",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland17"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland17",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland18",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland18"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland18",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland19",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland19"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland19",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland20",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland20"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland20",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland21",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland21"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland21",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland22",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland22"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland22",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland23",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland23"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland23",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland24",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland24"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland24",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland25",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland25"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland25",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland26",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland26"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland26",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland27",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland27"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland27",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland28",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland28"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland28",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland29",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland29"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland29",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneFlameIsland30",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneFlameIsland30"
+      ],
+      "zone_filter": "onboardingZoneFlameIsland30",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneCombatPlateau1",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau1"
+      ],
+      "zone_filter": "onboardingZoneCombatPlateau1",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneCombatPlateau2",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau2"
+      ],
+      "zone_filter": "onboardingZoneCombatPlateau2",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneCombatPlateau3",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau3"
+      ],
+      "zone_filter": "onboardingZoneCombatPlateau3",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneCombatPlateau4",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau4"
+      ],
+      "zone_filter": "onboardingZoneCombatPlateau4",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneCombatPlateau5",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau5"
+      ],
+      "zone_filter": "onboardingZoneCombatPlateau5",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneCombatPlateau6",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau6"
+      ],
+      "zone_filter": "onboardingZoneCombatPlateau6",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneCombatPlateau7",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau7"
+      ],
+      "zone_filter": "onboardingZoneCombatPlateau7",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneCombatPlateau8",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau8"
+      ],
+      "zone_filter": "onboardingZoneCombatPlateau8",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneCombatPlateau9",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau9"
+      ],
+      "zone_filter": "onboardingZoneCombatPlateau9",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneCombatPlateau10",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau10"
+      ],
+      "zone_filter": "onboardingZoneCombatPlateau10",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneCombatPlateau11",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau11"
+      ],
+      "zone_filter": "onboardingZoneCombatPlateau11",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneCombatPlateau12",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau12"
+      ],
+      "zone_filter": "onboardingZoneCombatPlateau12",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneCombatPlateau13",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau13"
+      ],
+      "zone_filter": "onboardingZoneCombatPlateau13",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneCombatPlateau14",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau14"
+      ],
+      "zone_filter": "onboardingZoneCombatPlateau14",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneCombatPlateau15",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau15"
+      ],
+      "zone_filter": "onboardingZoneCombatPlateau15",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingZoneCombatPlateau16",
+      "cost": 0,
+      "tags": [
+        "onboardingZoneCombatPlateau16"
+      ],
+      "zone_filter": "onboardingZoneCombatPlateau16",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingGenericMarkerCombatZones1",
+      "cost": 0,
+      "tags": [
+        "onboardingGenericMarkerCombatZones1"
+      ],
+      "zone_filter": "onboardingGenericMarkerCombatZones1",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingGenericMarkerCombatZones2",
+      "cost": 0,
+      "tags": [
+        "onboardingGenericMarkerCombatZones2"
+      ],
+      "zone_filter": "onboardingGenericMarkerCombatZones2",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingGenericMarkerCombatZones3",
+      "cost": 0,
+      "tags": [
+        "onboardingGenericMarkerCombatZones3"
+      ],
+      "zone_filter": "onboardingGenericMarkerCombatZones3",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_onboardingGenericMarkerCombatZones4",
+      "cost": 0,
+      "tags": [
+        "onboardingGenericMarkerCombatZones4"
+      ],
+      "zone_filter": "onboardingGenericMarkerCombatZones4",
+      "exclude": false
+    }
+  ],
+  "zone_height_change_cards": [
+    {
+      "unique_card_id": "bridgeIslandHeight0",
+      "cost": 0,
+      "tags": [
+        "bridgeIslandHeight0"
+      ],
+      "biome": "onboarding",
+      "zone_height_change": 0,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "bridgeIslandHeight1",
+      "cost": 0,
+      "tags": [
+        "bridgeIslandHeight1"
+      ],
+      "biome": "onboarding",
+      "zone_height_change": 1,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "bridgeIslandHeight2",
+      "cost": 0,
+      "tags": [
+        "bridgeIslandHeight2"
+      ],
+      "biome": "onboarding",
+      "zone_height_change": 2,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "bridgeIslandHeight3",
+      "cost": 0,
+      "tags": [
+        "bridgeIslandHeight3"
+      ],
+      "biome": "onboarding",
+      "zone_height_change": 3,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "resourcesIslandHeight",
+      "cost": 0,
+      "tags": [
+        "resourcesIslandHeight"
+      ],
+      "biome": "onboarding",
+      "zone_height_change": 3,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "resourcesIslandChasm",
+      "cost": 0,
+      "tags": [
+        "resourcesIslandChasm"
+      ],
+      "biome": "onboarding",
+      "zone_height_change": 0,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "flameIslandHeight",
+      "cost": 0,
+      "tags": [
+        "flameIslandHeight"
+      ],
+      "biome": "onboarding",
+      "zone_height_change": 15,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "firstCombatPlateauHeight",
+      "cost": 0,
+      "tags": [
+        "firstCombatPlateauHeight"
+      ],
+      "biome": "onboarding",
+      "zone_height_change": 23,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "secondCombatPlateauHeight",
+      "cost": 0,
+      "tags": [
+        "secondCombatPlateauHeight"
+      ],
+      "biome": "onboarding",
+      "zone_height_change": 48,
+      "zone_height_control": "height_control_centered"
+    }
+  ],
+  "district_cards": [
+    {
+      "unique_card_id": "district_cards_bridgeIslandNorthDistrict",
+      "cost": 0,
+      "tags": [
+        "bridgeIslandNorthDistrict"
+      ],
+      "district": "bridgeIslandNorthDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_bridgeIslandNorthWestDistrict",
+      "cost": 0,
+      "tags": [
+        "bridgeIslandNorthWestDistrict"
+      ],
+      "district": "bridgeIslandNorthWestDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_bridgeIslandWestDistrict",
+      "cost": 0,
+      "tags": [
+        "bridgeIslandWestDistrict"
+      ],
+      "district": "bridgeIslandWestDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_bridgeIslandSouthEastDistrict",
+      "cost": 0,
+      "tags": [
+        "bridgeIslandSouthEastDistrict"
+      ],
+      "district": "bridgeIslandSouthEastDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_resourcesDistrict",
+      "cost": 0,
+      "tags": [
+        "resourcesDistrict"
+      ],
+      "district": "resourcesDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_flameIslandDistrict",
+      "cost": 0,
+      "tags": [
+        "flameIslandDistrict"
+      ],
+      "district": "flameIslandDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_firstCombatPlateauDistrict",
+      "cost": 0,
+      "tags": [
+        "firstCombatPlateauDistrict"
+      ],
+      "district": "firstCombatPlateauDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_secondCombatPlateauDistrict",
+      "cost": 0,
+      "tags": [
+        "secondCombatPlateauDistrict"
+      ],
+      "district": "secondCombatPlateauDistrict"
+    }
+  ],
+  "moat_cards": [
+    {
+      "unique_card_id": "onboardingChasm",
+      "cost": 0,
+      "biome": "water_moat",
+      "width_in_blocks": 5,
+      "filling_depth": 1,
+      "distance_in_zones": 1,
+      "tags": [
+        "onboardingChasm"
+      ],
+      "block_filling": "block_water"
+    }
+  ]
+}

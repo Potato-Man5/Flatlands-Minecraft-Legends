@@ -1,0 +1,80 @@
+{
+   "format_version" : "1.13.0",
+   "minecraft:biome" : {
+      "components" : {
+         "animal" : {},
+         "badger:overworld_height" : {
+            
+            "height_params" : {
+               "average_height" : 22,
+               "texture_heights": [20, 25]
+            }
+         },
+         "badger:visual_biome_attributes" : {
+            "grass" : {
+               "normal" : {
+                  "grass_noise_intensity" : 0.50,
+                  "grass_noise_scale" : 0.50,
+                  "grass_surface_color" : "#2E5C1B"
+               },
+               "overlay" : {
+                  "grass_overlay_noise_bias" : 0.2000000029802322,
+                  "grass_overlay_noise_intensity" : 0.8000000119209290,
+                  "grass_overlay_noise_scale" : 0.6999999880790710,
+                  "grass_overlay_surface_color" : "#85C433"
+               }
+            },
+            "map" : {
+               "biome_banner" : "",
+               "biome_display_name" : "nether_piglin",
+               "common_resource_icon" : "",
+               "map_color" : "#1BD247",
+               "map_color_odd" : "#1BD247",
+               "map_pattern_index" : 10
+            },
+            "particulates" : {
+               "nether_spores" : 0.50,
+               "sparkles" : 0.0
+            },
+            "rain" : {
+               "downfall" : 0.0,
+               "lower_limit": 1.0,
+               "rain_to_snow_height" : 120,
+               "rain_to_snow_transition_size" : 5,
+               "snow_to_rain_density_ratio" : 0.75,
+               "upper_limit": 1.0
+            },
+            "water" : {
+               "water_blur_distance" : 6.400000095367432,
+               "water_color_blend_distance" : 2.799999952316284,
+               "water_depths_color" : "#272C2E",
+               "water_surface_color" : "#1A1F20",
+               "water_surface_transparency" : 0.4000000059604645
+            },
+            "world" : {
+               "sky_weight" : 0.0
+            }
+         },
+         "decorate_priority" : {},
+         "minecraft:surface_parameters" : {
+            "default_surface" : {
+               "mid_material" : "badger:block_burning_edge_var02",
+               "weighted_top_materials" : [
+                  [ "badger:block_burning_edge_var01", 10 ],
+                  [ "badger:block_burning_edge_var02", 10 ]
+               ]
+            },
+            "foundation_material" : "block_burning_edge_var02",
+            "sea_floor_depth" : 4,
+            "sea_floor_material" : "block_burning_edge_var02",
+            "sea_material" : "badger:block_water"
+         },
+         "monster" : {},
+         "overworld" : {},
+         "piglin_border" : {}
+      },
+      "description" : {
+         "identifier" : "nether_piglin_border"
+      }
+   }
+}

@@ -1,0 +1,14 @@
+{
+  "ticking_area_lifetime_seconds": 1.0,
+  "max_level_chunk_budget": 20000,
+  "player_view_look_ahead_time": 5.0,
+  "world_request_type_priority_order": [
+    "invasion_simulation",
+    "player_spawn",
+    "cinematic",
+    "village_heart_destruction",
+    "village_resource_removal",
+    "pvp_high_priority_village",
+    "invasion"
+  ]
+}

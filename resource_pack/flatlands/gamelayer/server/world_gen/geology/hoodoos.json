@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "enabled": true,
+    "allow_village_overlap": false,
+    "attempts_per_square_kilometre": 400,
+    "placement_biome_names": ["drylands_hoodoo_small"],
+    "place_on_biome": "drylands_enable_hoodoos",
+    "place_on_biome_parent": "drylands",
+    "biome_tag": "drylands",
+    "min_texture_corners_in_correct_biome": 3,
+    "small_displacement_range": [0, 15],
+    "medium_displacement_range": [0, 25],
+    "large_displacement_range": [0, 35],
+    "huge_scatters_large": [1, 2],
+    "large_scatters_medium": [1, 3],
+    "medium_scatters_small": [2, 4],
+    "small_scatters_small_chance": 0.2,
+    "huge_rate": 10,
+    "large_rate": 25,
+    "medium_rate": 50,
+    "small_rate": 60,
+    "huge_relative_height": [0.3, 0.5],
+    "large_relative_height": [0.2, 0.6],
+    "medium_relative_height": [0.3, 1.0],
+    "small_relative_height": [0.35, 0.90]
+  },
+  "texture_registry": {
+    "texture_key": "hoodoo",
+    "huge": [
+      "tex_stamp_hoodoo_huge_01"
+    ],
+    "large": [
+      "tex_stamp_hoodoo_large_01"
+    ],
+    "medium": [
+      "tex_stamp_hoodoo_med_01",
+      "tex_stamp_hoodoo_med_02"
+    ],
+    "small": [
+      "tex_stamp_hoodoo_sml_01",
+      "tex_stamp_hoodoo_sml_02",
+      "tex_stamp_hoodoo_sml_03"
+    ],
+    "huge_texture_size": 256,
+    "large_texture_size": 128,
+    "medium_texture_size": 64,
+    "small_texture_size": 32
+  }
+}

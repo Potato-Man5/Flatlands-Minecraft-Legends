@@ -1,0 +1,78 @@
+{
+  "format_version": "1.13.0",
+
+  "minecraft:biome": {
+    "description": {
+      "identifier": "nether_piglin_dbb"
+    },
+
+    "components": {
+      "decorate_priority": {},
+      "nether_piglin": {},
+      "nether_piglin_dbb": {},
+      "minecraft:surface_parameters": {
+        "sea_floor_depth": 4,
+        "sea_floor_material": "badger:block_netherrack",
+        "foundation_material": "badger:block_netherrack",
+        "sea_material": "badger:block_water",
+        "default_surface": {
+          "mid_material": "badger:block_netherrack",
+          "weighted_top_materials": [
+            ["badger:block_netherrack", 96],
+            ["badger:block_netherrack_var01", 53],
+            ["badger:block_netherrack_var02", 53],
+            ["badger:block_netherrack_var03", 53]
+          ]
+        }
+      },
+      "badger:overworld_height": {
+        "height_params": {
+          "texture_heights": [20, 25],
+          "average_height": 22
+        }
+      },
+      "badger:visual_biome_attributes": {
+        "map": {
+          "map_color": "#4B0082",
+          "map_color_odd": "#4B0082",
+          "map_pattern_index": 10,
+          "biome_display_name": "nether_piglin",
+          "biome_banner": "",
+          "common_resource_icon": ""
+        },
+
+        "water": {
+          "water_surface_color": "#0b5238",
+          "water_surface_transparency": 0.65,
+          "water_blur_distance": 15,
+          "water_depths_color": "#00ff00"
+        },
+        
+        "particulates":{
+           "nether_spores" : 0.50
+        },
+        "rain": {
+            "lower_limit": 1.0,
+            "upper_limit": 1.0,
+            "rain_to_snow_height": 120,
+            "rain_to_snow_transition_size": 5
+          
+        },
+        "grass": {
+          "normal": {
+            "grass_surface_color": "#487a40",
+            "grass_noise_intensity": 0.5,
+            "grass_noise_scale": 0.5
+          },
+
+          "overlay": {
+            "grass_overlay_surface_color": "#090601",
+            "grass_overlay_noise_intensity": 0.3,
+            "grass_overlay_noise_scale": 0.6,
+            "grass_overlay_noise_bias": 0.0
+          }
+        }
+      }
+    }
+  }
+}

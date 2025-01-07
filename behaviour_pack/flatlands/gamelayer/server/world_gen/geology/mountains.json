@@ -1,0 +1,57 @@
+{
+  "settings": {
+    "enabled": true,
+    "allow_village_overlap": true,
+    "biome_always_takes_priority": true,
+    "attempts_per_square_kilometre": 1000,
+    "placement_biome_names": ["mountain_summit","mountain_peaks","mountain_mid_hills","mountain_foothills"],
+    "place_on_biome": "mountain_parent_valleys",
+    "place_on_biome_parent": "mountain_parent_valleys",
+    "biome_tag": "mountains",
+    "min_texture_corners_in_correct_biome": 2,
+    "max_group_size": 4,
+    "max_attempts_to_find_group_pos": 20,
+    "max_failures": 30000,
+    "min_distance_between_groups": 220,//100
+    "small_displacement_range": [120, 140],
+    "medium_displacement_range": [120, 160],
+    "large_displacement_range": [0, 35],
+    "huge_scatters_large": [0, 0],
+    "large_scatters_medium": [1, 2],
+    "medium_scatters_small": [1,2],
+    "small_scatters_small_chance": 0.0,
+    "huge_rate": 0,
+    "large_rate": 1,
+    "medium_rate": 1,
+    "small_rate": 0,
+    "huge_relative_height": [0.9, 1.0],
+    "large_relative_height": [0.9, 1.0],
+    "medium_relative_height": [0.9, 1.0],
+    "small_relative_height": [0.9, 1.0]
+  },
+  "texture_registry": {
+    "texture_key": "mountains",
+    //"optional_rare_texture_name": "tex_stamp_mountain_large_01",
+    //"max_attempts_rare_placement": 100,
+    "huge": [
+      //"tex_stamp_mountain_huge_01"
+    ],
+    "large": [
+      "tex_stamp_mountain_large_01"
+    ],
+    "medium": [
+      "tex_stamp_mountain_med_01"
+      //"tex_stamp_mountain_med_02"
+   ],
+    "small": [
+      "tex_stamp_mountain_sml_01"
+      //"tex_stamp_mountain_sml_02"
+      //"tex_stamp_mountain_sml_03"
+      //"tex_stamp_mountain_sml_04"
+    ],
+    "huge_texture_size": 256,
+    "large_texture_size": 312,
+    "medium_texture_size": 312,
+    "small_texture_size": 360
+  }
+}

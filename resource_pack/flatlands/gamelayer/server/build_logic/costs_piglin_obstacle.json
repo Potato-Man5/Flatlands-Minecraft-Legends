@@ -1,0 +1,1722 @@
+{
+  "buildable_cards": [
+    {
+      "unique_card_id": "badger_obstaclePortalSmall",
+      "cost": 0,
+      "tags": [
+        "obstaclePortalSmall"
+      ],
+      "buildable": "badger:zoner_piglin_obstacle_territory_low_health"
+    },
+    {
+      "unique_card_id": "badger_occupationObstaclePortalSmall",
+      "cost": 0,
+      "tags": [
+        "occupationObstaclePortalSmall"
+      ],
+      "buildable": "badger:occupation_zoner_piglin_obstacle_territory_low_health"
+    },
+    {
+      "unique_card_id": "badger_obstaclePortalMedium",
+      "cost": 0,
+      "tags": [
+        "obstaclePortalMedium"
+      ],
+      "buildable": "badger:zoner_piglin_obstacle_territory_med_health"
+    },
+    {
+      "unique_card_id": "badger_obstaclePortalLarge",
+      "cost": 0,
+      "tags": [
+        "obstaclePortalLarge"
+      ],
+      "buildable": "badger:zoner_piglin_obstacle_territory_high_health"
+    }
+  ],
+  "zone_height_change_cards": [
+    {
+      "unique_card_id": "Flatten",
+      "cost": 0,
+      "tags": [
+        "Flatten"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 0,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "2Height",
+      "cost": 0,
+      "tags": [
+        "2Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 2,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "3Height",
+      "cost": 0,
+      "tags": [
+        "3Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 3,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "4Height",
+      "cost": 0,
+      "tags": [
+        "4Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 4,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "5Height",
+      "cost": 0,
+      "tags": [
+        "5Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 5,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "6Height",
+      "cost": 0,
+      "tags": [
+        "6Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 6,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "7Height",
+      "cost": 0,
+      "tags": [
+        "7Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 7,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "8Height",
+      "cost": 0,
+      "tags": [
+        "8Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 8,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "9Height",
+      "cost": 0,
+      "tags": [
+        "9Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 9,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "10Height",
+      "cost": 0,
+      "tags": [
+        "10Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 10,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "11Height",
+      "cost": 0,
+      "tags": [
+        "11Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 11,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "12Height",
+      "cost": 0,
+      "tags": [
+        "12Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 12,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "13Height",
+      "cost": 0,
+      "tags": [
+        "13Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 13,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "14Height",
+      "cost": 0,
+      "tags": [
+        "14Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 14,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "15Height",
+      "cost": 0,
+      "tags": [
+        "15Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 15,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "16Height",
+      "cost": 0,
+      "tags": [
+        "16Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 16,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "17Height",
+      "cost": 0,
+      "tags": [
+        "17Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 17,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "18Height",
+      "cost": 0,
+      "tags": [
+        "18Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 18,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "19Height",
+      "cost": 0,
+      "tags": [
+        "19Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 19,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "20Height",
+      "cost": 0,
+      "tags": [
+        "20Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 20,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "21Height",
+      "cost": 0,
+      "tags": [
+        "21Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 21,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "22Height",
+      "cost": 0,
+      "tags": [
+        "22Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 22,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "23Height",
+      "cost": 0,
+      "tags": [
+        "23Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 23,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "24Height",
+      "cost": 0,
+      "tags": [
+        "24Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 24,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "26Height",
+      "cost": 0,
+      "tags": [
+        "26Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 26,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "28Height",
+      "cost": 0,
+      "tags": [
+        "28Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 28,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "29Height",
+      "cost": 0,
+      "tags": [
+        "29Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 29,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "30Height",
+      "cost": 0,
+      "tags": [
+        "30Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 30,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "32Height",
+      "cost": 0,
+      "tags": [
+        "32Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 32,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "34Height",
+      "cost": 0,
+      "tags": [
+        "34Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 34,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "36Height",
+      "cost": 0,
+      "tags": [
+        "36Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 36,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "38Height",
+      "cost": 0,
+      "tags": [
+        "38Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 38,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "40Height",
+      "cost": 0,
+      "tags": [
+        "40Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 40,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "42Height",
+      "cost": 0,
+      "tags": [
+        "42Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 42,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "44Height",
+      "cost": 0,
+      "tags": [
+        "44Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 44,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "46Height",
+      "cost": 0,
+      "tags": [
+        "46Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 46,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "48Height",
+      "cost": 0,
+      "tags": [
+        "48Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 48,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "50Height",
+      "cost": 0,
+      "tags": [
+        "50Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 50,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "52Height",
+      "cost": 0,
+      "tags": [
+        "52Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 52,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "54Height",
+      "cost": 0,
+      "tags": [
+        "54Height"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 54,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "8UpRelativeToCentre",
+      "cost": 0,
+      "tags": [
+        "8UpRelativeToCentre"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 8,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "7UpRelativeToCentre",
+      "cost": 0,
+      "tags": [
+        "7UpRelativeToCentre"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 7,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "6UpRelativeToCentre",
+      "cost": 0,
+      "tags": [
+        "6UpRelativeToCentre"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 6,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "5UpRelativeToCentre",
+      "cost": 0,
+      "tags": [
+        "5UpRelativeToCentre"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 5,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "4UpRelativeToCentre",
+      "cost": 0,
+      "tags": [
+        "4UpRelativeToCentre"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 4,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "3UpRelativeToCentre",
+      "cost": 0,
+      "tags": [
+        "3UpRelativeToCentre"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 3,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "2UpRelativeToCentre",
+      "cost": 0,
+      "tags": [
+        "2UpRelativeToCentre"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 2,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "1UpRelativeToCentre",
+      "cost": 0,
+      "tags": [
+        "1UpRelativeToCentre"
+      ],
+      "biome": "nether_rotters_upper",
+      "zone_height_change": 1,
+      "zone_height_control": "height_control_centered"
+    }
+  ],
+  "walls_cards": [
+    {
+      "unique_card_id": "wallNoTowersNoGates",
+      "cost": 0,
+      "tags": [
+        "wallNoTowersNoGates"
+      ],
+      "wall_buildable": "badger:chunk_piglin_wall_001",
+      "path_entrance": "badger:gate_piglin",
+      "embedded_buildables": []
+    },
+    {
+      "unique_card_id": "wallNoTowers3Gates",
+      "cost": 0,
+      "tags": [
+        "wallNoTowers3Gates"
+      ],
+      "wall_buildable": "badger:chunk_piglin_wall_001",
+      "path_entrance": "badger:gate_piglin",
+      "embedded_buildables": [
+        "badger:gate_piglin",
+        "badger:gate_piglin",
+        "badger:gate_piglin"
+      ]
+    }
+  ],
+  "tag_cards": [
+    {
+      "unique_card_id": "obstacleKeepRallies",
+      "cost": 0,
+      "tags": [
+        "obstacleKeepRallies"
+      ],
+      "tag": "obstacleKeepRallies"
+    },
+    {
+      "unique_card_id": "obstacleGuardRally",
+      "cost": 0,
+      "tags": [
+        "obstacleGuardRally"
+      ],
+      "tag": "obstacleGuardRally"
+    },
+    {
+      "unique_card_id": "obstacleAssaultRally",
+      "cost": 0,
+      "tags": [
+        "obstacleAssaultRally"
+      ],
+      "tag": "obstacleAssaultRally"
+    },
+    {
+      "unique_card_id": "obstacleSiegeRally",
+      "cost": 0,
+      "tags": [
+        "obstacleSiegeRally"
+      ],
+      "tag": "obstacleSiegeRally"
+    },
+    {
+      "unique_card_id": "obstacleSiegeBarracks",
+      "cost": 0,
+      "tags": [
+        "obstacleSiegeBarracks"
+      ],
+      "tag": "obstacleSiegeBarracks"
+    },
+    {
+      "unique_card_id": "obstacleAssaultBarracks",
+      "cost": 0,
+      "tags": [
+        "obstacleAssaultBarracks"
+      ],
+      "tag": "obstacleAssaultBarracks"
+    },
+    {
+      "unique_card_id": "obstacleGuardBarracks",
+      "cost": 0,
+      "tags": [
+        "obstacleGuardBarracks"
+      ],
+      "tag": "obstacleGuardBarracks"
+    },
+    {
+      "unique_card_id": "obstacle_raiding_party_cage",
+      "cost": 0,
+      "tags": [
+        "obstacle_raiding_party_cage"
+      ],
+      "tag": "obstacle_raiding_party_cage"
+    },
+    {
+      "unique_card_id": "obstacleBossRally1",
+      "cost": 0,
+      "tags": [
+        "obstacleBossRally1"
+      ],
+      "tag": "obstacleBossRally1"
+    },
+    {
+      "unique_card_id": "obstacleBossRally2",
+      "cost": 0,
+      "tags": [
+        "obstacleBossRally2"
+      ],
+      "tag": "obstacleBossRally2"
+    },
+    {
+      "unique_card_id": "obstacleBossRally3",
+      "cost": 0,
+      "tags": [
+        "obstacleBossRally3"
+      ],
+      "tag": "obstacleBossRally3"
+    },
+    {
+      "unique_card_id": "obstaclePortalRally",
+      "cost": 0,
+      "tags": [
+        "obstaclePortalRally"
+      ],
+      "tag": "obstaclePortalRally"
+    },
+    {
+      "unique_card_id": "obstacleInOutpost",
+      "cost": 0,
+      "tags": [
+        "obstacleInOutpost"
+      ],
+      "tag": "obstacleInOutpost"
+    },
+    {
+      "unique_card_id": "obstacleComposition1",
+      "cost": 0,
+      "tags": [
+        "obstacleComposition1"
+      ],
+      "tag": "obstacleComposition1"
+    },
+    {
+      "unique_card_id": "obstacleComposition2",
+      "cost": 0,
+      "tags": [
+        "obstacleComposition2"
+      ],
+      "tag": "obstacleComposition2"
+    },
+    {
+      "unique_card_id": "obstacleComposition3",
+      "cost": 0,
+      "tags": [
+        "obstacleComposition3"
+      ],
+      "tag": "obstacleComposition3"
+    },
+    {
+      "unique_card_id": "obstacleComposition4",
+      "cost": 0,
+      "tags": [
+        "obstacleComposition4"
+      ],
+      "tag": "obstacleComposition4"
+    },
+    {
+      "unique_card_id": "obstacleComposition5",
+      "cost": 0,
+      "tags": [
+        "obstacleComposition5"
+      ],
+      "tag": "obstacleComposition5"
+    },
+    {
+      "unique_card_id": "obstacleBridge1",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge1"
+      ],
+      "tag": "obstacleBridge1"
+    },
+    {
+      "unique_card_id": "obstacleBridge2",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge2"
+      ],
+      "tag": "obstacleBridge2"
+    },
+    {
+      "unique_card_id": "obstacleBridge3",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge3"
+      ],
+      "tag": "obstacleBridge3"
+    },
+    {
+      "unique_card_id": "obstacleBridge4",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge4"
+      ],
+      "tag": "obstacleBridge4"
+    },
+    {
+      "unique_card_id": "obstacleBridge5",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge5"
+      ],
+      "tag": "obstacleBridge5"
+    },
+    {
+      "unique_card_id": "obstacleBridge6",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge6"
+      ],
+      "tag": "obstacleBridge6"
+    },
+    {
+      "unique_card_id": "obstacleAttackRallyPoint",
+      "cost": 0,
+      "tags": [
+        "obstacleAttackRallyPoint"
+      ],
+      "tag": "obstacleAttackRallyPoint"
+    },
+    {
+      "unique_card_id": "obstacleDefendRallyPoint",
+      "cost": 0,
+      "tags": [
+        "obstacleDefendRallyPoint"
+      ],
+      "tag": "obstacleDefendRallyPoint"
+    },
+    {
+      "unique_card_id": "obstacleSiegeRallyPoint",
+      "cost": 0,
+      "tags": [
+        "obstacleSiegeRallyPoint"
+      ],
+      "tag": "obstacleSiegeRallyPoint"
+    }
+  ],
+  "zone_filter_cards": [
+    {
+      "unique_card_id": "zone_filter_cards_obstacleInsideOutpost",
+      "cost": 0,
+      "tags": [
+        "obstacleInsideOutpost"
+      ],
+      "zone_filter": "obstacleInsideOutpost",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleLavaCoilZone",
+      "cost": 0,
+      "tags": [
+        "obstacleLavaCoilZone"
+      ],
+      "zone_filter": "obstacleLavaCoilZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleWaterfallTop",
+      "cost": 0,
+      "tags": [
+        "obstacleWaterfallTop"
+      ],
+      "zone_filter": "obstacleWaterfallTop",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleWaterfallMid",
+      "cost": 0,
+      "tags": [
+        "obstacleWaterfallMid"
+      ],
+      "zone_filter": "obstacleWaterfallMid",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleWaterfallBot",
+      "cost": 0,
+      "tags": [
+        "obstacleWaterfallBot"
+      ],
+      "zone_filter": "obstacleWaterfallBot",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleOutpost1",
+      "cost": 0,
+      "tags": [
+        "obstacleOutpost1"
+      ],
+      "zone_filter": "obstacleOutpost1",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleOutpost2",
+      "cost": 0,
+      "tags": [
+        "obstacleOutpost2"
+      ],
+      "zone_filter": "obstacleOutpost2",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleBridge1",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge1"
+      ],
+      "zone_filter": "obstacleBridge1",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleBridge2",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge2"
+      ],
+      "zone_filter": "obstacleBridge2",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleBridge3",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge3"
+      ],
+      "zone_filter": "obstacleBridge3",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleBridge4",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge4"
+      ],
+      "zone_filter": "obstacleBridge4",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleBridge5",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge5"
+      ],
+      "zone_filter": "obstacleBridge5",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleBridge6",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge6"
+      ],
+      "zone_filter": "obstacleBridge6",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleCompositionZone1",
+      "cost": 0,
+      "tags": [
+        "obstacleCompositionZone1"
+      ],
+      "zone_filter": "obstacleCompositionZone1",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleCompositionZone2",
+      "cost": 0,
+      "tags": [
+        "obstacleCompositionZone2"
+      ],
+      "zone_filter": "obstacleCompositionZone2",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleCompositionZone3",
+      "cost": 0,
+      "tags": [
+        "obstacleCompositionZone3"
+      ],
+      "zone_filter": "obstacleCompositionZone3",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleCompositionZone4",
+      "cost": 0,
+      "tags": [
+        "obstacleCompositionZone4"
+      ],
+      "zone_filter": "obstacleCompositionZone4",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleCompositionZone5",
+      "cost": 0,
+      "tags": [
+        "obstacleCompositionZone5"
+      ],
+      "zone_filter": "obstacleCompositionZone5",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleKeepPlateau",
+      "cost": 0,
+      "tags": [
+        "obstacleKeepPlateau"
+      ],
+      "zone_filter": "obstacleKeepPlateau",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleOutpost3",
+      "cost": 0,
+      "tags": [
+        "obstacleOutpost3"
+      ],
+      "zone_filter": "obstacleOutpost3",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleDistrictWallZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrictWallZone"
+      ],
+      "zone_filter": "obstacleDistrictWallZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleDistrict1BridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict1BridgeZone"
+      ],
+      "zone_filter": "obstacleDistrict1BridgeZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleDistrict2BridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict2BridgeZone"
+      ],
+      "zone_filter": "obstacleDistrict2BridgeZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleDistrict3BridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict3BridgeZone"
+      ],
+      "zone_filter": "obstacleDistrict3BridgeZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleDistrict4BridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict4BridgeZone"
+      ],
+      "zone_filter": "obstacleDistrict4BridgeZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleDistrict5BridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict5BridgeZone"
+      ],
+      "zone_filter": "obstacleDistrict5BridgeZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleDistrict6BridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict6BridgeZone"
+      ],
+      "zone_filter": "obstacleDistrict6BridgeZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleDistrict7BridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict7BridgeZone"
+      ],
+      "zone_filter": "obstacleDistrict7BridgeZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleDistrict8BridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict8BridgeZone"
+      ],
+      "zone_filter": "obstacleDistrict8BridgeZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleBossFirstPlatform",
+      "cost": 0,
+      "tags": [
+        "obstacleBossFirstPlatform"
+      ],
+      "zone_filter": "obstacleBossFirstPlatform",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_plateauCenter",
+      "cost": 0,
+      "tags": [
+        "plateauCenter"
+      ],
+      "zone_filter": "plateauCenter",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleBossSecondPlatform",
+      "cost": 0,
+      "tags": [
+        "obstacleBossSecondPlatform"
+      ],
+      "zone_filter": "obstacleBossSecondPlatform",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleBossThirdPlatform",
+      "cost": 0,
+      "tags": [
+        "obstacleBossThirdPlatform"
+      ],
+      "zone_filter": "obstacleBossThirdPlatform",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleBossArena",
+      "cost": 0,
+      "tags": [
+        "obstacleBossArena"
+      ],
+      "zone_filter": "obstacleBossArena",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleOutsideBossArena",
+      "cost": 0,
+      "tags": [
+        "obstacleOutsideBossArena"
+      ],
+      "zone_filter": "obstacleBossArena",
+      "exclude": true
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleSmallSpire",
+      "cost": 0,
+      "tags": [
+        "obstacleSmallSpire"
+      ],
+      "zone_filter": "obstacleSmallSpire",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstaclePlatform",
+      "cost": 0,
+      "tags": [
+        "obstaclePlatform"
+      ],
+      "zone_filter": "obstaclePlatform",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleInsideKeep",
+      "cost": 0,
+      "tags": [
+        "obstacleInsideKeep"
+      ],
+      "zone_filter": "obstacleInsideKeep",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleInsideKeepBuildings",
+      "cost": 0,
+      "tags": [
+        "obstacleInsideKeepBuildings"
+      ],
+      "zone_filter": "obstacleInsideKeepBuildings",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleNotInsideKeep",
+      "cost": 0,
+      "tags": [
+        "obstacleNotInsideKeep"
+      ],
+      "zone_filter": "obstacleInsideKeep",
+      "exclude": true
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleSmallBottomZone",
+      "cost": 0,
+      "tags": [
+        "obstacleSmallBottomZone"
+      ],
+      "zone_filter": "obstacleSmallBottomZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleDeadZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDeadZone"
+      ],
+      "zone_filter": "obstacleDeadZone",
+      "exclude": true
+    },
+    {
+      "unique_card_id": "zone_filter_cards_obstacleValidZone",
+      "cost": 0,
+      "tags": [
+        "obstacleValidZone"
+      ],
+      "zone_filter": "obstacleValidZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_keepZone",
+      "cost": 0,
+      "tags": [
+        "keepZone"
+      ],
+      "zone_filter": "keepZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_groundZone",
+      "cost": 0,
+      "tags": [
+        "groundZone"
+      ],
+      "zone_filter": "groundZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_dropZone",
+      "cost": 0,
+      "tags": [
+        "dropZone"
+      ],
+      "zone_filter": "dropZone",
+      "exclude": false
+    }
+  ],
+  "zone_tag_cards": [
+    {
+      "unique_card_id": "zone_tag_cards_obstacleInsideOutpost",
+      "cost": 0,
+      "tags": [
+        "obstacleInsideOutpost"
+      ],
+      "zone_tag": "obstacleInsideOutpost"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleLavaCoilZone",
+      "cost": 0,
+      "tags": [
+        "obstacleLavaCoilZone"
+      ],
+      "zone_tag": "obstacleLavaCoilZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleWaterfallTop",
+      "cost": 0,
+      "tags": [
+        "obstacleWaterfallTop"
+      ],
+      "zone_tag": "obstacleWaterfallTop"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleWaterfallMid",
+      "cost": 0,
+      "tags": [
+        "obstacleWaterfallMid"
+      ],
+      "zone_tag": "obstacleWaterfallMid"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleWaterfallBot",
+      "cost": 0,
+      "tags": [
+        "obstacleWaterfallBot"
+      ],
+      "zone_tag": "obstacleWaterfallBot"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleOutpost1",
+      "cost": 0,
+      "tags": [
+        "obstacleOutpost1"
+      ],
+      "zone_tag": "obstacleOutpost1"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleCompositionZone1",
+      "cost": 0,
+      "tags": [
+        "obstacleCompositionZone1"
+      ],
+      "zone_tag": "obstacleCompositionZone1"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleCompositionZone2",
+      "cost": 0,
+      "tags": [
+        "obstacleCompositionZone2"
+      ],
+      "zone_tag": "obstacleCompositionZone2"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleCompositionZone3",
+      "cost": 0,
+      "tags": [
+        "obstacleCompositionZone3"
+      ],
+      "zone_tag": "obstacleCompositionZone3"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleCompositionZone4",
+      "cost": 0,
+      "tags": [
+        "obstacleCompositionZone4"
+      ],
+      "zone_tag": "obstacleCompositionZone4"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleCompositionZone5",
+      "cost": 0,
+      "tags": [
+        "obstacleCompositionZone5"
+      ],
+      "zone_tag": "obstacleCompositionZone5"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleCompositionZone6",
+      "cost": 0,
+      "tags": [
+        "obstacleCompositionZone6"
+      ],
+      "zone_tag": "obstacleCompositionZone6"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleOutpost2",
+      "cost": 0,
+      "tags": [
+        "obstacleOutpost2"
+      ],
+      "zone_tag": "obstacleOutpost2"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleOutpost3",
+      "cost": 0,
+      "tags": [
+        "obstacleOutpost3"
+      ],
+      "zone_tag": "obstacleOutpost3"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleBridge1",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge1"
+      ],
+      "zone_tag": "obstacleBridge1"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleBridge2",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge2"
+      ],
+      "zone_tag": "obstacleBridge2"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleBridge3",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge3"
+      ],
+      "zone_tag": "obstacleBridge3"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleBridge4",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge4"
+      ],
+      "zone_tag": "obstacleBridge4"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleBridge5",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge5"
+      ],
+      "zone_tag": "obstacleBridge5"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleBridge6",
+      "cost": 0,
+      "tags": [
+        "obstacleBridge6"
+      ],
+      "zone_tag": "obstacleBridge6"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleKeepPlateau",
+      "cost": 0,
+      "tags": [
+        "obstacleKeepPlateau"
+      ],
+      "zone_tag": "obstacleKeepPlateau"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleDistrictWallZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrictWallZone"
+      ],
+      "zone_tag": "obstacleDistrictWallZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleBossFirstPlatform",
+      "cost": 0,
+      "tags": [
+        "obstacleBossFirstPlatform"
+      ],
+      "zone_tag": "obstacleBossFirstPlatform"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleBossSecondPlatform",
+      "cost": 0,
+      "tags": [
+        "obstacleBossSecondPlatform"
+      ],
+      "zone_tag": "obstacleBossSecondPlatform"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleBossThirdPlatform",
+      "cost": 0,
+      "tags": [
+        "obstacleBossThirdPlatform"
+      ],
+      "zone_tag": "obstacleBossThirdPlatform"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_plateauCenter",
+      "cost": 0,
+      "tags": [
+        "plateauCenter"
+      ],
+      "zone_tag": "plateauCenter"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleBossArena",
+      "cost": 0,
+      "tags": [
+        "obstacleBossArena"
+      ],
+      "zone_tag": "obstacleBossArena"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleDistrict1BridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict1BridgeZone"
+      ],
+      "zone_tag": "obstacleDistrict1BridgeZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleDistrict2BridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict2BridgeZone"
+      ],
+      "zone_tag": "obstacleDistrict2BridgeZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleDistrict3BridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict3BridgeZone"
+      ],
+      "zone_tag": "obstacleDistrict3BridgeZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleDistrict4BridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict4BridgeZone"
+      ],
+      "zone_tag": "obstacleDistrict4BridgeZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleDistrict5BridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict5BridgeZone"
+      ],
+      "zone_tag": "obstacleDistrict5BridgeZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleDistrict6BridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict6BridgeZone"
+      ],
+      "zone_tag": "obstacleDistrict6BridgeZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleDistrict7BridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict7BridgeZone"
+      ],
+      "zone_tag": "obstacleDistrict7BridgeZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleDistrict8BridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict8BridgeZone"
+      ],
+      "zone_tag": "obstacleDistrict8BridgeZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleCentralBridgeZone",
+      "cost": 0,
+      "tags": [
+        "obstacleCentralBridgeZone"
+      ],
+      "zone_tag": "obstacleCentralBridgeZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleSmallSpire",
+      "cost": 0,
+      "tags": [
+        "obstacleSmallSpire"
+      ],
+      "zone_tag": "obstacleSmallSpire"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstaclePlatform",
+      "cost": 0,
+      "tags": [
+        "obstaclePlatform"
+      ],
+      "zone_tag": "obstaclePlatform"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleInsideKeep",
+      "cost": 0,
+      "tags": [
+        "obstacleInsideKeep"
+      ],
+      "zone_tag": "obstacleInsideKeep"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleInsideKeepBuildings",
+      "cost": 0,
+      "tags": [
+        "obstacleInsideKeepBuildings"
+      ],
+      "zone_tag": "obstacleInsideKeepBuildings"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleSmallBottomZone",
+      "cost": 0,
+      "tags": [
+        "obstacleSmallBottomZone"
+      ],
+      "zone_tag": "obstacleSmallBottomZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleDeadZone",
+      "cost": 0,
+      "tags": [
+        "obstacleDeadZone"
+      ],
+      "zone_tag": "obstacleDeadZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_obstacleValidZone",
+      "cost": 0,
+      "tags": [
+        "obstacleValidZone"
+      ],
+      "zone_tag": "obstacleValidZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_keepZone",
+      "cost": 0,
+      "tags": [
+        "keepZone"
+      ],
+      "zone_tag": "keepZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_groundZone",
+      "cost": 0,
+      "tags": [
+        "groundZone"
+      ],
+      "zone_tag": "groundZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_dropZone",
+      "cost": 0,
+      "tags": [
+        "dropZone"
+      ],
+      "zone_tag": "dropZone"
+    }
+  ],
+  "zones_cards": [
+    {
+      "unique_card_id": "obstacleSmallSpireZone",
+      "cost": 0,
+      "number_of_zones": 2,
+      "tags": [
+        "obstacleSmallSpireZone"
+      ]
+    },
+    {
+      "unique_card_id": "obstacleSmallLowPlatformZone",
+      "cost": 0,
+      "number_of_zones": 5,
+      "tags": [
+        "obstacleSmallLowPlatformZone"
+      ]
+    },
+    {
+      "unique_card_id": "obstacleMediumPlatform",
+      "cost": 0,
+      "number_of_zones": 8,
+      "tags": [
+        "obstacleMediumPlatform"
+      ]
+    },
+    {
+      "unique_card_id": "obstacleSmallMidPlatformZone",
+      "cost": 0,
+      "number_of_zones": 6,
+      "tags": [
+        "obstacleSmallMidPlatformZone"
+      ]
+    },
+    {
+      "unique_card_id": "obstacleCenterZone",
+      "cost": 0,
+      "number_of_zones": 15,
+      "tags": [
+        "obstacleCenterZone"
+      ]
+    },
+    {
+      "unique_card_id": "obstacleBossCenterZone",
+      "cost": 0,
+      "number_of_zones": 27,
+      "tags": [
+        "obstacleBossCenterZone"
+      ]
+    },
+    {
+      "unique_card_id": "obstacleBossThirdZone",
+      "cost": 0,
+      "number_of_zones": 25,
+      "tags": [
+        "obstacleBossThirdZone"
+      ]
+    },
+    {
+      "unique_card_id": "obstacleBossSecondZone",
+      "cost": 0,
+      "number_of_zones": 3,
+      "tags": [
+        "obstacleBossSecondZone"
+      ]
+    },
+    {
+      "unique_card_id": "obstacleBossFirstZone",
+      "cost": 0,
+      "number_of_zones": 3,
+      "tags": [
+        "obstacleBossFirstZone"
+      ]
+    }
+  ],
+  "path_cards": [
+    {
+      "unique_card_id": "obstacle_district_path",
+      "cost": 0,
+      "tags": [
+        "obstacle_district_path"
+      ],
+      "is_district_path": true
+    }
+  ],
+  "district_cards": [
+    {
+      "unique_card_id": "district_cards_obstacleBossDistrict1",
+      "cost": 0,
+      "tags": [
+        "obstacleBossDistrict1"
+      ],
+      "district": "obstacleBossDistrict1"
+    },
+    {
+      "unique_card_id": "district_cards_obstacleBossDistrict2",
+      "cost": 0,
+      "tags": [
+        "obstacleBossDistrict2"
+      ],
+      "district": "obstacleBossDistrict2"
+    },
+    {
+      "unique_card_id": "district_cards_obstacleBossDistrict3",
+      "cost": 0,
+      "tags": [
+        "obstacleBossDistrict3"
+      ],
+      "district": "obstacleBossDistrict3"
+    },
+    {
+      "unique_card_id": "district_cards_obstacleDistrict1",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict1"
+      ],
+      "district": "obstacleDistrict1"
+    },
+    {
+      "unique_card_id": "district_cards_obstacleDistrict2",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict2"
+      ],
+      "district": "obstacleDistrict2"
+    },
+    {
+      "unique_card_id": "district_cards_obstacleDistrict3",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict3"
+      ],
+      "district": "obstacleDistrict3"
+    },
+    {
+      "unique_card_id": "district_cards_obstacleDistrict4",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict4"
+      ],
+      "district": "obstacleDistrict4"
+    },
+    {
+      "unique_card_id": "district_cards_obstacleDistrict5",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict5"
+      ],
+      "district": "obstacleDistrict5"
+    },
+    {
+      "unique_card_id": "district_cards_obstacleDistrict6",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict6"
+      ],
+      "district": "obstacleDistrict6"
+    },
+    {
+      "unique_card_id": "district_cards_obstacleDistrict7",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict7"
+      ],
+      "district": "obstacleDistrict7"
+    },
+    {
+      "unique_card_id": "district_cards_obstacleDistrict8",
+      "cost": 0,
+      "tags": [
+        "obstacleDistrict8"
+      ],
+      "district": "obstacleDistrict8"
+    }
+  ]
+}

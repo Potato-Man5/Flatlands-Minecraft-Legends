@@ -1,0 +1,72 @@
+{
+   "format_version" : "1.13.0",
+   "minecraft:biome" : {
+      "components" : {
+         "badger:overworld_height" : {
+            "noise_type" : "beach"
+         },
+         "badger:rivers" : {
+            "cell_range" : [ 1, 1 ],
+            "point_chance" : 0.90
+         },
+         "badger:visual_biome_attributes" : {
+            "grass" : {
+               "normal" : {
+                  "grass_noise_intensity" : 0.0,
+                  "grass_noise_scale" : 0.0,
+                  "grass_surface_color" : "#000000"
+               },
+               "overlay" : {
+                  "grass_overlay_noise_bias" : 0.0,
+                  "grass_overlay_noise_intensity" : 0.0,
+                  "grass_overlay_noise_scale" : 0.0,
+                  "grass_overlay_surface_color" : "#000000"
+               }
+            },
+            "map" : {
+               "biome_banner" : "",
+               "biome_display_name" : "generic",
+               "common_resource_icon" : "",
+               "map_color" : "#800080",
+               "map_color_odd" : "#800080",
+               "map_pattern_index" : 0
+            },
+            "particulates" : {
+               "nether_spores" : 0.0,
+               "sparkles" : 0.0
+            },
+            "rain" : {
+               "downfall" : 0.0,
+               "lower_limit" : 0.0,
+               "rain_to_snow_height" : 0,
+               "rain_to_snow_transition_size" : 0,
+               "snow_to_rain_density_ratio" : 0.75,
+               "upper_limit" : 0.0
+            },
+            "water" : {
+               "water_blur_distance" : 0.0,
+               "water_color_blend_distance" : 0.0,
+               "water_depths_color" : "#000000",
+               "water_surface_color" : "#000000",
+               "water_surface_transparency" : 0.0
+            }
+         },
+         "minecraft:surface_parameters" : {
+            "default_surface" : {
+               "mid_material" : "badger:block_sand",
+               "weighted_top_materials" : [
+                  [ "badger:block_sand", 1 ],
+                  [ "minecraft:grass", 1 ]
+               ]
+            },
+            "foundation_material" : "badger:block_sand",
+            "sea_floor_depth" : 7,
+            "sea_floor_material" : "badger:block_sand",
+            "sea_material" : "badger:block_water"
+         }
+      },
+      "description" : {
+         "identifier" : "generic"
+      }
+   }
+}

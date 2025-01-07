@@ -1,0 +1,256 @@
+{
+  "layer_of_zones_cards": [
+    {
+      "unique_card_id": "addLayerOfZones",
+      "cost": 0,
+      "tags": [
+        "addLayerOfZones"
+      ]
+    }
+  ],
+  "zones_cards": [
+    {
+      "unique_card_id": "add24Zones",
+      "cost": 0,
+      "tags": [
+        "add24Zones"
+      ],
+      "number_of_zones": 24
+    },
+    {
+      "unique_card_id": "add18Zones",
+      "cost": 0,
+      "tags": [
+        "add18Zones"
+      ],
+      "number_of_zones": 18
+    },
+    {
+      "unique_card_id": "add16Zones",
+      "cost": 0,
+      "tags": [
+        "add16Zones"
+      ],
+      "number_of_zones": 16
+    },
+    {
+      "unique_card_id": "add12Zones",
+      "cost": 0,
+      "tags": [
+        "add12Zones"
+      ],
+      "number_of_zones": 12
+    },
+    {
+      "unique_card_id": "add10Zones",
+      "cost": 0,
+      "tags": [
+        "add10Zones"
+      ],
+      "number_of_zones": 10
+    },
+    {
+      "unique_card_id": "add9Zones",
+      "cost": 0,
+      "tags": [
+        "add9Zones"
+      ],
+      "number_of_zones": 9
+    },
+    {
+      "unique_card_id": "add6Zones",
+      "cost": 0,
+      "tags": [
+        "add6Zones"
+      ],
+      "number_of_zones": 6
+    },
+    {
+      "unique_card_id": "add5Zones",
+      "cost": 0,
+      "tags": [
+        "add5Zones"
+      ],
+      "number_of_zones": 5
+    },
+    {
+      "unique_card_id": "add4Zones",
+      "cost": 0,
+      "tags": [
+        "add4Zones"
+      ],
+      "number_of_zones": 4
+    },
+    {
+      "unique_card_id": "addThreeZones",
+      "cost": 0,
+      "tags": [
+        "addThreeZones"
+      ],
+      "number_of_zones": 3
+    },
+    {
+      "unique_card_id": "addTwoZones",
+      "cost": 0,
+      "tags": [
+        "addTwoZones"
+      ],
+      "number_of_zones": 2
+    },
+    {
+      "unique_card_id": "addZone",
+      "cost": 0,
+      "tags": [
+        "addZone"
+      ],
+      "number_of_zones": 1
+    }
+  ],
+  "zone_height_change_cards": [
+    {
+      "unique_card_id": "3UpRelativeToCentreVillage",
+      "cost": 0,
+      "tags": [
+        "3UpRelativeToCentreVillage"
+      ],
+      "biome": "nether",
+      "zone_height_change": 3,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "3HeightVillageDrylands",
+      "cost": 0,
+      "tags": [
+        "3HeightVillageDrylands"
+      ],
+      "zone_height_change": 3,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "4HeightVillageDrylands",
+      "cost": 0,
+      "tags": [
+        "4HeightVillageDrylands"
+      ],
+      "zone_height_change": 4,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "5HeightVillageDrylands",
+      "cost": 0,
+      "tags": [
+        "5HeightVillageDrylands"
+      ],
+      "zone_height_change": 5,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "6HeightVillageDrylands",
+      "cost": 0,
+      "tags": [
+        "6HeightVillageDrylands"
+      ],
+      "zone_height_change": 6,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "7HeightVillageDrylands",
+      "cost": 0,
+      "tags": [
+        "7HeightVillageDrylands"
+      ],
+      "zone_height_change": 7,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "9HeightVillageDrylands",
+      "cost": 0,
+      "tags": [
+        "9HeightVillageDrylands"
+      ],
+      "zone_height_change": 9,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "10HeightVillageDrylands",
+      "cost": 0,
+      "tags": [
+        "10HeightVillageDrylands"
+      ],
+      "zone_height_change": 10,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "12HeightVillageDrylands",
+      "cost": 0,
+      "tags": [
+        "12HeightVillageDrylands"
+      ],
+      "zone_height_change": 12,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "3HeightVillageGrasslands",
+      "cost": 0,
+      "tags": [
+        "3HeightVillageGrasslands"
+      ],
+      "zone_height_change": 3,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "6HeightVillageGrasslands",
+      "cost": 0,
+      "tags": [
+        "6HeightVillageGrasslands"
+      ],
+      "zone_height_change": 6,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "9HeightVillageGrasslands",
+      "cost": 0,
+      "tags": [
+        "9HeightVillageGrasslands"
+      ],
+      "zone_height_change": 9,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "12HeightVillageGrasslands",
+      "cost": 0,
+      "tags": [
+        "12HeightVillageGrasslands"
+      ],
+      "zone_height_change": 12,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "3HeightVillageFrostlands",
+      "cost": 0,
+      "tags": [
+        "3HeightVillageFrostlands"
+      ],
+      "zone_height_change": 3,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "6HeightVillageFrostlands",
+      "cost": 0,
+      "tags": [
+        "6HeightVillageFrostlands"
+      ],
+      "zone_height_change": 6,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "9HeightVillageFrostlands",
+      "cost": 0,
+      "tags": [
+        "9HeightVillageFrostlands"
+      ],
+      "zone_height_change": 9,
+      "zone_height_control": "height_control_centered"
+    }
+  ]
+}

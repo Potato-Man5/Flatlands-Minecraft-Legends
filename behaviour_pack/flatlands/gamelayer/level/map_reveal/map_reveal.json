@@ -1,0 +1,4 @@
+{
+    "reveal_radius": 256, // in world space, i.e. "how far can I see?"
+    "grid_size": 256 // granularity, also used for the reveal map texture size
+}

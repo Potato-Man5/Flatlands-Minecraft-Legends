@@ -1,0 +1,1499 @@
+{
+  "buildable_cards": [
+    {
+      "unique_card_id": "badger_attackPortalSmall",
+      "cost": 0,
+      "tags": [
+        "attackPortalSmall"
+      ],
+      "buildable": "badger:zoner_piglin_attack_territory_low_health"
+    },
+    {
+      "unique_card_id": "badger_occupationAttackPortalSmall",
+      "cost": 0,
+      "tags": [
+        "occupationAttackPortalSmall"
+      ],
+      "buildable": "badger:occupation_zoner_piglin_attack_territory_low_health"
+    },
+    {
+      "unique_card_id": "badger_attackPortalMedium",
+      "cost": 0,
+      "tags": [
+        "attackPortalMedium"
+      ],
+      "buildable": "badger:zoner_piglin_attack_territory_med_health"
+    },
+    {
+      "unique_card_id": "badger_attackPortalLarge",
+      "cost": 0,
+      "tags": [
+        "attackPortalLarge"
+      ],
+      "buildable": "badger:zoner_piglin_attack_territory_high_health"
+    },
+    {
+      "unique_card_id": "badger_attackRallyPoint",
+      "cost": 0,
+      "buildable": "badger:prop_piglin_attack_rally_point",
+      "tags": [
+        "attackRallyPoint"
+      ]
+    }
+  ],
+  "zone_height_change_cards": [
+    {
+      "unique_card_id": "6DownRelativeToCentre",
+      "cost": 0,
+      "tags": [
+        "6DownRelativeToCentre"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -6,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "5DownRelativeToCentre",
+      "cost": 0,
+      "tags": [
+        "5DownRelativeToCentre"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -5,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "4DownRelativeToCentre",
+      "cost": 0,
+      "tags": [
+        "4DownRelativeToCentre"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -4,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "3DownRelativeToCentre",
+      "cost": 0,
+      "tags": [
+        "3DownRelativeToCentre"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -3,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "3DownRelativeToCentreCapture",
+      "cost": 0,
+      "tags": [
+        "3DownRelativeToCentreCapture"
+      ],
+      "biome": "fateful_land_campaign",
+      "zone_height_change": -3,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "2DownRelativeToCentre",
+      "cost": 0,
+      "tags": [
+        "2DownRelativeToCentre"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -2,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "2DownRelativeToCentreCapture",
+      "cost": 0,
+      "tags": [
+        "2DownRelativeToCentreCapture"
+      ],
+      "biome": "fateful_land_campaign",
+      "zone_height_change": -2,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "1DownRelativeToCentre",
+      "cost": 0,
+      "tags": [
+        "1DownRelativeToCentre"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -1,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "0DownRelativeToCentreCapture",
+      "cost": 0,
+      "tags": [
+        "0DownRelativeToCentreCapture"
+      ],
+      "biome": "fateful_land_campaign",
+      "zone_height_change": 0,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "OneDown",
+      "cost": 0,
+      "tags": [
+        "OneDown"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -1
+    },
+    {
+      "unique_card_id": "elementHeightSixDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightSixDown"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -6,
+      "zone_height_control": "height_control_averaged"
+    },
+    {
+      "unique_card_id": "elementHeightFiveDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightFiveDown"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -5,
+      "zone_height_control": "height_control_averaged"
+    },
+    {
+      "unique_card_id": "elementHeightFourDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightFourDown"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -4,
+      "zone_height_control": "height_control_averaged"
+    },
+    {
+      "unique_card_id": "elementHeightTwoDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightTwoDown"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -2,
+      "zone_height_control": "height_control_averaged"
+    },
+    {
+      "unique_card_id": "elementHeightThreeDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightThreeDown"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -3,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "elementHeightOneDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightOneDown"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -1,
+      "zone_height_control": "height_control_averaged"
+    },
+    {
+      "unique_card_id": "elementHeight0",
+      "cost": 0,
+      "tags": [
+        "elementHeight0"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 0,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "elementHeight1",
+      "cost": 0,
+      "tags": [
+        "elementHeight1"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 1,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "elementHeight2",
+      "cost": 0,
+      "tags": [
+        "elementHeight2"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 2,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "elementHeight3",
+      "cost": 0,
+      "tags": [
+        "elementHeight3"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 3,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "elementHeight4",
+      "cost": 0,
+      "tags": [
+        "elementHeight4"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 4,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "elementHeight5",
+      "cost": 0,
+      "tags": [
+        "elementHeight5"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 5,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "elementHeight6",
+      "cost": 0,
+      "tags": [
+        "elementHeight6"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 6,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "elementHeight7",
+      "cost": 0,
+      "tags": [
+        "elementHeight7"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 7,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "elementHeight8",
+      "cost": 0,
+      "tags": [
+        "elementHeight8"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 8,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "elementHeight9",
+      "cost": 0,
+      "tags": [
+        "elementHeight9"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 9,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "elementHeight10",
+      "cost": 0,
+      "tags": [
+        "elementHeight10"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 10,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "elementHeight13",
+      "cost": 0,
+      "tags": [
+        "elementHeight13"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 13,
+      "zone_height_control": "height_control_lowest"
+    },
+    {
+      "unique_card_id": "portalDefenseHeight0",
+      "cost": 0,
+      "tags": [
+        "portalDefenseHeight0"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 0,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "portalDefenseHeight1",
+      "cost": 0,
+      "tags": [
+        "portalDefenseHeight1"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 1,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "portalDefenseHeight2",
+      "cost": 0,
+      "tags": [
+        "portalDefenseHeight2"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 2,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "portalDefenseHeight3",
+      "cost": 0,
+      "tags": [
+        "portalDefenseHeight3"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 3,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "portalDefenseHeight4",
+      "cost": 0,
+      "tags": [
+        "portalDefenseHeight4"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": 4,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "portalDefenseHeight1Down",
+      "cost": 0,
+      "tags": [
+        "portalDefenseHeight1Down"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -1,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "portalDefenseHeight2Down",
+      "cost": 0,
+      "tags": [
+        "portalDefenseHeight2Down"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -2,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "portalDefenseHeight3Down",
+      "cost": 0,
+      "tags": [
+        "portalDefenseHeight3Down"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -3,
+      "zone_height_control": "height_control_centered"
+    },
+    {
+      "unique_card_id": "portalDefenseHeight4Down",
+      "cost": 0,
+      "tags": [
+        "portalDefenseHeight4Down"
+      ],
+      "biome": "nether_horderunner",
+      "zone_height_change": -4,
+      "zone_height_control": "height_control_centered"
+    }
+  ],
+  "zone_filter_cards": [
+    {
+      "unique_card_id": "zone_filter_cards_attackRing0",
+      "cost": 0,
+      "tags": [
+        "attackRing0"
+      ],
+      "zone_filter": "attackRing0",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_attackRing1",
+      "cost": 0,
+      "tags": [
+        "attackRing1"
+      ],
+      "zone_filter": "attackRing1",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_attackRing2",
+      "cost": 0,
+      "tags": [
+        "attackRing2"
+      ],
+      "zone_filter": "attackRing2",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_attackRing3",
+      "cost": 0,
+      "tags": [
+        "attackRing3"
+      ],
+      "zone_filter": "attackRing3",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_attackRing4",
+      "cost": 0,
+      "tags": [
+        "attackRing4"
+      ],
+      "zone_filter": "attackRing4",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_attackRing5",
+      "cost": 0,
+      "tags": [
+        "attackRing5"
+      ],
+      "zone_filter": "attackRing5",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_attackRing6",
+      "cost": 0,
+      "tags": [
+        "attackRing6"
+      ],
+      "zone_filter": "attackRing6",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_outsideRing",
+      "cost": 0,
+      "tags": [
+        "outsideRing"
+      ],
+      "zone_filter": "outsideRing",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_attackBastion1",
+      "cost": 0,
+      "tags": [
+        "attackBastion1"
+      ],
+      "zone_filter": "attackBastion1",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_attackBastion2",
+      "cost": 0,
+      "tags": [
+        "attackBastion2"
+      ],
+      "zone_filter": "attackBastion2",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_attackBastion3",
+      "cost": 0,
+      "tags": [
+        "attackBastion3"
+      ],
+      "zone_filter": "attackBastion3",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_attackBastion4",
+      "cost": 0,
+      "tags": [
+        "attackBastion4"
+      ],
+      "zone_filter": "attackBastion4",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_dbAllySpawnerZone",
+      "cost": 0,
+      "tags": [
+        "dbAllySpawnerZone"
+      ],
+      "zone_filter": "dbAllySpawnerZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_dbWallZoneInner",
+      "cost": 0,
+      "tags": [
+        "dbWallZoneInner"
+      ],
+      "zone_filter": "dbWallZoneInner",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_centerZone",
+      "cost": 0,
+      "tags": [
+        "centerZone"
+      ],
+      "zone_filter": "centerZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_attackOutskirtsPathZone",
+      "cost": 0,
+      "tags": [
+        "attackOutskirtsPathZone"
+      ],
+      "zone_filter": "attackOutskirtsPathZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeightFourDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightFourDown"
+      ],
+      "zone_filter": "elementHeightFourDown",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeightFiveDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightFiveDown"
+      ],
+      "zone_filter": "elementHeightFiveDown",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeightSixDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightSixDown"
+      ],
+      "zone_filter": "elementHeightSixDown",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeightTwoDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightTwoDown"
+      ],
+      "zone_filter": "elementHeightTwoDown",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeightThreeDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightThreeDown"
+      ],
+      "zone_filter": "elementHeightThreeDown",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeightOneDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightOneDown"
+      ],
+      "zone_filter": "elementHeightOneDown",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeight0",
+      "cost": 0,
+      "tags": [
+        "elementHeight0"
+      ],
+      "zone_filter": "elementHeight0",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeight1",
+      "cost": 0,
+      "tags": [
+        "elementHeight1"
+      ],
+      "zone_filter": "elementHeight1",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeight2",
+      "cost": 0,
+      "tags": [
+        "elementHeight2"
+      ],
+      "zone_filter": "elementHeight2",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeight3",
+      "cost": 0,
+      "tags": [
+        "elementHeight3"
+      ],
+      "zone_filter": "elementHeight3",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeight4",
+      "cost": 0,
+      "tags": [
+        "elementHeight4"
+      ],
+      "zone_filter": "elementHeight4",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeight5",
+      "cost": 0,
+      "tags": [
+        "elementHeight5"
+      ],
+      "zone_filter": "elementHeight5",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeight6",
+      "cost": 0,
+      "tags": [
+        "elementHeight6"
+      ],
+      "zone_filter": "elementHeight6",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeight7",
+      "cost": 0,
+      "tags": [
+        "elementHeight7"
+      ],
+      "zone_filter": "elementHeight7",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeight8",
+      "cost": 0,
+      "tags": [
+        "elementHeight8"
+      ],
+      "zone_filter": "elementHeight8",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeight9",
+      "cost": 0,
+      "tags": [
+        "elementHeight9"
+      ],
+      "zone_filter": "elementHeight9",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_elementHeight10",
+      "cost": 0,
+      "tags": [
+        "elementHeight10"
+      ],
+      "zone_filter": "elementHeight10",
+      "exclude": false
+    }
+  ],
+  "zone_tag_cards": [
+    {
+      "unique_card_id": "zone_tag_cards_attackRing0",
+      "cost": 0,
+      "tags": [
+        "attackRing0"
+      ],
+      "zone_tag": "attackRing0"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_attackRing1",
+      "cost": 0,
+      "tags": [
+        "attackRing1"
+      ],
+      "zone_tag": "attackRing1"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_attackRing2",
+      "cost": 0,
+      "tags": [
+        "attackRing2"
+      ],
+      "zone_tag": "attackRing2"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_attackRing3",
+      "cost": 0,
+      "tags": [
+        "attackRing3"
+      ],
+      "zone_tag": "attackRing3"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_outsideRing",
+      "cost": 0,
+      "tags": [
+        "outsideRing"
+      ],
+      "zone_tag": "outsideRing"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_attackRing4",
+      "cost": 0,
+      "tags": [
+        "attackRing4"
+      ],
+      "zone_tag": "attackRing4"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_attackRing5",
+      "cost": 0,
+      "tags": [
+        "attackRing5"
+      ],
+      "zone_tag": "attackRing5"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_attackRing6",
+      "cost": 0,
+      "tags": [
+        "attackRing6"
+      ],
+      "zone_tag": "attackRing6"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_attackBastion1",
+      "cost": 0,
+      "tags": [
+        "attackBastion1"
+      ],
+      "zone_tag": "attackBastion1"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_attackBastion2",
+      "cost": 0,
+      "tags": [
+        "attackBastion2"
+      ],
+      "zone_tag": "attackBastion2"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_attackBastion3",
+      "cost": 0,
+      "tags": [
+        "attackBastion3"
+      ],
+      "zone_tag": "attackBastion3"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_attackBastion4",
+      "cost": 0,
+      "tags": [
+        "attackBastion4"
+      ],
+      "zone_tag": "attackBastion4"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_dbAllySpawnerZone",
+      "cost": 0,
+      "tags": [
+        "dbAllySpawnerZone"
+      ],
+      "zone_tag": "dbAllySpawnerZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_dbWallZoneInner",
+      "cost": 0,
+      "tags": [
+        "dbWallZoneInner"
+      ],
+      "zone_tag": "dbWallZoneInner"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_centerZone",
+      "cost": 0,
+      "tags": [
+        "centerZone"
+      ],
+      "zone_tag": "centerZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_attackOutskirtsPathZone",
+      "cost": 0,
+      "tags": [
+        "attackOutskirtsPathZone"
+      ],
+      "zone_tag": "attackOutskirtsPathZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeightFourDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightFourDown"
+      ],
+      "zone_tag": "elementHeightFourDown"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeightFiveDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightFiveDown"
+      ],
+      "zone_tag": "elementHeightFiveDown"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeightSixDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightSixDown"
+      ],
+      "zone_tag": "elementHeightSixDown"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeightTwoDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightTwoDown"
+      ],
+      "zone_tag": "elementHeightTwoDown"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeightThreeDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightThreeDown"
+      ],
+      "zone_tag": "elementHeightThreeDown"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeightOneDown",
+      "cost": 0,
+      "tags": [
+        "elementHeightOneDown"
+      ],
+      "zone_tag": "elementHeightOneDown"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeight0",
+      "cost": 0,
+      "tags": [
+        "elementHeight0"
+      ],
+      "zone_tag": "elementHeight0"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeight1",
+      "cost": 0,
+      "tags": [
+        "elementHeight1"
+      ],
+      "zone_tag": "elementHeight1"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeight2",
+      "cost": 0,
+      "tags": [
+        "elementHeight2"
+      ],
+      "zone_tag": "elementHeight2"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeight3",
+      "cost": 0,
+      "tags": [
+        "elementHeight3"
+      ],
+      "zone_tag": "elementHeight3"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeight4",
+      "cost": 0,
+      "tags": [
+        "elementHeight4"
+      ],
+      "zone_tag": "elementHeight4"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeight5",
+      "cost": 0,
+      "tags": [
+        "elementHeight5"
+      ],
+      "zone_tag": "elementHeight5"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeight6",
+      "cost": 0,
+      "tags": [
+        "elementHeight6"
+      ],
+      "zone_tag": "elementHeight6"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeight7",
+      "cost": 0,
+      "tags": [
+        "elementHeight7"
+      ],
+      "zone_tag": "elementHeight7"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeight8",
+      "cost": 0,
+      "tags": [
+        "elementHeight8"
+      ],
+      "zone_tag": "elementHeight8"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeight9",
+      "cost": 0,
+      "tags": [
+        "elementHeight9"
+      ],
+      "zone_tag": "elementHeight9"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_elementHeight10",
+      "cost": 0,
+      "tags": [
+        "elementHeight10"
+      ],
+      "zone_tag": "elementHeight10"
+    }
+  ],
+  "district_cards": [
+    {
+      "unique_card_id": "district_cards_attackDistrict1",
+      "cost": 0,
+      "tags": [
+        "attackDistrict1"
+      ],
+      "district": "attackDistrict1"
+    },
+    {
+      "unique_card_id": "district_cards_attackDistrict2",
+      "cost": 0,
+      "tags": [
+        "attackDistrict2"
+      ],
+      "district": "attackDistrict2"
+    },
+    {
+      "unique_card_id": "district_cards_attackDistrict3",
+      "cost": 0,
+      "tags": [
+        "attackDistrict3"
+      ],
+      "district": "attackDistrict3"
+    },
+    {
+      "unique_card_id": "district_cards_attackDistrict4",
+      "cost": 0,
+      "tags": [
+        "attackDistrict4"
+      ],
+      "district": "attackDistrict4"
+    },
+    {
+      "unique_card_id": "district_cards_attackDistrict5",
+      "cost": 0,
+      "tags": [
+        "attackDistrict5"
+      ],
+      "district": "attackDistrict5"
+    },
+    {
+      "unique_card_id": "district_cards_attackDistrict6",
+      "cost": 0,
+      "tags": [
+        "attackDistrict6"
+      ],
+      "district": "attackDistrict6"
+    },
+    {
+      "unique_card_id": "district_cards_attackDistrict7",
+      "cost": 0,
+      "tags": [
+        "attackDistrict7"
+      ],
+      "district": "attackDistrict7"
+    },
+    {
+      "unique_card_id": "district_cards_attackDistrict8",
+      "cost": 0,
+      "tags": [
+        "attackDistrict8"
+      ],
+      "district": "attackDistrict8"
+    },
+    {
+      "unique_card_id": "district_cards_attackBastion1",
+      "cost": 0,
+      "tags": [
+        "attackBastion1"
+      ],
+      "district": "attackBastion1"
+    },
+    {
+      "unique_card_id": "district_cards_attackBastion2",
+      "cost": 0,
+      "tags": [
+        "attackBastion2"
+      ],
+      "district": "attackBastion2"
+    },
+    {
+      "unique_card_id": "district_cards_attackBastion3",
+      "cost": 0,
+      "tags": [
+        "attackBastion3"
+      ],
+      "district": "attackBastion3"
+    },
+    {
+      "unique_card_id": "district_cards_attackBastion4",
+      "cost": 0,
+      "tags": [
+        "attackBastion4"
+      ],
+      "district": "attackBastion4"
+    },
+    {
+      "unique_card_id": "district_cards_dbAllySpawnerZone",
+      "cost": 0,
+      "tags": [
+        "dbAllySpawnerZone"
+      ],
+      "district": "dbAllySpawnerZone"
+    },
+    {
+      "unique_card_id": "district_cards_dbWallZoneInner",
+      "cost": 0,
+      "tags": [
+        "dbWallZoneInner"
+      ],
+      "district": "dbWallZoneInner"
+    }
+  ],
+  "moat_cards": [
+    {
+      "unique_card_id": "attackLavaPool",
+      "cost": 0,
+      "tags": [
+        "attackLavaPool"
+      ],
+      "biome": "lava_moat_horderunner",
+      "distance_in_zones": 0,
+      "filling_depth": 5,
+      "block_filling": "block_lava",
+      "edge_biome": "nether_piglin_dbb_lava_border",
+      "edge_width_in_blocks": 3
+    }
+  ],
+  "placement_preference_cards": [
+    {
+      "unique_card_id": "attackWallCircleSineWave",
+      "cost": 0,
+      "tags": [
+        "attackWallCircleSineWave"
+      ],
+      "placement_preference": "circle_sine_wave",
+      "amplitude": 0.09,
+      "frequency": 270
+    },
+    {
+      "unique_card_id": "attackWallNoise",
+      "cost": 0,
+      "tags": [
+        "attackWallNoise"
+      ],
+      "placement_preference": "noise",
+      "amplitude": 0.15,
+      "scale": 0.02
+    }
+  ],
+  "tag_cards": [
+    {
+      "unique_card_id": "attackNorthBastion",
+      "cost": 0,
+      "tags": [
+        "attackNorthBastion"
+      ],
+      "tag": "attackNorthBastion"
+    },
+    {
+      "unique_card_id": "attackEastBastion",
+      "cost": 0,
+      "tags": [
+        "attackEastBastion"
+      ],
+      "tag": "attackEastBastion"
+    },
+    {
+      "unique_card_id": "attackSouthBastion",
+      "cost": 0,
+      "tags": [
+        "attackSouthBastion"
+      ],
+      "tag": "attackSouthBastion"
+    },
+    {
+      "unique_card_id": "attackWestBastion",
+      "cost": 0,
+      "tags": [
+        "attackWestBastion"
+      ],
+      "tag": "attackWestBastion"
+    },
+    {
+      "unique_card_id": "bastionBuilding",
+      "cost": 0,
+      "tags": [
+        "bastionBuilding"
+      ],
+      "tag": "bastionBuilding"
+    },
+    {
+      "unique_card_id": "outerRingBuilding",
+      "cost": 0,
+      "tags": [
+        "outerRingBuilding"
+      ],
+      "tag": "outerRingBuilding"
+    },
+    {
+      "unique_card_id": "innerRingBuilding",
+      "cost": 0,
+      "tags": [
+        "innerRingBuilding"
+      ],
+      "tag": "innerRingBuilding"
+    },
+    {
+      "unique_card_id": "attack_raiding_party_cage",
+      "cost": 0,
+      "tags": [
+        "attack_raiding_party_cage"
+      ],
+      "tag": "attack_raiding_party_cage"
+    },
+    {
+      "unique_card_id": "attackAIDefend",
+      "cost": 0,
+      "tags": [
+        "attackAIDefend"
+      ],
+      "tag": "attackAIDefend"
+    },
+    {
+      "unique_card_id": "attackAISiege",
+      "cost": 0,
+      "tags": [
+        "attackAISiege"
+      ],
+      "tag": "attackAISiege"
+    },
+    {
+      "unique_card_id": "attackAISiege0",
+      "cost": 0,
+      "tags": [
+        "attackAISiege0"
+      ],
+      "tag": "attackAISiege0"
+    },
+    {
+      "unique_card_id": "attackAISiege1",
+      "cost": 0,
+      "tags": [
+        "attackAISiege1"
+      ],
+      "tag": "attackAISiege1"
+    },
+    {
+      "unique_card_id": "attackAIPatrol",
+      "cost": 0,
+      "tags": [
+        "attackAIPatrol"
+      ],
+      "tag": "attackAIPatrol"
+    },
+    {
+      "unique_card_id": "attackDefendRally",
+      "cost": 0,
+      "tags": [
+        "attackDefendRally"
+      ],
+      "tag": "attackDefendRally"
+    },
+    {
+      "unique_card_id": "attackSiegeRally",
+      "cost": 0,
+      "tags": [
+        "attackSiegeRally"
+      ],
+      "tag": "attackSiegeRally"
+    },
+    {
+      "unique_card_id": "attackSiegeRally0",
+      "cost": 0,
+      "tags": [
+        "attackSiegeRally0"
+      ],
+      "tag": "attackSiegeRally0"
+    },
+    {
+      "unique_card_id": "attackSiegeRally1",
+      "cost": 0,
+      "tags": [
+        "attackSiegeRally1"
+      ],
+      "tag": "attackSiegeRally1"
+    },
+    {
+      "unique_card_id": "attackPatrolRally",
+      "cost": 0,
+      "tags": [
+        "attackPatrolRally"
+      ],
+      "tag": "attackPatrolRally"
+    },
+    {
+      "unique_card_id": "attackAttackRallyPoint",
+      "cost": 0,
+      "tags": [
+        "attackAttackRallyPoint"
+      ],
+      "tag": "attackAttackRallyPoint"
+    },
+    {
+      "unique_card_id": "attackDefendRallyPoint",
+      "cost": 0,
+      "tags": [
+        "attackDefendRallyPoint"
+      ],
+      "tag": "attackDefendRallyPoint"
+    },
+    {
+      "unique_card_id": "attackSiegeRallyPoint",
+      "cost": 0,
+      "tags": [
+        "attackSiegeRallyPoint"
+      ],
+      "tag": "attackSiegeRallyPoint"
+    },
+    {
+      "unique_card_id": "attackSiegeGather0",
+      "cost": 0,
+      "tags": [
+        "attackSiegeGather0"
+      ],
+      "tag": "attackSiegeGather0"
+    },
+    {
+      "unique_card_id": "attackSiegeGather1",
+      "cost": 0,
+      "tags": [
+        "attackSiegeGather1"
+      ],
+      "tag": "attackSiegeGather1"
+    },
+    {
+      "unique_card_id": "attackSiegeGather2",
+      "cost": 0,
+      "tags": [
+        "attackSiegeGather2"
+      ],
+      "tag": "attackSiegeGather2"
+    },
+    {
+      "unique_card_id": "attackSiegeGather3",
+      "cost": 0,
+      "tags": [
+        "attackSiegeGather3"
+      ],
+      "tag": "attackSiegeGather3"
+    },
+    {
+      "unique_card_id": "attackDefendGather0",
+      "cost": 0,
+      "tags": [
+        "attackDefendGather0"
+      ],
+      "tag": "attackDefendGather0"
+    },
+    {
+      "unique_card_id": "attackDefendGather1",
+      "cost": 0,
+      "tags": [
+        "attackDefendGather1"
+      ],
+      "tag": "attackDefendGather1"
+    },
+    {
+      "unique_card_id": "ourTower",
+      "cost": 0,
+      "tags": [
+        "ourTower"
+      ],
+      "tag": "ourTower"
+    },
+    {
+      "unique_card_id": "blazethrower",
+      "cost": 0,
+      "tags": [
+        "blazethrower"
+      ],
+      "tag": "blazethrower"
+    },
+    {
+      "unique_card_id": "netheredMace",
+      "cost": 0,
+      "tags": [
+        "netheredMace"
+      ],
+      "tag": "netheredMace"
+    },
+    {
+      "unique_card_id": "netheredBlaze",
+      "cost": 0,
+      "tags": [
+        "netheredBlaze"
+      ],
+      "tag": "netheredBlaze"
+    },
+    {
+      "unique_card_id": "wrongNeighbourhood",
+      "cost": 0,
+      "tags": [
+        "wrongNeighbourhood"
+      ],
+      "tag": "wrongNeighbourhood"
+    },
+    {
+      "unique_card_id": "ramifications",
+      "cost": 0,
+      "tags": [
+        "ramifications"
+      ],
+      "tag": "ramifications"
+    },
+    {
+      "unique_card_id": "cheatCode",
+      "cost": 0,
+      "tags": [
+        "cheatCode"
+      ],
+      "tag": "cheatCode"
+    },
+    {
+      "unique_card_id": "elitist",
+      "cost": 0,
+      "tags": [
+        "elitist"
+      ],
+      "tag": "elitist"
+    },
+    {
+      "unique_card_id": "maceSheild",
+      "cost": 0,
+      "tags": [
+        "maceSheild"
+      ],
+      "tag": "maceSheild"
+    },
+    {
+      "unique_card_id": "endeavor",
+      "cost": 0,
+      "tags": [
+        "endeavor"
+      ],
+      "tag": "endeavor"
+    },
+    {
+      "unique_card_id": "oldSchool",
+      "cost": 0,
+      "tags": [
+        "oldSchool"
+      ],
+      "tag": "oldSchool"
+    },
+    {
+      "unique_card_id": "pyroSchool",
+      "cost": 0,
+      "tags": [
+        "pyroSchool"
+      ],
+      "tag": "pyroSchool"
+    },
+    {
+      "unique_card_id": "aboveBelow",
+      "cost": 0,
+      "tags": [
+        "aboveBelow"
+      ],
+      "tag": "aboveBelow"
+    },
+    {
+      "unique_card_id": "peppaPyro",
+      "cost": 0,
+      "tags": [
+        "peppaPyro"
+      ],
+      "tag": "peppaPyro"
+    },
+    {
+      "unique_card_id": "unreadyEncounter",
+      "cost": 0,
+      "tags": [
+        "unreadyEncounter"
+      ],
+      "tag": "unreadyEncounter"
+    },
+    {
+      "unique_card_id": "readyEncounter",
+      "cost": 0,
+      "tags": [
+        "readyEncounter"
+      ],
+      "tag": "readyEncounter"
+    }
+  ],
+  "path_cards": [
+    {
+      "unique_card_id": "attack_district_path",
+      "cost": 0,
+      "tags": [
+        "attack_district_path"
+      ],
+      "is_district_path": true
+    }
+  ],
+  "walls_cards": [
+    {
+      "unique_card_id": "attackWall",
+      "cost": 0,
+      "tags": [
+        "attackWall"
+      ],
+      "wall_buildable": "badger:wall_piglin_bone_01",
+      "path_entrance": "badger:wall_piglin_bone_01",
+      "embedded_buildables": []
+    }
+  ]
+}

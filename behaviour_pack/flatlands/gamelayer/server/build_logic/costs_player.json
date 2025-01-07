@@ -1,0 +1,12 @@
+{
+  "buildable_cards": [
+    {
+      "unique_card_id": "badger_allegianceStructure",
+      "cost": 0,
+      "tags": [
+        "allegianceStructure"
+      ],
+      "buildable": "badger:totem_unlock_mob_alliance"
+    }
+  ]
+}

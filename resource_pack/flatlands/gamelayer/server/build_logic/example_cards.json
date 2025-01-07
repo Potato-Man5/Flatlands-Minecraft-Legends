@@ -1,0 +1,386 @@
+{
+  "walls_cards": [
+    {
+      "unique_card_id": "example_walls_with_towers",
+      "cost": 0,
+      "tags": [
+        "example_walls_with_towers"
+      ],
+      "wall_buildable": "badger:chunk_piglin_wall_001",
+      "path_entrance": "badger:gate_piglin",
+      "embedded_buildables": [
+        "badger:tower_piglin_arrow",
+        "badger:tower_piglin_arrow",
+        "badger:tower_piglin_arrow"
+      ]
+    }
+  ],
+  "moat_cards": [
+    {
+      "unique_card_id": "exampleMoat1",
+      "cost": 0,
+      "biome": "lava_moat",
+      "filling_depth": 2,
+      "distance_in_zones": 1,
+      "tags": [
+        "exampleMoat1"
+      ]
+    },
+    {
+      "unique_card_id": "exampleMoat2",
+      "cost": 0,
+      "biome": "lava_moat",
+      "filling_depth": 2,
+      "distance_in_zones": 1,
+      "edge_biome": "beach",
+      "edge_width_in_blocks": 1,
+      "tags": [
+        "exampleMoat2"
+      ]
+    },
+    {
+      "unique_card_id": "exampleMoat3",
+      "cost": 0,
+      "biome": "lava_moat",
+      "filling_depth": 2,
+      "distance_in_zones": 1,
+      "width_in_blocks": 8,
+      "edge_biome": "beach",
+      "edge_width_in_blocks": 1,
+      "tags": [
+        "exampleMoat3"
+      ]
+    }
+  ],
+  "district_cards": [
+    {
+      "unique_card_id": "district_cards_example_district_card",
+      "cost": 0,
+      "tags": [
+        "example_district_card"
+      ],
+      "district": "example_district"
+    }
+  ],
+  "path_cards": [
+    {
+      "unique_card_id": "example_building_path",
+      "cost": 0,
+      "tags": [
+        "example_building_path"
+      ],
+      "is_district_path": false
+    },
+    {
+      "unique_card_id": "example_district_path",
+      "cost": 0,
+      "tags": [
+        "example_district_path"
+      ],
+      "is_district_path": true
+    }
+  ],
+  "placement_preference_cards": [
+    {
+      "unique_card_id": "example_noise",
+      "cost": 0,
+      "tags": [
+        "example_noise"
+      ],
+      "placement_preference": "noise",
+      "amplitude": 0.2,
+      "scale": 0.02
+    },
+    {
+      "unique_card_id": "example_circle_sine_wave",
+      "cost": 0,
+      "tags": [
+        "example_circle_sine_wave"
+      ],
+      "placement_preference": "circle_sine_wave",
+      "amplitude": 0.25,
+      "frequency": 5
+    },
+    {
+      "unique_card_id": "example_far_from_water",
+      "cost": 0,
+      "tags": [
+        "example_far_from_water"
+      ],
+      "placement_preference": "far_from_water"
+    },
+    {
+      "unique_card_id": "example_close_to_water",
+      "cost": 0,
+      "tags": [
+        "example_close_to_water"
+      ],
+      "placement_preference": "close_to_water"
+    },
+    {
+      "unique_card_id": "example_close_to_pig_tower",
+      "cost": 0,
+      "tags": [
+        "example_close_to_pig_tower"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "pigTower"
+    },
+    {
+      "unique_card_id": "example_far_from_pig_tower",
+      "cost": 0,
+      "tags": [
+        "example_far_from_pig_tower"
+      ],
+      "placement_preference": "far_from_buildable",
+      "buildable": "pigTower"
+    },
+    {
+      "unique_card_id": "example_close_to_pig_gate",
+      "cost": 0,
+      "tags": [
+        "example_close_to_pig_gate"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "pigGate"
+    },
+    {
+      "unique_card_id": "example_far_from_pig_gate",
+      "cost": 0,
+      "tags": [
+        "example_far_from_pig_gate"
+      ],
+      "placement_preference": "far_from_buildable",
+      "buildable": "pigGate"
+    },
+    {
+      "unique_card_id": "example_close_to_all_buildables",
+      "cost": 0,
+      "tags": [
+        "example_close_to_all_buildables"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "buildable"
+    },
+    {
+      "unique_card_id": "example_far_from_all_buildables",
+      "cost": 0,
+      "tags": [
+        "example_far_from_all_buildables"
+      ],
+      "placement_preference": "far_from_all_buildables",
+      "buildable": "buildable"
+    },
+    {
+      "unique_card_id": "example_build_from_district_path",
+      "cost": 0,
+      "tags": [
+        "example_build_from_district_path"
+      ],
+      "placement_preference": "build_from_district_path"
+    },
+    {
+      "unique_card_id": "example_facing_water",
+      "cost": 0,
+      "tags": [
+        "example_facing_water"
+      ],
+      "placement_preference": "facing_water"
+    },
+    {
+      "unique_card_id": "example_facing_buildables",
+      "cost": 0,
+      "tags": [
+        "example_facing_buildables"
+      ],
+      "placement_preference": "facing_buildable",
+      "buildable": "fountain"
+    },
+    {
+      "unique_card_id": "facingNorth",
+      "cost": 0,
+      "tags": [
+        "facingNorth"
+      ],
+      "placement_preference": "facing_cardinal_direction",
+      "cardinal_direction": "north"
+    },
+    {
+      "unique_card_id": "elevationTargetMax",
+      "cost": 0,
+      "tags": [
+        "elevationTargetMax"
+      ],
+      "placement_preference": "elevation_range",
+      "elevation_target": 1
+    },
+    {
+      "unique_card_id": "elevationRangeLow",
+      "cost": 0,
+      "tags": [
+        "elevationRangeLow"
+      ],
+      "placement_preference": "elevation_range",
+      "elevation_target": 0.1,
+      "elevation_max": 0.4,
+      "elevation_min": 0
+    },
+    {
+      "unique_card_id": "example_across_path",
+      "cost": 0,
+      "tags": [
+        "example_across_path"
+      ],
+      "placement_preference": "across_path"
+    },
+    {
+      "unique_card_id": "example_along_path",
+      "cost": 0,
+      "tags": [
+        "example_along_path"
+      ],
+      "placement_preference": "along_path",
+      "offset_from_path": 2
+    },
+    {
+      "unique_card_id": "example_close_to_district_center",
+      "cost": 0,
+      "tags": [
+        "example_close_to_district_center"
+      ],
+      "placement_preference": "close_to_district_center"
+    },
+    {
+      "unique_card_id": "example_far_from_district_center",
+      "cost": 0,
+      "tags": [
+        "example_far_from_district_center"
+      ],
+      "placement_preference": "far_from_district_center"
+    },
+    {
+      "unique_card_id": "example_close_to_district_start",
+      "cost": 0,
+      "tags": [
+        "example_close_to_district_start"
+      ],
+      "placement_preference": "close_to_district_start"
+    },
+    {
+      "unique_card_id": "example_far_from_district_start",
+      "cost": 0,
+      "tags": [
+        "example_far_from_district_start"
+      ],
+      "placement_preference": "far_from_district_start"
+    },
+    {
+      "unique_card_id": "example_distance_district_start",
+      "cost": 0,
+      "tags": [
+        "example_distance_district_start"
+      ],
+      "placement_preference": "distance_from_district_start",
+      "distance_from_district_start": [80, 90],
+      "distance_to_zero_score": [10 , 10]
+    }
+  ],
+  "zone_tag_cards": [
+    {
+      "unique_card_id": "zone_tag_cards_enable_debug_logging",
+      "cost": 0,
+      "tags": [
+        "enable_debug_logging"
+      ],
+      "zone_tag": "enable_debug_logging"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_do_not_weather_zone",
+      "cost": 0,
+      "tags": [
+        "do_not_weather_zone"
+      ],
+      "zone_tag": "do_not_weather_zone"
+    }
+  ],
+  "tag_cards": [
+    {
+      "unique_card_id": "exampleTagCard",
+      "cost": 0,
+      "tags": [
+        "exampleTagCard"
+      ],
+      "tag": "example_tag"
+    }
+  ],
+  "heart_cards": [
+    {
+      "unique_card_id": "heart_cards",
+      "cost": 0,
+      "tags": []
+    }
+  ],
+  "terrain_weathering_cards": [
+    {
+      "unique_card_id": "debugWeathering",
+      "cost": 0,
+      "tags": [
+        "debugWeathering"
+      ]
+    }
+  ],
+  "entity_clearing_cards": [
+    {
+      "unique_card_id": "debugEntityClearing",
+      "cost": 0,
+      "tags": [
+        "debugEntityClearing"
+      ],
+      "entity_include_tag_set": [
+        "animal"
+      ],
+      "entity_exclude_tag_set": []
+    }
+  ],
+  "height_control_cards": [
+    {
+      "cost": 0,
+      "tags": [
+        "debugHeightControl"
+      ],
+      "zone_height_control": "height_control_averaged",
+      "clear_above_raised_zones": false,
+      "maximum_height_change": 0,
+      "minimum_height_change": 0
+    },
+    {
+      "cost": 0,
+      "tags": [
+        "debugHeightControlClearAbove"
+      ],
+      "zone_height_control": "height_control_averaged",
+      "clear_above_raised_zones": true,
+      "maximum_height_change": 0,
+      "minimum_height_change": 0
+    },
+    {
+      "cost": 0,
+      "tags": [
+        "debugHeightControlClearAboveClamped5"
+      ],
+      "zone_height_control": "height_control_averaged",
+      "clear_above_raised_zones": true,
+      "maximum_height_change": 5,
+      "minimum_height_change": 0
+    }
+  ],
+  "stepwise_generation_cards": [
+    {
+      "unique_card_id": "debugStepwiseGeneration",
+      "cost": 0,
+      "tags": [
+        "debugStepwiseGeneration"
+      ]
+    }
+  ]
+}

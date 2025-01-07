@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "enabled": true,
+    "allow_village_overlap": false,
+    "biome_always_takes_priority": true,
+    "attempts_per_square_kilometre": 450,
+    "placement_biome_names": ["jungle_mountains", "jungle_hills"],
+    "place_on_biome": "jungle_hills",
+    "place_on_biome_parent": "jungle",
+    "biome_tag": "jungle",
+    "small_displacement_range": [0, 15],
+    "medium_displacement_range": [0, 25],
+    "large_displacement_range": [0, 35],
+    "huge_scatters_large": [0, 0],
+    "large_scatters_medium": [0, 0],
+    "medium_scatters_small": [0, 0],
+    "small_scatters_small_chance": 0.0,
+    "huge_rate": 0,
+    "large_rate": 5,
+    "medium_rate": 5,
+    "small_rate": 2,
+    "huge_relative_height": [0.3, 0.5],
+    "large_relative_height": [0.8, 1.0],
+    "medium_relative_height": [0.7, 1.0],
+    "small_relative_height": [0.5, 1.0]
+  },
+  "texture_registry": {
+    "texture_key": "jungle_mountains",
+    "huge": [],
+    "large": [
+      "tex_stamp_junglemountain_large_01"
+    ],
+    "medium": [
+      "tex_stamp_junglemountain_med_01"
+    ],
+    "small": [
+      "tex_stamp_junglemountain_sml_01"
+    ],
+    "huge_texture_size": 256,
+    "large_texture_size": 128,
+    "medium_texture_size": 128,
+    "small_texture_size": 128
+  }
+}

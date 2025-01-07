@@ -1,0 +1,47 @@
+{
+   "format_version" : "1.13.0",
+   "minecraft:biome" : {
+      "components" : {
+         "badger:overworld_height" : {
+            "height_params": {
+               "texture_heights": [16, 22],
+               "average_height": 19
+            },
+            "noise_params" : [ -0.50, 0.0 ]
+         },
+         "badger:sub_biomes" : {},
+         "badger:rivers" : {},
+         "badger:visual_biome_attributes" : {
+            "grass" : {
+               "normal" : {
+                  "grass_surface_color" : "#7CB85C"
+               }
+            },
+            "rain" : {
+               "downfall" : 25.0,
+               "lower_limit" : 0.6999999880790710,
+               "rain_to_snow_height" : 200,
+               "rain_to_snow_transition_size" : 5,
+               "snow_to_rain_density_ratio" : 0.75,
+               "upper_limit" : 0.8999999761581421
+            }
+         },
+         "minecraft:surface_parameters" : {
+            "default_surface" : {
+               "mid_material" : "badger:block_dirt",
+               "top_material" : "minecraft:grass"
+            },
+            "foundation_material" : "badger:block_stone",
+            "sea_floor_depth" : 7,
+            "sea_floor_material" : "badger:block_gravel",
+            "sea_material" : "badger:block_water"
+         },
+         "overworld" : {},
+         "river" : {}
+      },
+      "description" : {
+         "identifier" : "brokenlands_river"
+         // "inherits": "brokenlands"
+      }
+   }
+}

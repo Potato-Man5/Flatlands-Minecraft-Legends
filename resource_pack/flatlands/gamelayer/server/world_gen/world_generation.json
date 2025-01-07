@@ -1,0 +1,15 @@
+{
+  "settings": {
+    "image_logging": false,
+    "global_blend_kernel_sigma": 0.75,
+    "global_blend_down_preference_factor": 2.0,
+    "first_world_placement_name": "wellOfFate",
+    "generic_biome_name": "generic",
+    "wetness_spread_levels": 14,
+    "border_restore_max_operations": 50,
+    "max_restart_attempts": 15,
+    "boundary_pad_pixels": 3,
+    "world_scale_custom_setting_string": "world_world_size",
+    "lava_texture_atlas_index": 12
+  }
+}

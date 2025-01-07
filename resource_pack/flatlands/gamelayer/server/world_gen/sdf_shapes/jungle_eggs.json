@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "enabled": false,
+    "unique_shapes_to_generate": 0,
+
+    "point_density": 0,
+
+    "horizontal_radius": 5,
+    "vertical_radius": 5,
+
+    "sink_range":[ 0, 0],
+
+    "noise_freq":1.5,
+    "noise_amp":1.5,
+
+    "noise_scaling": [1,0.4,0.3],
+    "noise_offset_factor": 1000.0,
+
+    "anchor_params": {
+      "short_radius": {
+        "min": 2,
+        "max": 33
+      },
+      "long_radius": {
+        "min": 7,
+        "max": 45
+      },
+      "noise_intensity": {
+        "min": 0.0,
+        "max": 1.0
+      }
+    },
+
+    "surface_blocks": {
+      "blocks": [
+        ["minecraft:grass", 1],
+        ["badger:block_dirt_rock_var01", 1],
+        ["badger:block_dirt_rock_var02", 1],
+        ["badger:block_dirt_rock_var03", 20]
+      ]
+    }
+
+  }
+}

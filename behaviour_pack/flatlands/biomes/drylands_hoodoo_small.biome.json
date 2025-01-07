@@ -1,0 +1,171 @@
+{
+   "format_version" : "1.13.0",
+   "minecraft:biome" : {
+      "components" : {
+         "badger:overworld_height" : {
+            "height_params" : {
+               "texture_heights": [35, 80],
+               "geology_heights": [35, 80],
+               "average_height" : 50
+            },
+            "mark_as_wet_in_geology_layer" : true,
+            "noise_params" : [ 0.120, 0.110 ]
+         },
+         "badger:sub_biomes" : {
+            "borders" : [
+               {
+                  "allowlist" : [
+                     "grasslands",
+                     "fateful_land_campaign",
+                     "fateful_land_pvp",
+                     "fateful_land_border",
+                     "burnt_grass",
+                     "brokenlands_valleys"
+                  ],
+                  "biome" : "burnt_grass",
+                  "width" : 4
+               },
+               {
+                  "allowlist" : [
+                     "forest",
+                     "forest_hills",
+                     "forest_autumn",
+                     "jungle",
+                     "jungle_hills",
+                     "burnt_grass_trees"
+                  ],
+                  "biome" : "burnt_grass_trees",
+                  "width" : 4
+               },
+               {
+                  "allowlist" : [ "wetlands", "burnt_grass_wetlands" ],
+                  "biome" : "burnt_grass_wetlands",
+                  "width" : 4
+               },
+               {
+                  "allowlist" : [ "mountain_parent_valleys", "burnt_grass_hills" ],
+                  "biome" : "burnt_grass_hills",
+                  "width" : 8
+               },
+               {
+                  "allowlist" : [
+                     "frostlands",
+                     "frostlands_hills",
+                     "frostlands_springs",
+                     "frozen_ground"
+                  ],
+                  "biome" : "frozen_ground",
+                  "width" : 8
+               }
+            ]
+         },
+         "badger:visual_biome_attributes" : {
+            "grass" : {
+               "normal" : {
+                  "grass_noise_intensity" : 0.50,
+                  "grass_noise_scale" : 0.50,
+                  "grass_surface_color" : "#7CB85C"
+               },
+               "overlay" : {
+                  "grass_overlay_noise_bias" : 0.0,
+                  "grass_overlay_noise_intensity" : 0.0,
+                  "grass_overlay_noise_scale" : 0.0,
+                  "grass_overlay_surface_color" : "#000000"
+               }
+            },
+            "map" : {
+               "biome_banner" : "map_screen/banners/legend_banner_biome_drylands.png",
+               "biome_display_name" : "drylands",
+               "common_resource_icon" : "/icons/resources/resource_iron.png",
+               "map_color" : "#ae9e93",
+               "map_color_odd" : "#ae9e93",
+               "map_pattern_index" : 3
+            },
+            "particulates" : {
+               "nether_spores" : 0.0,
+               "sparkles" : 0.0
+            },
+            "rain" : {
+               "downfall" : 25.0,
+               "lower_limit" : 0.6999999880790710,
+               "rain_to_snow_height" : 200,
+               "rain_to_snow_transition_size" : 5,
+               "snow_to_rain_density_ratio" : 0.75,
+               "upper_limit" : 0.8999999761581421
+            },
+            "water" : {
+               "water_blur_distance" : 10.0,
+               "water_color_blend_distance" : 2.50,
+               "water_depths_color" : "#DBBC7A",
+               "water_surface_color" : "#A88945",
+               "water_surface_transparency" : 0.2000000029802322
+            }
+         },
+         "decorate_priority" : {},
+         "drylands" : {},
+         "hoodoo" : {},
+         "hot_and_dry" : {},
+         "minecraft:surface_parameters" : {
+            "foundation_material" : "badger:block_riverbed_b",
+            "ordered_surface" : {
+               "stacks" : [
+                  {
+                     "height_range" : [ 0, 999 ],
+                     "layers" : [
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_redsand_a_top" ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_blackrock_a" ]
+                           ],
+                           "depth_range" : [ 2 ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_blackrock_b" ]
+                           ],
+                           "depth_range" : [ 2 ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_blackrock_c", 1 ]
+                           ],
+                           "depth_range" : [ 3 ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_blackrock_a", 1 ]
+                           ],
+                           "depth_range" : [ 2 ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_blackrock_b", 1 ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_blackrock_c" ]
+                           ]
+                        }
+                     ],
+                     "repeat_block_sequence" : true,
+                     "top_down" : true
+                  }
+               ]
+            },
+            "sea_floor_depth" : 7,
+            "sea_floor_material" : "badger:block_riverbed_b",
+            "sea_material" : "badger:block_water"
+         },
+         "monster" : {},
+         "overworld" : {}
+      },
+      "description" : {
+         "identifier" : "drylands_hoodoo_small"
+      }
+   }
+}

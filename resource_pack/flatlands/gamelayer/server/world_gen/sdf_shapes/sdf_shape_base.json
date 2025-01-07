@@ -1,0 +1,6 @@
+{
+  "settings": {
+    "point_scan_radius": 3.0,
+    "point_resolution_decimation": 2
+  }
+}

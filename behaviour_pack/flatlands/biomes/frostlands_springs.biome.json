@@ -1,0 +1,147 @@
+{
+   "format_version": "1.13.0",
+   "minecraft:biome": {
+      "components": {
+         "animal": {},
+         "badger:overworld_height": {
+            "frequency_scale": 5.0,
+            "height_params": {
+               "average_height": 25,
+               "texture_heights": [
+                  16,
+                  22
+               ],
+               "clamp_heights": [
+                  16,
+                  22
+               ],
+               "clamp_scales": [
+                  0,
+                  0.6
+               ]
+            },
+            "noise_params": [
+               -0.10,
+               0.150
+            ]
+         },
+         "badger:rivers": {
+            "river_biome": "frostlands_river"
+         },
+         "badger:sub_biomes": {
+            "borders": [
+               {
+                  "allowlist": [
+                     "grasslands",
+                     "fateful_land_campaign",
+                     "fateful_land_pvp",
+                     "fateful_land_border",
+                     "frosty_grass",
+                     "brokenlands_valleys",
+                     "mountain_parent_valleys",
+                     "mountain_foothills",
+                     "mud_pit",
+                     "mud_pit_border"
+                  ],
+                  "biome": "frosty_grass",
+                  "width": 16
+               },
+               {
+                  "allowlist": [
+                     "forest",
+                     "forest_hills",
+                     "forest_autumn",
+                     "jungle",
+                     "jungle_hills",
+                     "frosty_grass_trees"
+                  ],
+                  "biome": "frosty_grass_trees",
+                  "width": 8
+               },
+               {
+                  "allowlist": [
+                     "wetlands",
+                     "frosty_grass_wetlands"
+                  ],
+                  "biome": "frosty_grass_wetlands",
+                  "width": 8
+               },
+               {
+                  "allowlist": [
+                     "brokenlands",
+                     "brokenlands_sanddune",
+                     "brokenlands_tarpits",
+                     "drylands",
+                     "drylands_enable_hoodoos",
+                     "frozen_ground"
+                  ],
+                  "biome": "frozen_ground",
+                  "width": 8
+               }
+            ]
+         },
+         "badger:visual_biome_attributes": {
+            "grass": {
+               "normal": {
+                  "grass_noise_intensity": 0.50,
+                  "grass_noise_scale": 0.50,
+                  "grass_surface_color": "#7CB85C"
+               },
+               "overlay": {
+                  "grass_overlay_noise_bias": 0.0,
+                  "grass_overlay_noise_intensity": 0.0,
+                  "grass_overlay_noise_scale": 0.0,
+                  "grass_overlay_surface_color": "#000000"
+               }
+            },
+            "map": {
+               "biome_banner": "map_screen/banners/legend_banner_biome_frostlands.png",
+               "biome_display_name": "frostlands",
+               "common_resource_icon": "/icons/resources/resource_diamond.png",
+               "map_color": "#FFFFFF",
+               "map_color_odd": "#FFFFFF",
+               "map_pattern_index": 4
+            },
+            "particulates": {
+               "nether_spores": 0.0,
+               "sparkles": 0.0
+            },
+            "rain": {
+               "downfall": 25.0,
+               "lower_limit": 0.0,
+               "rain_to_snow_height": 10,
+               "rain_to_snow_transition_size": 5,
+               "snow_to_rain_density_ratio": 0.75,
+               "upper_limit": 0.2000000029802322
+            },
+            "water": {
+               "water_blur_distance": 2.0,
+               "water_color_blend_distance": 0.0,
+               "water_depths_color": "#5AC2E9",
+               "water_surface_color": "#02CDFF",
+               "water_surface_transparency": 0.2000000029802322
+            }
+         },
+         "decorate_exclusive": {},
+         "decorate_priority": {},
+         "frostlands": {},
+         "frostlands_springs": {},
+         "icy_cold": {},
+         "minecraft:surface_parameters": {
+            "default_surface": {
+               "mid_material": "badger:block_glacier_02",
+               "top_material": "badger:block_frostsnow"
+            },
+            "foundation_material": "badger:block_blackrock_b",
+            "sea_floor_depth": 4,
+            "sea_floor_material": "badger:block_hotrock_mid_var01",
+            "sea_material": "badger:block_water"
+         },
+         "overworld": {},
+         "springs": {}
+      },
+      "description": {
+         "identifier": "frostlands_springs"
+      }
+   }
+}

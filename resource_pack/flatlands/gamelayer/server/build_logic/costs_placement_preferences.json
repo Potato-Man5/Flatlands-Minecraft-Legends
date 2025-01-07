@@ -1,0 +1,1130 @@
+{
+  "placement_preference_cards": [
+    {
+      "unique_card_id": "placeRandomly",
+      "cost": 0,
+      "tags": [
+        "placeRandomly"
+      ],
+      "placement_preference": "random"
+    },
+    {
+      "unique_card_id": "placeFarFromVillageStart",
+      "cost": 0,
+      "tags": [
+        "placeFarFromVillageStart"
+      ],
+      "placement_preference": "far_from_village_start"
+    },
+    {
+      "unique_card_id": "placeFarFromLavaSprayerTower",
+      "cost": 0,
+      "tags": [
+        "placeFarFromLavaSprayerTower"
+      ],
+      "placement_preference": "far_from_buildable",
+      "buildable": "lavaSprayerTower"
+    },
+    {
+      "unique_card_id": "placeFarFromGoldMine",
+      "cost": 0,
+      "tags": [
+        "placeFarFromGoldMine"
+      ],
+      "placement_preference": "far_from_buildable",
+      "buildable": "pigGoldMine"
+    },
+    {
+      "unique_card_id": "placeFarFromToolPedestal",
+      "cost": 0,
+      "tags": [
+        "placeFarFromToolPedestal"
+      ],
+      "placement_preference": "far_from_buildable",
+      "buildable": "onboarding_tool_pedestal"
+    },
+    {
+      "unique_card_id": "placeFarFromNetherSpreader",
+      "cost": 0,
+      "tags": [
+        "placeFarFromNetherSpreader"
+      ],
+      "placement_preference": "far_from_buildable",
+      "buildable": "pigSpreader"
+    },
+    {
+      "unique_card_id": "placeFarFromPiglinTower",
+      "cost": 0,
+      "tags": [
+        "placeFarFromPiglinTower"
+      ],
+      "placement_preference": "far_from_buildable",
+      "buildable": "pigTower"
+    },
+    {
+      "unique_card_id": "placeFarFromKnockback",
+      "cost": 0,
+      "tags": [
+        "placeFarFromKnockback"
+      ],
+      "placement_preference": "far_from_buildable",
+      "buildable": "pigKnockbackTower"
+    },
+    {
+      "unique_card_id": "placeFarFromPiglinCrystal",
+      "cost": 0,
+      "tags": [
+        "placeFarFromPiglinCrystal"
+      ],
+      "placement_preference": "far_from_buildable",
+      "buildable": "pigCrystal"
+    },
+    {
+      "unique_card_id": "placeFarFromAllyBarracks",
+      "cost": 0,
+      "tags": [
+        "placeFarFromAllyBarracks"
+      ],
+      "placement_preference": "far_from_buildable",
+      "buildable": "spawnerDarkBeaconAllyZombie"
+    },
+    {
+      "unique_card_id": "placeFarFromVindicatorBarracks",
+      "cost": 0,
+      "tags": [
+        "placeFarFromVindicatorBarracks"
+      ],
+      "placement_preference": "far_from_buildable",
+      "buildable": "wofVindicatorSpawner"
+    },
+    {
+      "unique_card_id": "placeCloseToVillageStart",
+      "cost": 0,
+      "tags": [
+        "placeCloseToVillageStart"
+      ],
+      "placement_preference": "close_to_village_start"
+    },
+    {
+      "unique_card_id": "placeCloseToWalls",
+      "cost": 0,
+      "tags": [
+        "placeCloseToWalls"
+      ],
+      "placement_preference": "close_to_walls"
+    },
+    {
+      "unique_card_id": "placeWithoutSpacing",
+      "cost": 0,
+      "tags": [
+        "placeWithoutSpacing"
+      ],
+      "placement_preference": "disable_spacing"
+    },
+    {
+      "unique_card_id": "ignoreZoneFilterForOverlappingZones",
+      "cost": 0,
+      "tags": [
+        "ignoreZoneFilterForOverlappingZones"
+      ],
+      "placement_preference": "ignore_zone_filter_for_overlapping_zones_card"
+    },
+    {
+      "unique_card_id": "connectToPath",
+      "cost": 0,
+      "tags": [
+        "connectToPath"
+      ],
+      "placement_preference": "connect_to_path"
+    },
+    {
+      "unique_card_id": "closeToDistrictStart",
+      "cost": 0,
+      "tags": [
+        "closeToDistrictStart"
+      ],
+      "placement_preference": "close_to_district_start"
+    },
+    {
+      "unique_card_id": "placeOutsideVillage",
+      "cost": 0,
+      "tags": [
+        "placeOutsideVillage"
+      ],
+      "placement_preference": "outside_village"
+    },
+    {
+      "unique_card_id": "clearResourcesInZone",
+      "cost": 0,
+      "tags": [
+        "clearResourcesInZone"
+      ],
+      "placement_preference": "clear_resources_in_zone"
+    },
+    {
+      "unique_card_id": "placeInDirectionEastWithWedgeBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionEastWithWedgeBrush"
+      ],
+      "placement_preference": "wedge_brush",
+      "direction_angle": 0,
+      "wedge_angle": 45
+    },
+    {
+      "unique_card_id": "placeInDirectionWestWithWedgeBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionWestWithWedgeBrush"
+      ],
+      "placement_preference": "wedge_brush",
+      "direction_angle": 180,
+      "wedge_angle": 45
+    },
+    {
+      "unique_card_id": "placeInDirectionNorthWithWedgeBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionNorthWithWedgeBrush"
+      ],
+      "placement_preference": "wedge_brush",
+      "direction_angle": 270,
+      "wedge_angle": 45
+    },
+    {
+      "unique_card_id": "placeInDirectionNorthEastWithWedgeBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionNorthEastWithWedgeBrush"
+      ],
+      "placement_preference": "wedge_brush",
+      "direction_angle": 315,
+      "wedge_angle": 45
+    },
+    {
+      "unique_card_id": "placeInDirectionNorthWestWithWedgeBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionNorthWestWithWedgeBrush"
+      ],
+      "placement_preference": "wedge_brush",
+      "direction_angle": 225,
+      "wedge_angle": 45
+    },
+    {
+      "unique_card_id": "placeInDirectionSouthWithWedgeBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionSouthWithWedgeBrush"
+      ],
+      "placement_preference": "wedge_brush",
+      "direction_angle": 90,
+      "wedge_angle": 45
+    },
+    {
+      "unique_card_id": "placeInDirectionSouthWestWithWedgeBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionSouthWestWithWedgeBrush"
+      ],
+      "placement_preference": "wedge_brush",
+      "direction_angle": 135,
+      "wedge_angle": 45
+    },
+    {
+      "unique_card_id": "placeInDirectionSouthEastWithWedgeBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionSouthEastWithWedgeBrush"
+      ],
+      "placement_preference": "wedge_brush",
+      "direction_angle": 45,
+      "wedge_angle": 45
+    },
+    {
+      "unique_card_id": "placeInDirectionNorthWestWithWedgeBrush45",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionNorthWestWithWedgeBrush45"
+      ],
+      "placement_preference": "wedge_brush",
+      "direction_angle": 225,
+      "wedge_angle": 45
+    },
+    {
+      "unique_card_id": "placeInDirectionSouthEastWithWedgeBrush315",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionSouthEastWithWedgeBrush315"
+      ],
+      "placement_preference": "wedge_brush",
+      "direction_angle": 45,
+      "wedge_angle": 315
+    },
+    {
+      "unique_card_id": "placeInDirectionEastWithRectangleBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionEastWithRectangleBrush"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 0,
+      "rectangle_width": 100
+    },
+    {
+      "unique_card_id": "placeInDirectionEastWithRectangleBrush48",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionEastWithRectangleBrush48"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 0,
+      "rectangle_width": 48
+    },
+    {
+      "unique_card_id": "placeInDirectionEastWithRectangleBrush15",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionEastWithRectangleBrush15"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 0,
+      "rectangle_width": 20
+    },
+    {
+      "unique_card_id": "placeInDirectionWestWithRectangleBrush15",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionWestWithRectangleBrush15"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 180,
+      "rectangle_width": 20
+    },
+    {
+      "unique_card_id": "placeInDirectionNorthWithRectangleBrush15",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionNorthWithRectangleBrush15"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 270,
+      "rectangle_width": 20
+    },
+    {
+      "unique_card_id": "placeInDirectionSouthWithRectangleBrush15",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionSouthWithRectangleBrush15"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 90,
+      "rectangle_width": 20
+    },
+    {
+      "unique_card_id": "placeInDirectionSouthWestWithRectangleBrush15",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionSouthWestWithRectangleBrush15"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 135,
+      "rectangle_width": 20
+    },
+    {
+      "unique_card_id": "placeInDirectionSouthEastWithRectangleBrush15",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionSouthEastWithRectangleBrush15"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 45,
+      "rectangle_width": 20
+    },
+    {
+      "unique_card_id": "placeInDirectionNorthWestWithRectangleBrush15",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionNorthWestWithRectangleBrush15"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 225,
+      "rectangle_width": 20
+    },
+    {
+      "unique_card_id": "placeInDirectionNorthEastWithRectangleBrush15",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionNorthEastWithRectangleBrush15"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 315,
+      "rectangle_width": 20
+    },
+    {
+      "unique_card_id": "placeInDirectionWestWithRectangleBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionWestWithRectangleBrush"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 180,
+      "rectangle_width": 100
+    },
+    {
+      "unique_card_id": "placeInDirectionWestWithRectangleBrushLargeWidth",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionWestWithRectangleBrushLargeWidth"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 180,
+      "rectangle_width": 1000
+    },
+    {
+      "unique_card_id": "placeInDirectionWestWithRectangleBrush48",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionWestWithRectangleBrush48"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 180,
+      "rectangle_width": 48
+    },
+    {
+      "unique_card_id": "placeInDirectionNorthWestWithRectangleBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionNorthWestWithRectangleBrush"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 225,
+      "rectangle_width": 100
+    },
+    {
+      "unique_card_id": "placeInDirectionNorthWithRectangleBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionNorthWithRectangleBrush"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 270,
+      "rectangle_width": 100
+    },
+    {
+      "unique_card_id": "placeInDirectionNorthWithRectangleBrushLargeWidth",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionNorthWithRectangleBrushLargeWidth"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 270,
+      "rectangle_width": 1000
+    },
+    {
+      "unique_card_id": "placeInDirectionNorthEastWithRectangleBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionNorthEastWithRectangleBrush"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 315,
+      "rectangle_width": 100
+    },
+    {
+      "unique_card_id": "placeInDirectionNorthEastWithRectangleBrush335",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionNorthEastWithRectangleBrush335"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 345,
+      "rectangle_width": 100
+    },
+    {
+      "unique_card_id": "placeInDirectionNorthWithRectangleBrush48",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionNorthWithRectangleBrush48"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 270,
+      "rectangle_width": 48
+    },
+    {
+      "unique_card_id": "placeInDirectionNorthEastWithRectangleBrush48",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionNorthEastWithRectangleBrush48"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 315,
+      "rectangle_width": 48
+    },
+    {
+      "unique_card_id": "placeInDirectionSouthWithRectangleBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionSouthWithRectangleBrush"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 90,
+      "rectangle_width": 100
+    },
+    {
+      "unique_card_id": "placeInDirectionSouthWithRectangleBrush48",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionSouthWithRectangleBrush48"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 90,
+      "rectangle_width": 48
+    },
+    {
+      "unique_card_id": "placeInDirectionSouthEastWithRectangleBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionSouthEastWithRectangleBrush"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 45,
+      "rectangle_width": 100
+    },
+    {
+      "unique_card_id": "placeInDirectionSouthWestWithRectangleBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionSouthWestWithRectangleBrush"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 135,
+      "rectangle_width": 100
+    },
+    {
+      "unique_card_id": "placeInDirectionNorthNorthEastWithRectangleBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionNorthNorthEastWithRectangleBrush"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 290,
+      "rectangle_width": 100
+    },
+    {
+      "unique_card_id": "placeInDirectionEastByNorthWithRectangleBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionEastByNorthWithRectangleBrush"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 350,
+      "rectangle_width": 100
+    },
+    {
+      "unique_card_id": "placeInDirectionSouthSouthWestWithRectangleBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionSouthSouthWestWithRectangleBrush"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 110,
+      "rectangle_width": 100
+    },
+    {
+      "unique_card_id": "placeInDirectionWestNorthWestWithRectangleBrush",
+      "cost": 0,
+      "tags": [
+        "placeInDirectionWestNorthWestWithRectangleBrush"
+      ],
+      "placement_preference": "rectangle_brush",
+      "direction_angle": 200,
+      "rectangle_width": 100
+    },
+    {
+      "unique_card_id": "withScoreThresholdSmall",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdSmall"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.3
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint60",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint60"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.6
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint55",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint55"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.55
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint5",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint5"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.5
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint1",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint1"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.1
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint11",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint11"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.11
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint12",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint12"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.12
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint13",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint13"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.13
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint14",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint14"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.14
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint15",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint15"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.15
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint16",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint16"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.16
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint17",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint17"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.17
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint18",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint18"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.18
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint19",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint19"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.19
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint2",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint2"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.2
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint38",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint38"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.38
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint4",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint4"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.4
+    },
+    {
+      "unique_card_id": "withScoreThresholdPoint45",
+      "cost": 0,
+      "tags": [
+        "withScoreThresholdPoint45"
+      ],
+      "placement_preference": "score_threshold",
+      "threshold": 0.45
+    },
+    {
+      "unique_card_id": "closeToWater",
+      "cost": 0,
+      "tags": [
+        "closeToWater"
+      ],
+      "placement_preference": "close_to_water"
+    },
+    {
+      "unique_card_id": "facingWater",
+      "cost": 0,
+      "tags": [
+        "facingWater"
+      ],
+      "placement_preference": "facing_water"
+    },
+    {
+      "unique_card_id": "facingBuildable",
+      "cost": 0,
+      "tags": [
+        "facingBuildable"
+      ],
+      "placement_preference": "facing_buildable",
+      "buildable": "fountain"
+    },
+    {
+      "unique_card_id": "defFacingGoldmine",
+      "cost": 0,
+      "tags": [
+        "defFacingGoldmine"
+      ],
+      "placement_preference": "facing_buildable",
+      "buildable": "goldMine"
+    },
+    {
+      "unique_card_id": "defFacingPortalSmall",
+      "cost": 0,
+      "tags": [
+        "defFacingPortalSmall"
+      ],
+      "placement_preference": "facing_buildable",
+      "buildable": "defendPortalSmall"
+    },
+    {
+      "unique_card_id": "defFacingPortalMedium",
+      "cost": 0,
+      "tags": [
+        "defFacingPortalMedium"
+      ],
+      "placement_preference": "facing_buildable",
+      "buildable": "defendPortalMedium"
+    },
+    {
+      "unique_card_id": "defFacingPortalLarge",
+      "cost": 0,
+      "tags": [
+        "defFacingPortalLarge"
+      ],
+      "placement_preference": "facing_buildable",
+      "buildable": "defendPortalLarge"
+    },
+    {
+      "unique_card_id": "facingSouth",
+      "cost": 0,
+      "tags": [
+        "facingSouth"
+      ],
+      "placement_preference": "facing_cardinal_direction",
+      "cardinal_direction": "south"
+    },
+    {
+      "unique_card_id": "facingEast",
+      "cost": 0,
+      "tags": [
+        "facingEast"
+      ],
+      "placement_preference": "facing_cardinal_direction",
+      "cardinal_direction": "east"
+    },
+    {
+      "unique_card_id": "facingWest",
+      "cost": 0,
+      "tags": [
+        "facingWest"
+      ],
+      "placement_preference": "facing_cardinal_direction",
+      "cardinal_direction": "west"
+    },
+    {
+      "unique_card_id": "closeToGate",
+      "cost": 0,
+      "tags": [
+        "closeToGate"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "pigGate"
+    },
+    {
+      "unique_card_id": "closeToAnyGate",
+      "cost": 0,
+      "tags": [
+        "closeToAnyGate"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "generic_piglin_gate"
+    },
+    {
+      "unique_card_id": "placeCloseToToolPedestal",
+      "cost": 0,
+      "tags": [
+        "placeCloseToToolPedestal"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "onboarding_tool_pedestal"
+    },
+    {
+      "unique_card_id": "placeCloseToDirectingPlatform",
+      "cost": 0,
+      "tags": [
+        "placeCloseToDirectingPlatform"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "onboarding_direct_platform"
+    },
+    {
+      "unique_card_id": "placeCloseToHostStructure",
+      "cost": 0,
+      "tags": [
+        "placeCloseToHostStructure"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "onboarding_host_structure_island"
+    },
+    {
+      "unique_card_id": "placeFarFromGate",
+      "cost": 0,
+      "tags": [
+        "placeFarFromGate"
+      ],
+      "placement_preference": "far_from_buildable",
+      "buildable": "pigGate"
+    },
+    {
+      "unique_card_id": "placeFarFromDirectingPlatform",
+      "cost": 0,
+      "tags": [
+        "placeFarFromDirectingPlatform"
+      ],
+      "placement_preference": "far_from_buildable",
+      "buildable": "onboarding_direct_platform"
+    },
+    {
+      "unique_card_id": "closeToSuperGoldmine",
+      "cost": 0,
+      "tags": [
+        "closeToSuperGoldmine"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "pigSuperGoldMine"
+    },
+    {
+      "unique_card_id": "placeFarFromSuperGoldmine",
+      "cost": 0,
+      "tags": [
+        "placeFarFromSuperGoldmine"
+      ],
+      "placement_preference": "far_from_buildable",
+      "buildable": "pigSuperGoldMine"
+    },
+    {
+      "unique_card_id": "closeToBarracks",
+      "cost": 0,
+      "tags": [
+        "closeToBarracks"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "barracks"
+    },
+    {
+      "unique_card_id": "closeToCage",
+      "cost": 0,
+      "tags": [
+        "closeToCage"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "mobCage"
+    },
+    {
+      "unique_card_id": "farFromCage",
+      "cost": 0,
+      "tags": [
+        "farFromCage"
+      ],
+      "placement_preference": "far_from_buildable",
+      "buildable": "mobCage"
+    },
+    {
+      "unique_card_id": "closeToPigThrower",
+      "cost": 0,
+      "tags": [
+        "closeToPigThrower"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "pigThrowerTower"
+    },
+    {
+      "unique_card_id": "closeToAttackRallypoint",
+      "cost": 0,
+      "tags": [
+        "closeToAttackRallypoint"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "attackRallyPoint"
+    },
+    {
+      "unique_card_id": "closeToNetherspeader",
+      "cost": 0,
+      "tags": [
+        "closeToNetherspeader"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "netherSpreader"
+    },
+    {
+      "unique_card_id": "closeToWorldCenter",
+      "cost": 0,
+      "tags": [
+        "closeToWorldCenter"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "onboarding_world_central_piece"
+    },
+    {
+      "unique_card_id": "closeToRangeExtender",
+      "cost": 0,
+      "tags": [
+        "closeToRangeExtender"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "rangeExtender"
+    },
+    {
+      "unique_card_id": "closeToSuperNetherSpreader",
+      "cost": 0,
+      "tags": [
+        "closeToSuperNetherSpreader"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "superNetherSpreader"
+    },
+    {
+      "unique_card_id": "facingInvasionTarget",
+      "cost": 0,
+      "tags": [
+        "facingInvasionTarget"
+      ],
+      "placement_preference": "facing_invasion_target"
+    },
+    {
+      "unique_card_id": "closeToEnemies",
+      "cost": 0,
+      "tags": [
+        "closeToEnemies"
+      ],
+      "placement_preference": "close_to_influence",
+      "alliance_rule_filter": "enemy"
+    },
+    {
+      "unique_card_id": "farFromEnemies",
+      "cost": 0,
+      "tags": [
+        "farFromEnemies"
+      ],
+      "placement_preference": "far_from_influence",
+      "alliance_rule_filter": "enemy"
+    },
+    {
+      "unique_card_id": "facingEnemies",
+      "cost": 0,
+      "tags": [
+        "facingEnemies"
+      ],
+      "placement_preference": "facing_influence",
+      "alliance_rule_filter": "enemy"
+    },
+    {
+      "unique_card_id": "towardsEnemies",
+      "cost": 0,
+      "tags": [
+        "towardsEnemies"
+      ],
+      "placement_preference": "in_direction_of_influence",
+      "alliance_rule_filter": "enemy",
+      "wedge_angle": 45
+    },
+    {
+      "unique_card_id": "closeToAllies",
+      "cost": 0,
+      "tags": [
+        "closeToAllies"
+      ],
+      "placement_preference": "close_to_influence",
+      "alliance_rule_filter": "friendly"
+    },
+    {
+      "unique_card_id": "farFromAllies",
+      "cost": 0,
+      "tags": [
+        "farFromAllies"
+      ],
+      "placement_preference": "far_from_influence",
+      "alliance_rule_filter": "friendly"
+    },
+    {
+      "unique_card_id": "facingAllies",
+      "cost": 0,
+      "tags": [
+        "facingAllies"
+      ],
+      "placement_preference": "facing_influence",
+      "alliance_rule_filter": "friendly"
+    },
+    {
+      "unique_card_id": "towardsAllies",
+      "cost": 0,
+      "tags": [
+        "towardsAllies"
+      ],
+      "placement_preference": "in_direction_of_influence",
+      "alliance_rule_filter": "friendly",
+      "wedge_angle": 45
+    },
+    {
+      "unique_card_id": "closeToPortal",
+      "cost": 0,
+      "tags": [
+        "closeToPortal"
+      ],
+      "placement_preference": "close_to_buildable",
+      "buildable": "portal_piglin"
+    }
+  ],
+  "zone_filter_cards": [
+    {
+      "unique_card_id": "zone_filter_cards_placeInsideVillageAlways",
+      "cost": 0,
+      "tags": [
+        "placeInsideVillageAlways"
+      ],
+      "zone_filter": "inside_village",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_placeInsideVillageNever",
+      "cost": 0,
+      "tags": [
+        "placeInsideVillageNever"
+      ],
+      "zone_filter": "inside_village",
+      "exclude": true
+    },
+    {
+      "unique_card_id": "zone_filter_cards_final_lava_moat",
+      "cost": 0,
+      "tags": [
+        "final_lava_moat"
+      ],
+      "zone_filter": "final_lava_moat",
+      "exclude": false
+    }
+  ],
+  "zone_tag_cards": [
+    {
+      "unique_card_id": "zone_tag_cards_placeInsideVillageAlwaysZoneTag",
+      "cost": 0,
+      "tags": [
+        "placeInsideVillageAlwaysZoneTag"
+      ],
+      "zone_tag": "inside_village"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_lava_option",
+      "cost": 0,
+      "tags": [
+        "lava_option"
+      ],
+      "zone_tag": "lava_option"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_final_lava_moat",
+      "cost": 0,
+      "tags": [
+        "final_lava_moat"
+      ],
+      "zone_tag": "final_lava_moat"
+    }
+  ],
+  "force_building_placement_cards": [
+    {
+      "unique_card_id": "forceBuildingPlacement",
+      "cost": 0,
+      "tags": [
+        "forceBuildingPlacement"
+      ]
+    }
+  ],
+  "terrain_weathering_cards": [
+    {
+      "unique_card_id": "terrainWeathering",
+      "cost": 0,
+      "tags": [
+        "terrainWeathering"
+      ]
+    }
+  ],
+  "stomp_player_structures_cards": [
+    {
+      "unique_card_id": "stompPlayerStructures",
+      "cost": 0,
+      "tags": [
+        "stompPlayerStructures"
+      ]
+    }
+  ]
+}

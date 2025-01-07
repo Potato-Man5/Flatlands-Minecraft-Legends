@@ -1,0 +1,93 @@
+{
+   "format_version" : "1.13.0",
+   "minecraft:biome" : {
+      "components" : {
+         "badger:overworld_height" : {
+            
+            "height_params" : {
+               "average_height" : 29,
+               "texture_heights": [29, 30]
+            }
+         },
+         "badger:visual_biome_attributes" : {
+            "grass" : {
+               "normal" : {
+                  "grass_noise_intensity" : 0.50,
+                  "grass_noise_scale" : 0.50,
+                  "grass_surface_color" : "#7EC24A"
+               },
+               "overlay" : {
+                  "grass_overlay_noise_bias" : 0.0,
+                  "grass_overlay_noise_intensity" : 0.3000000119209290,
+                  "grass_overlay_noise_scale" : 0.3000000119209290,
+                  "grass_overlay_surface_color" : "#1F750C"
+               }
+            },
+            "map" : {
+               "biome_banner" : "",
+               "biome_display_name" : "burnt_grass",
+               "common_resource_icon" : "",
+               "map_color" : "#9db987",
+               "map_color_odd" : "#9db987",
+               "map_pattern_index" : 5
+            },
+            "particulates" : {
+               "nether_spores" : 0.0,
+               "sparkles" : 0.0
+            },
+            "rain" : {
+               "downfall" : 25.0,
+               "lower_limit" : 0.4000000059604645,
+               "rain_to_snow_height" : 120,
+               "rain_to_snow_transition_size" : 5,
+               "snow_to_rain_density_ratio" : 0.75,
+               "upper_limit" : 1.0
+            },
+            "water" : {
+               "water_blur_distance" : 16.0,
+               "water_color_blend_distance" : 0.0,
+               "water_depths_color" : "#44AFF5",
+               "water_surface_color" : "#44AFF5",
+               "water_surface_transparency" : 0.0
+            }
+         },
+         "minecraft:surface_parameters" : {
+            "foundation_material" : "badger:block_glacier_02",
+            "ordered_surface" : {
+               "stacks" : [
+                  {
+                     "height_range" : [ 0, 999 ],
+                     "layers" : [
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_well_of_fate_path_var03" ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_wof_crystal_blend_01_nobuild" ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_wof_crystal_blend_01_nobuild" ]
+                           ],
+                           "depth_range" : [ 30 ]
+                        }
+                     ],
+                     "top_down" : true
+                  }
+               ]
+            },
+            "sea_floor_depth" : 1,
+            "sea_floor_material" : "badger:block_glacier_02",
+            "sea_material" : "badger:block_water"
+         },
+         "onboarding" : {},
+         "onboarding_paths_prismarine" : {}
+      },
+      "description" : {
+         "identifier" : "onboarding_paths_prismarine"
+      }
+   }
+}

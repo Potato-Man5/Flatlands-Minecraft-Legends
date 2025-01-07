@@ -1,0 +1,254 @@
+{
+   "format_version" : "1.13.0",
+   "minecraft:biome" : {
+      "components" : {
+         "animal" : {},
+         "badger:overworld_height" : {
+            "height_params" : {
+               "average_height" : 35,
+               "geology_heights": [5, 255],
+               "texture_heights": [10, 50]
+            },
+            "noise_params" : [ 0.40, 0.250 ]
+         },
+         "badger:rivers" : {
+            "river_biome" : "mountain_river"
+         },
+         "badger:sub_biomes" : {
+            "borders" : [
+               {
+                  "allowlist" : [
+                     "brokenlands",
+                     "brokenlands_sanddune",
+                     "brokenlands_tarpits",
+                     "drylands",
+                     "drylands_enable_hoodoos",
+                     "burnt_grass_hills"
+                  ],
+                  "biome" : "burnt_grass_hills",
+                  "width" : 16
+               },
+               {
+                  "allowlist" : [
+                     "frostlands",
+                     "frostlands_hills",
+                     "frostlands_springs",
+                     "frosty_grass_hills"
+                  ],
+                  "biome" : "frosty_grass_hills",
+                  "width" : 16
+               },
+               {
+                  "allowlist" : [ "jungle", "jungle_hills", "sparse_jungle_hills" ],
+                  "biome" : "sparse_jungle_hills",
+                  "width" : 8
+               },
+               {
+                  "allowlist" : [ "mountain_peaks", "mountain_foothills" ],
+                  "biome" : "ob_border",
+                  "width" : 16
+               }
+            ]
+         },
+         "badger:visual_biome_attributes" : {
+            "grass" : {
+               "normal" : {
+                  "grass_noise_intensity" : 1.0,
+                  "grass_noise_scale" : 0.50,
+                  "grass_surface_color" : "#7CA023"
+               },
+               "overlay" : {
+                  "grass_overlay_noise_bias" : 0.0,
+                  "grass_overlay_noise_intensity" : 1.0,
+                  "grass_overlay_noise_scale" : 0.8000000119209290,
+                  "grass_overlay_surface_color" : "#A18139"
+               }
+            },
+            "map" : {
+               "biome_banner" : "map_screen/banners/legend_banner_biome_skylands.png",
+               "biome_display_name" : "mountain",
+               "common_resource_icon" : "/icons/resources/resource_diamond.png",
+               "map_color" : "#606060",
+               "map_color_odd" : "#606060",
+               "map_pattern_index" : 7
+            },
+            "particulates" : {
+               "nether_spores" : 0.0,
+               "sparkles" : 0.0
+            },
+            "rain" : {
+               "downfall" : 20.0,
+               "lower_limit" : 0.4000000059604645,
+               "rain_to_snow_height" : 40,
+               "rain_to_snow_transition_size" : 5,
+               "snow_to_rain_density_ratio" : 0.750,
+               "upper_limit" : 0.8000000119209290
+            },
+            "water" : {
+               "water_blur_distance" : 15.0,
+               "water_color_blend_distance" : 0.0,
+               "water_depths_color" : "#44AFF5",
+               "water_surface_color" : "#44AFF5",
+               "water_surface_transparency" : 0.6499999761581421
+            }
+         },
+         "minecraft:surface_parameters" : {
+            "foundation_material" : "badger:block_dirt",
+            "ordered_surface" : {
+               "stacks" : [
+                  {
+                     "height_range" : [ 0, 17 ],
+                     "layers" : [
+                        {
+                           "blocks_weighted" : [
+                              [ "minecraft:grass" ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_dirt_rock_var01" ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_dirt_rock_var02" ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_dirt_rock_var03" ]
+                           ],
+                           "depth_range" : [ 50 ]
+                        }
+                     ],
+                     "top_down" : true
+                  },
+                  {
+                     "height_range" : [ 18, 23 ],
+                     "layers" : [
+                        {
+                           "blocks_weighted" : [
+                              [ "minecraft:grass", 9 ],
+                              [ "block_dirt_snowy", 1 ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_dirt_rock_var01" ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_dirt_rock_var02" ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_dirt_rock_var03" ]
+                           ],
+                           "depth_range" : [ 50 ]
+                        }
+                     ],
+                     "top_down" : true
+                  },
+                  {
+                     "height_range" : [ 24, 31 ],
+                     "layers" : [
+                        {
+                           "blocks_weighted" : [
+                              [ "minecraft:grass", 7 ],
+                              [ "block_dirt_snowy", 3 ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_dirt_rock_var01" ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_dirt_rock_var02" ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_dirt_rock_var03" ]
+                           ],
+                           "depth_range" : [ 50 ]
+                        }
+                     ],
+                     "top_down" : true
+                  },
+                  {
+                     "height_range" : [ 32, 35 ],
+                     "layers" : [
+                        {
+                           "blocks_weighted" : [
+                              [ "minecraft:grass", 5 ],
+                              [ "block_dirt_snowy", 5 ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_dirt_rock_var01" ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_dirt_rock_var02" ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_dirt_rock_var03" ]
+                           ],
+                           "depth_range" : [ 50 ]
+                        }
+                     ],
+                     "top_down" : true
+                  },
+                  {
+                     "height_range" : [ 36, 999 ],
+                     "layers" : [
+                        {
+                           "blocks_weighted" : [
+                              [ "minecraft:grass", 3 ],
+                              [ "badger:block_dirt_snowy", 7 ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_dirt_rock_var01" ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_dirt_rock_var02" ]
+                           ]
+                        },
+                        {
+                           "blocks_weighted" : [
+                              [ "badger:block_dirt_rock_var03" ]
+                           ],
+                           "depth_range" : [ 50 ]
+                        }
+                     ],
+                     "top_down" : true
+                  }
+               ]
+            },
+            "sea_floor_depth" : 4,
+            "sea_floor_material" : "badger:block_dirt",
+            "sea_material" : "badger:block_water"
+         },
+         "monster" : {},
+         "mountain_mid_hills" : {},
+         "mountains" : {},
+         "overworld" :{}
+         
+      },
+      "description" : {
+         "identifier" : "mountain_mid_hills"
+      }
+   }
+}

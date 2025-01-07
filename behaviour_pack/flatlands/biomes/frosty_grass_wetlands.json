@@ -1,0 +1,74 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "frosty_grass_wetlands"
+    },
+    "components": {
+      "badger:rivers": {
+        "river_biome": "frostlands_river"
+      },
+      "badger:visual_biome_attributes": {
+        "map": {
+          "map_color": "#a0e1f5",
+          "map_color_odd": "#a0e1f5",
+          "map_pattern_index": 4,
+          "biome_display_name": "frostlands",
+          "biome_banner": "map_screen/banners/legend_banner_biome_frostlands.png",
+          "common_resource_icon": "/icons/resources/resource_diamond.png"
+        },
+        "water": {
+          "water_surface_color": "#547335",
+          "water_surface_transparency": 0.1,
+          "water_blur_distance": 1,
+          "water_depths_color": "#a7faff"
+        },
+        "rain": {
+            "lower_limit": 0.0,
+            "upper_limit": 0.2,
+            "rain_to_snow_height": 10,
+            "downfall": 25.0,
+            "rain_to_snow_transition_size": 5
+          
+        },
+        "grass": {
+          "normal": {
+            "grass_surface_color": "#a0e1f5",
+            "grass_noise_intensity": 0.5,
+            "grass_noise_scale": 0.5
+          },
+          "overlay": {
+            "grass_overlay_surface_color": "#a0e1f5",
+            "grass_overlay_noise_intensity": 0.0,
+            "grass_overlay_noise_scale": 0.0,
+            "grass_overlay_noise_bias": 0.0
+          }
+        }
+      },
+      "minecraft:surface_parameters": {
+        "sea_floor_depth": 4,
+        "sea_floor_material": "badger:block_dirt",
+        "foundation_material": "badger:block_dirt",
+        "sea_material": "badger:block_water",
+        "default_surface": {
+          "mid_material": "badger:block_dirt",
+          "top_material": "badger:block_frostground_02"
+        }
+      },
+      "badger:overworld_height": {
+        "noise_params": [0.1, 0],
+        "height_params": {
+          "texture_heights": [18, 25],
+          "average_height": 22
+        }
+      },
+      "decorate_priority": {},
+      "animal": {},
+      "monster": {},
+      "overworld": {},
+      "icy_cold": {},
+      "frosty_grass_wetlands": {},
+      "frosty_grass": {}
+    }
+  }
+}

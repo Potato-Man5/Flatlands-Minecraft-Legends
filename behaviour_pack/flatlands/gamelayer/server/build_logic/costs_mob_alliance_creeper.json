@@ -1,0 +1,335 @@
+{
+  "buildable_cards": [
+    {
+      "unique_card_id": "badger_creeperVillageCenter",
+      "cost": 0,
+      "tags": [
+        "creeperVillageCenter"
+      ],
+      "buildable": "badger:mob_alliance_creeper_central_flame"
+    },
+    {
+      "unique_card_id": "badger_creeperMobAllianceHouse01",
+      "cost": 0,
+      "tags": [
+        "creeperMobAllianceHouse01"
+      ],
+      "buildable": "badger:poi_mob_alliance_creeper_home_01"
+    },
+    {
+      "unique_card_id": "badger_creeperMobAllianceHouse02",
+      "cost": 0,
+      "tags": [
+        "creeperMobAllianceHouse02"
+      ],
+      "buildable": "badger:poi_mob_alliance_creeper_home_02"
+    },
+    {
+      "unique_card_id": "badger_creeperMobAllianceHouse03",
+      "cost": 0,
+      "tags": [
+        "creeperMobAllianceHouse03"
+      ],
+      "buildable": "badger:poi_mob_alliance_creeper_home_03"
+    },
+    {
+      "unique_card_id": "badger_creeperMobAllianceDeco01",
+      "cost": 0,
+      "tags": [
+        "creeperMobAllianceDeco01"
+      ],
+      "buildable": "badger:poi_mob_alliance_creeper_deco_01"
+    },
+    {
+      "unique_card_id": "badger_creeperMobAllianceDeco02",
+      "cost": 0,
+      "tags": [
+        "creeperMobAllianceDeco02"
+      ],
+      "buildable": "badger:poi_mob_alliance_creeper_deco_02"
+    }
+  ],
+  "zone_tag_cards": [
+    {
+      "unique_card_id": "zone_tag_cards_creeperCenterDeadZone",
+      "cost": 0,
+      "tags": [
+        "creeperCenterDeadZone"
+      ],
+      "zone_tag": "creeperCenterDeadZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_creeperTotemOnlyZone",
+      "cost": 0,
+      "tags": [
+        "creeperTotemOnlyZone"
+      ],
+      "zone_tag": "creeperTotemOnlyZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_creeperHouseZone",
+      "cost": 0,
+      "tags": [
+        "creeperHouseZone"
+      ],
+      "zone_tag": "creeperHouseZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_creeperDecoZone",
+      "cost": 0,
+      "tags": [
+        "creeperDecoZone"
+      ],
+      "zone_tag": "creeperDecoZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_creeperCageZones",
+      "cost": 0,
+      "tags": [
+        "creeperCageZones"
+      ],
+      "zone_tag": "creeperCageZones"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_creeperCageCloseToCenterZone",
+      "cost": 0,
+      "tags": [
+        "creeperCageCloseToCenterZone"
+      ],
+      "zone_tag": "creeperCageCloseToCenterZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_creeperNorthDistrict",
+      "cost": 0,
+      "tags": [
+        "creeperNorthDistrict"
+      ],
+      "zone_tag": "creeperNorthDistrict"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_creeperSouthDistrict",
+      "cost": 0,
+      "tags": [
+        "creeperSouthDistrict"
+      ],
+      "zone_tag": "creeperSouthDistrict"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_creeperEastDistrict",
+      "cost": 0,
+      "tags": [
+        "creeperEastDistrict"
+      ],
+      "zone_tag": "creeperEastDistrict"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_creeperWestDistrict",
+      "cost": 0,
+      "tags": [
+        "creeperWestDistrict"
+      ],
+      "zone_tag": "creeperWestDistrict"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_creeperNorthDistrictDeco",
+      "cost": 0,
+      "tags": [
+        "creeperNorthDistrictDeco"
+      ],
+      "zone_tag": "creeperNorthDistrictDeco"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_creeperSouthDistrictDeco",
+      "cost": 0,
+      "tags": [
+        "creeperSouthDistrictDeco"
+      ],
+      "zone_tag": "creeperSouthDistrictDeco"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_creeperEastDistrictDeco",
+      "cost": 0,
+      "tags": [
+        "creeperEastDistrictDeco"
+      ],
+      "zone_tag": "creeperEastDistrictDeco"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_creeperWestDistrictDeco",
+      "cost": 0,
+      "tags": [
+        "creeperWestDistrictDeco"
+      ],
+      "zone_tag": "creeperWestDistrictDeco"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_creeperViewpointZone",
+      "cost": 0,
+      "tags": [
+        "creeperViewpointZone"
+      ],
+      "zone_tag": "creeperViewpointZone"
+    }
+  ],
+  "zone_filter_cards": [
+    {
+      "unique_card_id": "zone_filter_cards_creeperCenterDeadZone",
+      "cost": 0,
+      "tags": [
+        "creeperCenterDeadZone"
+      ],
+      "zone_filter": "creeperCenterDeadZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_creeperTotemOnlyZone",
+      "cost": 0,
+      "tags": [
+        "creeperTotemOnlyZone"
+      ],
+      "zone_filter": "creeperTotemOnlyZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_creeperHouseZone",
+      "cost": 0,
+      "tags": [
+        "creeperHouseZone"
+      ],
+      "zone_filter": "creeperHouseZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_creeperDecoZone",
+      "cost": 0,
+      "tags": [
+        "creeperDecoZone"
+      ],
+      "zone_filter": "creeperDecoZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_creeperCageZones",
+      "cost": 0,
+      "tags": [
+        "creeperCageZones"
+      ],
+      "zone_filter": "creeperCageZones",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_creeperViewpointZone",
+      "cost": 0,
+      "tags": [
+        "creeperViewpointZone"
+      ],
+      "zone_filter": "creeperViewpointZone",
+      "exclude": false
+    }
+  ],
+  "district_cards": [
+    {
+      "unique_card_id": "district_cards_creeperNorthDistrict",
+      "cost": 0,
+      "tags": [
+        "creeperNorthDistrict"
+      ],
+      "district": "creeperNorthDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_creeperSouthDistrict",
+      "cost": 0,
+      "tags": [
+        "creeperSouthDistrict"
+      ],
+      "district": "creeperSouthDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_creeperEastDistrict",
+      "cost": 0,
+      "tags": [
+        "creeperEastDistrict"
+      ],
+      "district": "creeperEastDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_creeperWestDistrict",
+      "cost": 0,
+      "tags": [
+        "creeperWestDistrict"
+      ],
+      "district": "creeperWestDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_creeperNorthDistrictDeco",
+      "cost": 0,
+      "tags": [
+        "creeperNorthDistrictDeco"
+      ],
+      "district": "creeperNorthDistrictDeco"
+    },
+    {
+      "unique_card_id": "district_cards_creeperSouthDistrictDeco",
+      "cost": 0,
+      "tags": [
+        "creeperSouthDistrictDeco"
+      ],
+      "district": "creeperSouthDistrictDeco"
+    },
+    {
+      "unique_card_id": "district_cards_creeperEastDistrictDeco",
+      "cost": 0,
+      "tags": [
+        "creeperEastDistrictDeco"
+      ],
+      "district": "creeperEastDistrictDeco"
+    },
+    {
+      "unique_card_id": "district_cards_creeperWestDistrictDeco",
+      "cost": 0,
+      "tags": [
+        "creeperWestDistrictDeco"
+      ],
+      "district": "creeperWestDistrictDeco"
+    }
+  ],
+  "placement_preference_cards": [
+    {
+      "unique_card_id": "creeperconnectToPath",
+      "cost": 0,
+      "tags": [
+        "creeperconnectToPath"
+      ],
+      "placement_preference": "connect_to_path"
+    },
+    {
+      "unique_card_id": "facing_buildables_creeper_center",
+      "cost": 0,
+      "tags": [
+        "facing_buildables_creeper_center"
+      ],
+      "placement_preference": "facing_buildable",
+      "buildable": "mob_alliance_creeper_central_flame"
+    }
+  ],
+  "path_cards": [
+    {
+      "unique_card_id": "creeper_district_path",
+      "cost": 0,
+      "tags": [
+        "creeper_district_path"
+      ],
+      "is_district_path": true
+    }
+  ],
+  "tag_cards": [
+    {
+      "unique_card_id": "creeperInitialOccupationViewpoint",
+      "cost": 0,
+      "tags": [
+        "creeperInitialOccupationViewpoint"
+      ],
+      "tag": "creeperInitialOccupationViewpoint"
+    }
+  ]
+}

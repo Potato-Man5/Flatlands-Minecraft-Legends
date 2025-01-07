@@ -1,0 +1,114 @@
+{
+  // Shared Settings
+
+  // How many sources can update each tick.
+  "spreader_source_update_budget": 10,
+  // How many sources can be suspended each tick.
+  "spreader_source_suspension_budget": 1,
+  // How many child block automata can be suspended each tick.
+  "spreader_suspension_budget": 50,
+  // How many block automata spreader entities can update each tick.
+  "spreader_block_update_budget": 20,
+
+  // Denether Spreader Settings
+
+  // Blocks with these tags can be replaced by the denether spreader. (put block type tags in this list)
+  "block_can_be_replaced_by_denether_spreader_list": [
+    "gatherable_denether"
+  ],
+
+  // The minimum number of seconds before a denether changes a nether block to the replacement block and then spreads to neighboring blocks.
+	"denether_spreader_update_cooldown_time_min": 0.0,
+  // The maximum  number of seconds before a denether changes a nether block to the replacement block and then spreads to neighboring blocks.
+	"denether_spreader_update_cooldown_time_max": 0.3,
+  // The maximum manhattan distance extension from the minimum distance the spread can reach.
+  // The minimum distance is specified in the component definitions of the spreading source entities.
+  "denether_spreader_distance_max_extension": 3,
+  // The random chance of a spreader failing to spread after the minimum distance has been passed and
+  // before the maximum distance has been reached.
+  "denether_spreader_extend_distance_percentage_chance": 20,
+
+  "denether_replacement_biome": "denether",
+  "denether_replacement_block": "block_slag_var01",
+  "denether_block_replacement_map": [
+    {
+      "initial": "block_slab_netherrack",
+      "replacement": "block_slab_slag"
+    },
+    {
+      "initial": "block_netherrack_var01",
+      "replacement": "block_slag"
+    },
+    {
+      "initial": "block_netherrack_var02",
+      "replacement": "block_slag_var02"
+    },
+    {
+      "initial": "block_nylium_var01",
+      "replacement": "block_slag"
+    },
+    {
+      "initial": "block_nylium_var02",
+      "replacement": "block_slag_var02"
+    },        
+    {
+      "initial": "block_nether_wart_warped",
+      "replacement": "block_slag"
+    },
+    {
+      "initial": "block_nether_wart_warped_var02",
+      "replacement": "block_slag_var02"
+    },
+    {
+      "initial": "block_slab_netherrack_var01",
+      "replacement": "block_slab_slag"
+    },
+    {
+      "initial": "block_slab_netherrack_var02",
+      "replacement": "block_slab_slag"
+    },          {
+      "initial": "block_slab_netherrack_var03",
+      "replacement": "block_slab_slag"
+    },
+    {
+      "initial": "block_slab_nylium",
+      "replacement": "block_slab_slag"
+    },
+    {
+      "initial": "block_slab_nylium_var01",
+      "replacement": "block_slab_slag"
+    },
+    {
+      "initial": "block_sheet_netherrack",
+      "replacement": "block_sheet_slag"
+    },
+    {
+      "initial": "block_sheet_netherrack_var01",
+      "replacement": "block_sheet_slag"
+    },
+    {
+      "initial": "block_sheet_netherrack_var02",
+      "replacement": "block_sheet_slag"
+    },
+    {
+      "initial": "block_sheet_netherrack_var03",
+      "replacement": "block_sheet_slag"
+    },
+    {
+      "initial": "block_sheet_netherrack_dried",
+      "replacement": "block_sheet_slag"
+    },
+    {
+      "initial": "block_nylium_grass",
+      "replacement": "block_slag"
+    },
+    {
+      "initial": "block_nylium_grass_var01",
+      "replacement": "block_slag_var02"
+    },
+    {
+      "initial": "block_deco_nether_grass_dried",
+      "replacement": "air"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+   "format_version" : "1.13.0",
+   "minecraft:biome" : {
+      "components" : {
+         "animal" : {},
+         "badger:overworld_height" : {
+            "frequency_scale" : 1.0,
+            "height_params" : {
+               "average_height" : 20,
+               "texture_heights": [21, 24],
+               "clamp_heights": [0, 24],
+               "clamp_scales": [1, 0.6]
+            },
+            "noise_params" : [ 0.150, 0.050 ]
+         },
+         "badger:rivers" : {
+            "river_biome" : "jungle_river"
+         },
+         "badger:sub_biomes" : {
+            "borders" : [
+               {
+                  "allowlist" : [ "grasslands", "burnt_grass" ],
+                  "biome" : "burnt_grass",
+                  "width" : 4
+               },
+               {
+                  "allowlist" : [ "forest", "forest_hills", "burnt_grass_trees" ],
+                  "biome" : "burnt_grass_trees",
+                  "width" : 4
+               },
+               {
+                  "allowlist" : [ "wetlands", "burnt_grass_wetlands" ],
+                  "biome" : "burnt_grass_wetlands",
+                  "width" : 4
+               },
+               {
+                  "allowlist" : [ "mountain_parent_valleys", "burnt_grass_hills" ],
+                  "biome" : "burnt_grass_hills",
+                  "width" : 8
+               },
+               {
+                  "allowlist" : [
+                     "frostlands",
+                     "frostlands_hills",
+                     "frostlands_springs",
+                     "frozen_ground"
+                  ],
+                  "biome" : "frozen_ground",
+                  "width" : 8
+               }
+            ]
+         },
+         "badger:visual_biome_attributes" : {
+            "grass" : {
+               "normal" : {
+                  "grass_noise_intensity" : 1.0,
+                  "grass_noise_scale" : 1.0,
+                  "grass_surface_color" : "#4B9146"
+               },
+               "overlay" : {
+                  "grass_overlay_noise_bias" : 0.0,
+                  "grass_overlay_noise_intensity" : 0.0,
+                  "grass_overlay_noise_scale" : 0.0,
+                  "grass_overlay_surface_color" : "#000000"
+               }
+            },
+            "map" : {
+               "biome_banner" : "map_screen/banners/legend_banner_biome_junglelands.png",
+               "biome_display_name" : "jungle",
+               "common_resource_icon" : "/icons/resources/resource_redstone.png",
+               "map_color" : "#696F59",
+               "map_color_odd" : "#696F59",
+               "map_pattern_index" : 6
+            },
+            "particulates" : {
+               "nether_spores" : 0.0,
+               "sparkles" : 0.0
+            },
+            "rain" : {
+               "downfall" : 50.0,
+               "lower_limit": 1.0,
+               "rain_to_snow_height" : 120,
+               "rain_to_snow_transition_size" : 5,
+               "snow_to_rain_density_ratio" : 0.75,
+               "upper_limit": 1.0
+            },
+            "water" : {
+               "water_blur_distance" : 15.0,
+               "water_color_blend_distance" : 0.0,
+               "water_depths_color" : "#019792",
+               "water_surface_color" : "#013A48",
+               "water_surface_transparency" : 0.6000000238418579
+            }
+         },
+         "decorate_priority" : {},
+         "jungle" : {},
+         "jungle_terraces" : {},
+         "minecraft:surface_parameters" : {
+            "default_surface" : {
+               "mid_material" : "badger:block_jungle_terrace_dirt",
+               "top_material" : "badger:block_jungle_terrace_top"
+            },
+            "foundation_material" : "badger:block_sand_d3",
+            "sea_floor_depth" : 2,
+            "sea_floor_material" : "badger:block_sand",
+            "sea_material" : "badger:block_water"
+         },
+         "monster" : {},
+         "overworld" : {}
+      },
+      "description" : {
+         "identifier" : "jungle_terraces"
+      }
+   }
+}

@@ -1,0 +1,255 @@
+{
+  "buildable_cards": [
+    {
+      "unique_card_id": "badger_skeletonVillageCenter",
+      "cost": 0,
+      "tags": [
+        "skeletonVillageCenter"
+      ],
+      "buildable": "badger:mob_alliance_skeleton_central_flame"
+    },
+    {
+      "unique_card_id": "badger_skeletonMobAllianceHouse",
+      "cost": 0,
+      "tags": [
+        "skeletonMobAllianceHouse"
+      ],
+      "buildable": "badger:mob_alliance_skeleton_house"
+    },
+    {
+      "unique_card_id": "badger_skeletonMobAllianceHouse02",
+      "cost": 0,
+      "tags": [
+        "skeletonMobAllianceHouse02"
+      ],
+      "buildable": "badger:mob_alliance_skeleton_house_02"
+    },
+    {
+      "unique_card_id": "badger_skeletonMobAllianceHouse03",
+      "cost": 0,
+      "tags": [
+        "skeletonMobAllianceHouse03"
+      ],
+      "buildable": "badger:mob_alliance_skeleton_house_03"
+    }
+  ],
+  "zone_tag_cards": [
+    {
+      "unique_card_id": "zone_tag_cards_skeletonCenterDeadZone",
+      "cost": 0,
+      "tags": [
+        "skeletonCenterDeadZone"
+      ],
+      "zone_tag": "skeletonCenterDeadZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_skeletonTotemOnlyZone",
+      "cost": 0,
+      "tags": [
+        "skeletonTotemOnlyZone"
+      ],
+      "zone_tag": "skeletonTotemOnlyZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_skeletonHouseZone",
+      "cost": 0,
+      "tags": [
+        "skeletonHouseZone"
+      ],
+      "zone_tag": "skeletonHouseZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_skeletonDecoZone",
+      "cost": 0,
+      "tags": [
+        "skeletonDecoZone"
+      ],
+      "zone_tag": "skeletonDecoZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_skeletonCageZones",
+      "cost": 0,
+      "tags": [
+        "skeletonCageZones"
+      ],
+      "zone_tag": "skeletonCageZones"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_skeletonCageCloseToCenterZone",
+      "cost": 0,
+      "tags": [
+        "skeletonCageCloseToCenterZone"
+      ],
+      "zone_tag": "skeletonCageCloseToCenterZone"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_skeletonNorthDistrict",
+      "cost": 0,
+      "tags": [
+        "skeletonNorthDistrict"
+      ],
+      "zone_tag": "skeletonNorthDistrict"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_skeletonSouthDistrict",
+      "cost": 0,
+      "tags": [
+        "skeletonSouthDistrict"
+      ],
+      "zone_tag": "skeletonSouthDistrict"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_skeletonEastDistrict",
+      "cost": 0,
+      "tags": [
+        "skeletonEastDistrict"
+      ],
+      "zone_tag": "skeletonEastDistrict"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_skeletonWestDistrict",
+      "cost": 0,
+      "tags": [
+        "skeletonWestDistrict"
+      ],
+      "zone_tag": "skeletonWestDistrict"
+    },
+    {
+      "unique_card_id": "zone_tag_cards_skeletonViewpointZone",
+      "cost": 0,
+      "tags": [
+        "skeletonViewpointZone"
+      ],
+      "zone_tag": "skeletonViewpointZone"
+    }
+  ],
+  "zone_filter_cards": [
+    {
+      "unique_card_id": "zone_filter_cards_skeletonCenterDeadZone",
+      "cost": 0,
+      "tags": [
+        "skeletonCenterDeadZone"
+      ],
+      "zone_filter": "skeletonCenterDeadZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_skeletonTotemOnlyZone",
+      "cost": 0,
+      "tags": [
+        "skeletonTotemOnlyZone"
+      ],
+      "zone_filter": "skeletonTotemOnlyZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_skeletonHouseZone",
+      "cost": 0,
+      "tags": [
+        "skeletonHouseZone"
+      ],
+      "zone_filter": "skeletonHouseZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_skeletonDecoZone",
+      "cost": 0,
+      "tags": [
+        "skeletonDecoZone"
+      ],
+      "zone_filter": "skeletonDecoZone",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_skeletonCageZones",
+      "cost": 0,
+      "tags": [
+        "skeletonCageZones"
+      ],
+      "zone_filter": "skeletonCageZones",
+      "exclude": false
+    },
+    {
+      "unique_card_id": "zone_filter_cards_skeletonViewpointZone",
+      "cost": 0,
+      "tags": [
+        "skeletonViewpointZone"
+      ],
+      "zone_filter": "skeletonViewpointZone",
+      "exclude": false
+    }
+  ],
+  "district_cards": [
+    {
+      "unique_card_id": "district_cards_skeletonNorthDistrict",
+      "cost": 0,
+      "tags": [
+        "skeletonNorthDistrict"
+      ],
+      "district": "skeletonNorthDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_skeletonSouthDistrict",
+      "cost": 0,
+      "tags": [
+        "skeletonSouthDistrict"
+      ],
+      "district": "skeletonSouthDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_skeletonEastDistrict",
+      "cost": 0,
+      "tags": [
+        "skeletonEastDistrict"
+      ],
+      "district": "skeletonEastDistrict"
+    },
+    {
+      "unique_card_id": "district_cards_skeletonWestDistrict",
+      "cost": 0,
+      "tags": [
+        "skeletonWestDistrict"
+      ],
+      "district": "skeletonWestDistrict"
+    }
+  ],
+  "placement_preference_cards": [
+    {
+      "unique_card_id": "skeletonconnectToPath",
+      "cost": 0,
+      "tags": [
+        "skeletonconnectToPath"
+      ],
+      "placement_preference": "connect_to_path"
+    },
+    {
+      "unique_card_id": "facing_buildables_skeleton_center",
+      "cost": 0,
+      "tags": [
+        "facing_buildables_skeleton_center"
+      ],
+      "placement_preference": "facing_buildable",
+      "buildable": "mob_alliance_skeleton_central_flame"
+    }
+  ],
+  "path_cards": [
+    {
+      "unique_card_id": "skeleton_district_path",
+      "cost": 0,
+      "tags": [
+        "skeleton_district_path"
+      ],
+      "is_district_path": true
+    }
+  ],
+  "tag_cards": [
+    {
+      "unique_card_id": "skeletonInitialOccupationViewpoint",
+      "cost": 0,
+      "tags": [
+        "skeletonInitialOccupationViewpoint"
+      ],
+      "tag": "skeletonInitialOccupationViewpoint"
+    }
+  ]
+}

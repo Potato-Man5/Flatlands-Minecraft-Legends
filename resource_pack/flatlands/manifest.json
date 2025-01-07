@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "flatlands",
+        "description": "Turns the world flat.",
+        "uuid": "409ed974-2192-42aa-9876-630fadc22c35",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "55f58d5f-e7dd-4d90-a19e-27d173c09c91",
+            "version": [1, 0, 0]
+        }
+    ]
+}
